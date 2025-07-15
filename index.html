@@ -40,7 +40,7 @@
     border-radius: 0 0 8px 8px;
   }
   .paradas.visible {
-    max-height: 1000px; /* suficiente para desplegar */
+    max-height: 1000px;
   }
   .parada {
     padding: 10px 40px;
@@ -56,99 +56,98 @@
     color: #81c784;
     font-weight: bold;
   }
+  .loading {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 1.2rem;
+    color: #999;
+  }
 </style>
 </head>
 <body>
 
 <h1>Próximos metros - Metro Valencia</h1>
 
-<div id="contenedorLineas"></div>
+<div id="contenedorLineas">
+  <div class="loading">Cargando horarios...</div>
+</div>
 
 <script>
-// Ejemplo mínimo de colores para líneas, se pueden añadir más o generar dinámicamente
 const coloresLineas = {
-  "1": "#e53935",  // rojo
-  "2": "#1e88e5",  // azul
-  "3": "#43a047",  // verde
-  "4": "#fdd835",  // amarillo
-  "5": "#8e24aa",  // morado
-  "6": "#fb8c00",  // naranja
-  "7": "#00acc1",  // cyan
-  "8": "#d81b60",  // rosa
-  "9": "#546e7a"   // gris azulado
+  "1": "#e53935",
+  "2": "#1e88e5",
+  "3": "#43a047",
+  "4": "#fdd835",
+  "5": "#8e24aa",
+  "6": "#fb8c00",
+  "7": "#00acc1",
+  "8": "#d81b60",
+  "9": "#546e7a"
 };
 
-// Función para asignar color si no está en coloresLineas (opcional)
 function getColor(linea) {
   if (coloresLineas[linea]) return coloresLineas[linea];
-  // Si no hay color definido, generar uno random pastel
   const randomHue = Math.floor(Math.random() * 360);
   return `hsl(${randomHue}, 70%, 60%)`;
 }
 
-// Aquí va tu JSON con los datos horarios (o cargarlo con fetch)
-const datos = [
-  {
-    "stop_id": 55,
-    "stop_name": "Empalme",
-    "route_id": "V2-107-44",
-    "route_short_name": 2,
-    "route_long_name": "2 - Torrent Avinguda - Paterna",
-    "next_arrival": "18:31:00"
-  },
-  {
-    "stop_id": 54,
-    "stop_name": "Beniferri",
-    "route_id": "V1-36-20",
-    "route_short_name": 1,
-    "route_long_name": "1 - Seminari - CEU - València Sud",
-    "next_arrival": "18:30:00"
-  },
-  // ... añade todos tus datos aquí ...
-];
+function crearInterfaz(datos) {
+  const contenedor = document.getElementById('contenedorLineas');
+  contenedor.innerHTML = ''; // limpiar loading
 
-// Agrupar datos por línea
-const lineasMap = {};
-datos.forEach(item => {
-  const linea = item.route_short_name.toString();
-  if (!lineasMap[linea]) {
-    lineasMap[linea] = {
-      nombre: item.route_long_name,
-      color: getColor(linea),
-      paradas: []
-    };
-  }
-  lineasMap[linea].paradas.push({
-    stop_name: item.stop_name,
-    next_arrival: item.next_arrival
-  });
-});
-
-const contenedor = document.getElementById('contenedorLineas');
-
-Object.entries(lineasMap).forEach(([linea, info]) => {
-  const btn = document.createElement('button');
-  btn.className = 'linea';
-  btn.style.borderLeftColor = info.color;
-  btn.textContent = `Línea ${linea}: ${info.nombre}`;
-
-  const divParadas = document.createElement('div');
-  divParadas.className = 'paradas';
-
-  info.paradas.forEach(p => {
-    const divP = document.createElement('div');
-    divP.className = 'parada';
-    divP.innerHTML = `<span>${p.stop_name}</span> <span class="hora">${p.next_arrival}</span>`;
-    divParadas.appendChild(divP);
+  // Agrupar por línea
+  const lineasMap = {};
+  datos.forEach(item => {
+    const linea = item.route_short_name.toString();
+    if (!lineasMap[linea]) {
+      lineasMap[linea] = {
+        nombre: item.route_long_name,
+        color: getColor(linea),
+        paradas: []
+      };
+    }
+    lineasMap[linea].paradas.push({
+      stop_name: item.stop_name,
+      next_arrival: item.next_arrival
+    });
   });
 
-  btn.addEventListener('click', () => {
-    divParadas.classList.toggle('visible');
-  });
+  Object.entries(lineasMap).forEach(([linea, info]) => {
+    const btn = document.createElement('button');
+    btn.className = 'linea';
+    btn.style.borderLeftColor = info.color;
+    btn.textContent = `Línea ${linea}: ${info.nombre}`;
 
-  contenedor.appendChild(btn);
-  contenedor.appendChild(divParadas);
-});
+    const divParadas = document.createElement('div');
+    divParadas.className = 'paradas';
+
+    info.paradas.forEach(p => {
+      const divP = document.createElement('div');
+      divP.className = 'parada';
+      divP.innerHTML = `<span>${p.stop_name}</span> <span class="hora">${p.next_arrival}</span>`;
+      divParadas.appendChild(divP);
+    });
+
+    btn.addEventListener('click', () => {
+      divParadas.classList.toggle('visible');
+    });
+
+    contenedor.appendChild(btn);
+    contenedor.appendChild(divParadas);
+  });
+}
+
+// Carga JSON externo
+fetch('horarios.json')
+  .then(res => {
+    if (!res.ok) throw new Error('No se pudo cargar horarios.json');
+    return res.json();
+  })
+  .then(datos => crearInterfaz(datos))
+  .catch(err => {
+    const contenedor = document.getElementById('contenedorLineas');
+    contenedor.innerHTML = `<div class="loading">Error cargando datos: ${err.message}</div>`;
+  });
 </script>
 
 </body>
