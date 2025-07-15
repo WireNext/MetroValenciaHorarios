@@ -4,6 +4,7 @@ import io
 import os
 import pandas as pd
 from datetime import datetime
+import json
 
 def descargar_y_extraer_gtfs(url, carpeta_destino):
     os.makedirs(carpeta_destino, exist_ok=True)
@@ -16,22 +17,24 @@ def descargar_y_extraer_gtfs(url, carpeta_destino):
 
 def proximos_horarios(stops, routes, trips, stop_times, calendar_dates):
     hoy = datetime.today().strftime("%Y%m%d")
-    # Filtrar servicios activos hoy por calendar_dates con exception_type=1 (servicio activo ese día)
-    servicios_hoy = calendar_dates[(calendar_dates['date'] == int(hoy)) & (calendar_dates['exception_type'] == 1)]['service_id'].unique()
+    # Filtrar servicios activos hoy (exception_type=1)
+    servicios_hoy = calendar_dates[
+        (calendar_dates['date'] == int(hoy)) & (calendar_dates['exception_type'] == 1)
+    ]['service_id'].unique()
     
     trips_activos = trips[trips['service_id'].isin(servicios_hoy)]
 
-    # Para cada parada, obtener los próximos metros que pasen hoy
     horarios = []
 
     for stop_id in stops['stop_id'].unique():
-        # Filtrar paradas en stop_times para esta parada y trips activos
-        tiempos = stop_times[(stop_times['stop_id'] == stop_id) & (stop_times['trip_id'].isin(trips_activos['trip_id']))]
+        tiempos = stop_times[
+            (stop_times['stop_id'] == stop_id) & 
+            (stop_times['trip_id'].isin(trips_activos['trip_id']))
+        ]
 
         if tiempos.empty:
             continue
         
-        # Ordenar por hora de llegada y filtrar solo próximos horarios respecto a la hora actual
         ahora = datetime.now().strftime("%H:%M:%S")
         tiempos = tiempos.sort_values(by='arrival_time')
         tiempos_proximos = tiempos[tiempos['arrival_time'] >= ahora]
@@ -41,7 +44,6 @@ def proximos_horarios(stops, routes, trips, stop_times, calendar_dates):
 
         proximo = tiempos_proximos.iloc[0]
 
-        # Obtener info de línea
         trip = trips[trips['trip_id'] == proximo['trip_id']].iloc[0]
         route = routes[routes['route_id'] == trip['route_id']].iloc[0]
 
@@ -70,8 +72,14 @@ def main():
 
     horarios = proximos_horarios(stops, routes, trips, stop_times, calendar_dates)
 
-    # Mostrar resultados
-    for h in horarios:
+    # Guardar a JSON
+    with open("horarios.json", "w", encoding="utf-8") as f:
+        json.dump(horarios, f, ensure_ascii=False, indent=2)
+    
+    print(f"Se han guardado {len(horarios)} próximos horarios en 'horarios.json'.")
+
+    # Mostrar un poco en consola
+    for h in horarios[:10]:  # solo primeros 10 para no saturar
         print(f"Línea {h['route_short_name']} en parada {h['stop_name']} pasa a las {h['next_arrival']}")
 
 if __name__ == "__main__":
