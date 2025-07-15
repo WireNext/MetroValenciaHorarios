@@ -53,6 +53,7 @@ def proximos_horarios(stops, routes, trips, stop_times, calendar_dates):
             'route_id': route['route_id'],
             'route_short_name': route.get('route_short_name', ''),
             'route_long_name': route.get('route_long_name', ''),
+            'direction_name': trip.get('trip_headsign', 'Sin destino'),  # <-- aquí usamos trip_headsign
             'next_arrival': proximo['arrival_time']
         })
 
