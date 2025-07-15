@@ -7,13 +7,14 @@
 <style>
   body {
     background-color: #121212;
-    color: #e0e0e0;
+    color: white;
     font-family: Arial, sans-serif;
     margin: 20px;
   }
   h1 {
     text-align: center;
     margin-bottom: 1rem;
+    color: white;
   }
   .linea {
     cursor: pointer;
@@ -27,20 +28,23 @@
     font-size: 1.2rem;
     border-left: 8px solid;
     transition: background-color 0.3s ease;
+    color: white;
   }
   .linea:hover {
     background-color: #333333;
   }
   .paradas {
     max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.3s ease;
+    overflow-y: hidden;
+    transition: max-height 0.4s ease;
     background-color: #222222;
     margin-bottom: 10px;
     border-radius: 0 0 8px 8px;
+    color: white;
   }
   .paradas.visible {
-    max-height: 1000px;
+    max-height: 300px; /* Altura máxima visible con scroll */
+    overflow-y: auto;
   }
   .parada {
     padding: 10px 40px;
@@ -48,6 +52,7 @@
     font-size: 1rem;
     display: flex;
     justify-content: space-between;
+    color: white;
   }
   .parada:last-child {
     border-bottom: none;
@@ -61,6 +66,14 @@
     margin-top: 50px;
     font-size: 1.2rem;
     color: #999;
+  }
+  /* Scrollbar para desplegable (opcional) */
+  .paradas.visible::-webkit-scrollbar {
+    width: 8px;
+  }
+  .paradas.visible::-webkit-scrollbar-thumb {
+    background-color: #555;
+    border-radius: 4px;
   }
 </style>
 </head>
