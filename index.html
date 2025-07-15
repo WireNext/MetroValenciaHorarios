@@ -1,43 +1,47 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Horarios Metro Valencia</title>
-  <style>
-    body {
-      background-color: #121212;
-      color: white;
-      font-family: Arial, sans-serif;
-      padding: 20px;
-    }
-    details {
-      margin-bottom: 10px;
-      border: 1px solid #444;
-      border-radius: 5px;
-      padding: 8px;
-      background-color: #222;
-    }
-    summary {
-      cursor: pointer;
-      font-weight: bold;
-      color: #f39c12; /* naranja */
-      user-select: none;
-    }
-    .linea > summary {
-      font-size: 1.2em;
-    }
-    .sentido > summary {
-      font-size: 1em;
-      margin-left: 15px;
-    }
-    p {
-      margin-left: 30px;
-      margin-top: 5px;
-      white-space: nowrap;
-      overflow-x: auto;
-    }
-  </style>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Horarios Metro Valencia</title>
+<style>
+  body {
+    background-color: #121212;
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  details {
+    margin-bottom: 12px;
+    border: 1px solid #333;
+    border-radius: 6px;
+    background-color: #1e1e1e;
+    padding: 10px 14px;
+  }
+  summary {
+    cursor: pointer;
+    font-weight: bold;
+    color: #f39c12;
+    user-select: none;
+    font-size: 1.3em;
+  }
+  details details {
+    margin-top: 8px;
+    padding-left: 18px;
+  }
+  details details > summary {
+    font-size: 1.1em;
+    color: #e67e22;
+  }
+  p {
+    margin-left: 24px;
+    margin-top: 6px;
+    font-size: 0.95em;
+    white-space: nowrap;
+    overflow-x: auto;
+    scrollbar-width: thin;
+  }
+</style>
 </head>
 <body>
   <h1>Horarios Metro Valencia</h1>
@@ -50,11 +54,13 @@
         if (!resp.ok) throw new Error("No se pudo cargar el JSON");
         const data = await resp.json();
 
-        // Agrupar por línea y sentido (direction_name)
+        // Agrupar por línea y sentido, descartando datos sin sentido definido
         const lineas = {};
         data.forEach(item => {
           const linea = item.route_short_name.toString();
-          const sentido = item.direction_name || "Sin destino";
+          const sentido = item.direction_name?.trim();
+          if (!sentido) return; // saltamos si no tiene sentido (no mostrar "Sin destino")
+
           if (!lineas[linea]) lineas[linea] = {};
           if (!lineas[linea][sentido]) lineas[linea][sentido] = [];
           lineas[linea][sentido].push(item);
@@ -63,7 +69,7 @@
         const container = document.getElementById('container');
         container.innerHTML = '';
 
-        for (const [lineaKey, sentidos] of Object.entries(lineas)) {
+        Object.entries(lineas).sort((a,b) => Number(a[0]) - Number(b[0])).forEach(([lineaKey, sentidos]) => {
           const divLinea = document.createElement('details');
           divLinea.className = 'linea';
 
@@ -71,7 +77,7 @@
           summaryLinea.textContent = `Línea ${lineaKey}`;
           divLinea.appendChild(summaryLinea);
 
-          for (const [sentidoKey, paradas] of Object.entries(sentidos)) {
+          Object.entries(sentidos).forEach(([sentidoKey, paradas]) => {
             const divSentido = document.createElement('details');
             divSentido.className = 'sentido';
 
@@ -86,9 +92,13 @@
             });
 
             divLinea.appendChild(divSentido);
-          }
+          });
 
           container.appendChild(divLinea);
+        });
+
+        if (Object.keys(lineas).length === 0) {
+          container.textContent = 'No se encontraron horarios con sentido definido.';
         }
       } catch (error) {
         document.getElementById('container').textContent = 'Error cargando horarios: ' + error.message;
