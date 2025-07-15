@@ -18,7 +18,7 @@ def descarga_y_lee_gtfs():
         pd.read_csv(fs["routes.txt"]),
         pd.read_csv(fs["trips.txt"]),
         pd.read_csv(fs["stop_times.txt"]),
-        pd.read_csv(fs["calendar.txt"]),
+        pd.read_csv(fs["calendar_dates.txt"]),
     )
 
 def proximos_horarios(stops, routes, trips, stop_times, calendar):
