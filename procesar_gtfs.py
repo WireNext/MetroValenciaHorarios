@@ -58,6 +58,13 @@ def proximos_horarios(stops, routes, trips, stop_times, calendar_dates):
 
     return horarios
 
+def convertir_a_serializable(obj):
+    if isinstance(obj, (pd.Timestamp,)):
+        return obj.isoformat()
+    if hasattr(obj, 'item'):  # para numpy.int64, numpy.float64, etc.
+        return obj.item()
+    return obj
+
 def main():
     url_gtfs = "http://www.metrovalencia.es/google_transit_feed/google_transit.zip"
     carpeta_gtfs = "./gtfs_metrovalencia/"
@@ -72,10 +79,14 @@ def main():
 
     horarios = proximos_horarios(stops, routes, trips, stop_times, calendar_dates)
 
-    # Guardar a JSON
+    horarios_serializable = [
+        {k: convertir_a_serializable(v) for k, v in h.items()}
+        for h in horarios
+    ]
+
     with open("horarios.json", "w", encoding="utf-8") as f:
-        json.dump(horarios, f, ensure_ascii=False, indent=2)
-    
+        json.dump(horarios_serializable, f, ensure_ascii=False, indent=2)
+
     print(f"Se han guardado {len(horarios)} próximos horarios en 'horarios.json'.")
 
     # Mostrar un poco en consola
