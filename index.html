@@ -1,167 +1,101 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Horarios Metro Valencia</title>
-<style>
-  body {
-    background-color: #121212;
-    color: white;
-    font-family: Arial, sans-serif;
-    margin: 20px;
-  }
-  h1 {
-    text-align: center;
-    margin-bottom: 1rem;
-    color: white;
-  }
-  .linea {
-    cursor: pointer;
-    background-color: #1f1f1f;
-    border: none;
-    outline: none;
-    width: 100%;
-    text-align: left;
-    padding: 12px 20px;
-    margin-bottom: 5px;
-    font-size: 1.2rem;
-    border-left: 8px solid;
-    transition: background-color 0.3s ease;
-    color: white;
-  }
-  .linea:hover {
-    background-color: #333333;
-  }
-  .paradas {
-    max-height: 0;
-    overflow-y: hidden;
-    transition: max-height 0.4s ease;
-    background-color: #222222;
-    margin-bottom: 10px;
-    border-radius: 0 0 8px 8px;
-    color: white;
-  }
-  .paradas.visible {
-    max-height: 300px; /* Altura máxima visible con scroll */
-    overflow-y: auto;
-  }
-  .parada {
-    padding: 10px 40px;
-    border-bottom: 1px solid #333;
-    font-size: 1rem;
-    display: flex;
-    justify-content: space-between;
-    color: white;
-  }
-  .parada:last-child {
-    border-bottom: none;
-  }
-  .hora {
-    color: #81c784;
-    font-weight: bold;
-  }
-  .loading {
-    text-align: center;
-    margin-top: 50px;
-    font-size: 1.2rem;
-    color: #999;
-  }
-  /* Scrollbar para desplegable (opcional) */
-  .paradas.visible::-webkit-scrollbar {
-    width: 8px;
-  }
-  .paradas.visible::-webkit-scrollbar-thumb {
-    background-color: #555;
-    border-radius: 4px;
-  }
-</style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Horarios Metro Valencia</title>
+  <style>
+    body {
+      background-color: #121212;
+      color: white;
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    details {
+      margin-bottom: 10px;
+      border: 1px solid #444;
+      border-radius: 5px;
+      padding: 8px;
+      background-color: #222;
+    }
+    summary {
+      cursor: pointer;
+      font-weight: bold;
+      color: #f39c12; /* naranja */
+      user-select: none;
+    }
+    .linea > summary {
+      font-size: 1.2em;
+    }
+    .sentido > summary {
+      font-size: 1em;
+      margin-left: 15px;
+    }
+    p {
+      margin-left: 30px;
+      margin-top: 5px;
+      white-space: nowrap;
+      overflow-x: auto;
+    }
+  </style>
 </head>
 <body>
+  <h1>Horarios Metro Valencia</h1>
+  <div id="container">Cargando horarios...</div>
 
-<h1>Próximos metros - Metro Valencia</h1>
+  <script>
+    async function cargarHorarios() {
+      try {
+        const resp = await fetch('horarios.json');
+        if (!resp.ok) throw new Error("No se pudo cargar el JSON");
+        const data = await resp.json();
 
-<div id="contenedorLineas">
-  <div class="loading">Cargando horarios...</div>
-</div>
+        // Agrupar por línea y sentido (direction_name)
+        const lineas = {};
+        data.forEach(item => {
+          const linea = item.route_short_name.toString();
+          const sentido = item.direction_name || "Sin destino";
+          if (!lineas[linea]) lineas[linea] = {};
+          if (!lineas[linea][sentido]) lineas[linea][sentido] = [];
+          lineas[linea][sentido].push(item);
+        });
 
-<script>
-const coloresLineas = {
-  "1": "#e53935",
-  "2": "#1e88e5",
-  "3": "#43a047",
-  "4": "#fdd835",
-  "5": "#8e24aa",
-  "6": "#fb8c00",
-  "7": "#00acc1",
-  "8": "#d81b60",
-  "9": "#546e7a"
-};
+        const container = document.getElementById('container');
+        container.innerHTML = '';
 
-function getColor(linea) {
-  if (coloresLineas[linea]) return coloresLineas[linea];
-  const randomHue = Math.floor(Math.random() * 360);
-  return `hsl(${randomHue}, 70%, 60%)`;
-}
+        for (const [lineaKey, sentidos] of Object.entries(lineas)) {
+          const divLinea = document.createElement('details');
+          divLinea.className = 'linea';
 
-function crearInterfaz(datos) {
-  const contenedor = document.getElementById('contenedorLineas');
-  contenedor.innerHTML = ''; // limpiar loading
+          const summaryLinea = document.createElement('summary');
+          summaryLinea.textContent = `Línea ${lineaKey}`;
+          divLinea.appendChild(summaryLinea);
 
-  // Agrupar por línea
-  const lineasMap = {};
-  datos.forEach(item => {
-    const linea = item.route_short_name.toString();
-    if (!lineasMap[linea]) {
-      lineasMap[linea] = {
-        nombre: item.route_long_name,
-        color: getColor(linea),
-        paradas: []
-      };
+          for (const [sentidoKey, paradas] of Object.entries(sentidos)) {
+            const divSentido = document.createElement('details');
+            divSentido.className = 'sentido';
+
+            const summarySentido = document.createElement('summary');
+            summarySentido.textContent = sentidoKey;
+            divSentido.appendChild(summarySentido);
+
+            paradas.forEach(parada => {
+              const p = document.createElement('p');
+              p.textContent = `${parada.stop_name} - Próximo metro: ${parada.next_arrival}`;
+              divSentido.appendChild(p);
+            });
+
+            divLinea.appendChild(divSentido);
+          }
+
+          container.appendChild(divLinea);
+        }
+      } catch (error) {
+        document.getElementById('container').textContent = 'Error cargando horarios: ' + error.message;
+      }
     }
-    lineasMap[linea].paradas.push({
-      stop_name: item.stop_name,
-      next_arrival: item.next_arrival
-    });
-  });
 
-  Object.entries(lineasMap).forEach(([linea, info]) => {
-    const btn = document.createElement('button');
-    btn.className = 'linea';
-    btn.style.borderLeftColor = info.color;
-    btn.textContent = `Línea ${linea}: ${info.nombre}`;
-
-    const divParadas = document.createElement('div');
-    divParadas.className = 'paradas';
-
-    info.paradas.forEach(p => {
-      const divP = document.createElement('div');
-      divP.className = 'parada';
-      divP.innerHTML = `<span>${p.stop_name}</span> <span class="hora">${p.next_arrival}</span>`;
-      divParadas.appendChild(divP);
-    });
-
-    btn.addEventListener('click', () => {
-      divParadas.classList.toggle('visible');
-    });
-
-    contenedor.appendChild(btn);
-    contenedor.appendChild(divParadas);
-  });
-}
-
-// Carga JSON externo
-fetch('horarios.json')
-  .then(res => {
-    if (!res.ok) throw new Error('No se pudo cargar horarios.json');
-    return res.json();
-  })
-  .then(datos => crearInterfaz(datos))
-  .catch(err => {
-    const contenedor = document.getElementById('contenedorLineas');
-    contenedor.innerHTML = `<div class="loading">Error cargando datos: ${err.message}</div>`;
-  });
-</script>
-
+    cargarHorarios();
+  </script>
 </body>
 </html>
