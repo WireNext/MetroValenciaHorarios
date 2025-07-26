@@ -2,128 +2,128 @@
   {
     "stop_id": 55,
     "stop_name": "Empalme",
-    "route_id": "V4-98-102",
-    "route_short_name": 4,
-    "route_long_name": "4 - Dr. Lluch - Vicent Andrés Estellés",
-    "direction_name": "Dr. Lluch",
-    "next_arrival": "12:53:00"
+    "route_id": "V1-17-36",
+    "route_short_name": 1,
+    "route_long_name": "1 - Torrent - Seminari - CEU",
+    "direction_name": "Seminari - CEU",
+    "next_arrival": "13:30:00"
   },
   {
     "stop_id": 54,
     "stop_name": "Beniferri",
-    "route_id": "V2-107-44",
+    "route_id": "V2-54-107",
     "route_short_name": 2,
-    "route_long_name": "2 - Torrent Avinguda - Paterna",
-    "direction_name": "Paterna",
-    "next_arrival": "12:58:00"
+    "route_long_name": "2 - Llíria - Torrent Avinguda",
+    "direction_name": "Torrent Avinguda",
+    "next_arrival": "13:29:00"
   },
   {
     "stop_id": 53,
     "stop_name": "Campanar",
-    "route_id": "V2-107-44",
+    "route_id": "V2-54-107",
     "route_short_name": 2,
-    "route_long_name": "2 - Torrent Avinguda - Paterna",
-    "direction_name": "Paterna",
-    "next_arrival": "12:56:00"
+    "route_long_name": "2 - Llíria - Torrent Avinguda",
+    "direction_name": "Torrent Avinguda",
+    "next_arrival": "13:31:00"
   },
   {
     "stop_id": 52,
     "stop_name": "Túria",
-    "route_id": "V2-107-44",
+    "route_id": "V2-54-107",
     "route_short_name": 2,
-    "route_long_name": "2 - Torrent Avinguda - Paterna",
-    "direction_name": "Paterna",
-    "next_arrival": "12:55:00"
+    "route_long_name": "2 - Llíria - Torrent Avinguda",
+    "direction_name": "Torrent Avinguda",
+    "next_arrival": "13:32:00"
   },
   {
     "stop_id": 17,
     "stop_name": "Àngel Guimerà",
-    "route_id": "V2-107-44",
-    "route_short_name": 2,
-    "route_long_name": "2 - Torrent Avinguda - Paterna",
-    "direction_name": "Paterna",
-    "next_arrival": "12:53:00"
+    "route_id": "V5-120-182",
+    "route_short_name": 5,
+    "route_long_name": "5 - Aragó - Aeroport",
+    "direction_name": "Aeroport",
+    "next_arrival": "13:32:00"
   },
   {
     "stop_id": 51,
     "stop_name": "Pl. Espanya",
-    "route_id": "V2-54-107",
+    "route_id": "V2-107-44",
     "route_short_name": 2,
-    "route_long_name": "2 - Llíria - Torrent Avinguda",
-    "direction_name": "Torrent Avinguda",
-    "next_arrival": "12:55:00"
+    "route_long_name": "2 - Torrent Avinguda - Paterna",
+    "direction_name": "Paterna",
+    "next_arrival": "13:32:00"
   },
   {
     "stop_id": 25,
     "stop_name": "Jesús",
-    "route_id": "V2-54-107",
+    "route_id": "V2-107-44",
     "route_short_name": 2,
-    "route_long_name": "2 - Llíria - Torrent Avinguda",
-    "direction_name": "Torrent Avinguda",
-    "next_arrival": "12:57:00"
+    "route_long_name": "2 - Torrent Avinguda - Paterna",
+    "direction_name": "Paterna",
+    "next_arrival": "13:30:00"
   },
   {
     "stop_id": 26,
     "stop_name": "Patraix",
-    "route_id": "V1-1-37",
+    "route_id": "V1-37-17",
     "route_short_name": 1,
-    "route_long_name": "1 - Castelló - Masies",
-    "direction_name": "Masies",
-    "next_arrival": "12:58:00"
+    "route_long_name": "1 - Masies - Torrent",
+    "direction_name": "Torrent",
+    "next_arrival": "13:29:00"
   },
   {
     "stop_id": 27,
     "stop_name": "Safranar",
-    "route_id": "V1-1-37",
+    "route_id": "V1-37-17",
     "route_short_name": 1,
-    "route_long_name": "1 - Castelló - Masies",
-    "direction_name": "Masies",
-    "next_arrival": "12:56:00"
+    "route_long_name": "1 - Masies - Torrent",
+    "direction_name": "Torrent",
+    "next_arrival": "13:31:00"
   },
   {
     "stop_id": 28,
     "stop_name": "Sant Isidre",
-    "route_id": "V1-1-37",
+    "route_id": "V1-37-17",
     "route_short_name": 1,
-    "route_long_name": "1 - Castelló - Masies",
-    "direction_name": "Masies",
-    "next_arrival": "12:55:00"
+    "route_long_name": "1 - Masies - Torrent",
+    "direction_name": "Torrent",
+    "next_arrival": "13:32:00"
   },
   {
     "stop_id": 30,
     "stop_name": "València Sud",
-    "route_id": "V1-1-37",
-    "route_short_name": 1,
-    "route_long_name": "1 - Castelló - Masies",
-    "direction_name": "Masies",
-    "next_arrival": "12:53:00"
-  },
-  {
-    "stop_id": 31,
-    "stop_name": "Paiporta",
-    "route_id": "V7-107-120",
-    "route_short_name": 7,
-    "route_long_name": "7 - Torrent Avinguda - Aragó",
-    "direction_name": "Aragó",
-    "next_arrival": "12:54:00"
-  },
-  {
-    "stop_id": 32,
-    "stop_name": "Picanya",
     "route_id": "V7-120-107",
     "route_short_name": 7,
     "route_long_name": "7 - Aragó - Torrent Avinguda",
     "direction_name": "Torrent Avinguda",
-    "next_arrival": "12:54:00"
+    "next_arrival": "13:30:00"
+  },
+  {
+    "stop_id": 31,
+    "stop_name": "Paiporta",
+    "route_id": "V1-1-37",
+    "route_short_name": 1,
+    "route_long_name": "1 - Castelló - Masies",
+    "direction_name": "Masies",
+    "next_arrival": "13:31:00"
+  },
+  {
+    "stop_id": 32,
+    "stop_name": "Picanya",
+    "route_id": "V1-1-37",
+    "route_short_name": 1,
+    "route_long_name": "1 - Castelló - Masies",
+    "direction_name": "Masies",
+    "next_arrival": "13:29:00"
   },
   {
     "stop_id": 33,
     "stop_name": "Torrent",
-    "route_id": "V2-107-54",
-    "route_short_name": 2,
-    "route_long_name": "2 - Torrent Avinguda - Llíria",
-    "direction_name": "Llíria",
-    "next_arrival": "12:56:00"
+    "route_id": "V7-107-120",
+    "route_short_name": 7,
+    "route_long_name": "7 - Torrent Avinguda - Aragó",
+    "direction_name": "Aragó",
+    "next_arrival": "13:29:00"
   },
   {
     "stop_id": 50,
@@ -132,25 +132,25 @@
     "route_short_name": 1,
     "route_long_name": "1 - Castelló - Masies",
     "direction_name": "Masies",
-    "next_arrival": "13:21:00"
+    "next_arrival": "14:01:00"
   },
   {
     "stop_id": 49,
     "stop_name": "Realón",
-    "route_id": "V1-1-37",
+    "route_id": "V1-36-1",
     "route_short_name": 1,
-    "route_long_name": "1 - Castelló - Masies",
-    "direction_name": "Masies",
-    "next_arrival": "13:19:00"
+    "route_long_name": "1 - Seminari - CEU - Castelló",
+    "direction_name": "Castelló",
+    "next_arrival": "13:29:00"
   },
   {
     "stop_id": 48,
     "stop_name": "Sant Ramon",
-    "route_id": "V1-1-37",
+    "route_id": "V1-36-1",
     "route_short_name": 1,
-    "route_long_name": "1 - Castelló - Masies",
-    "direction_name": "Masies",
-    "next_arrival": "13:17:00"
+    "route_long_name": "1 - Seminari - CEU - Castelló",
+    "direction_name": "Castelló",
+    "next_arrival": "13:31:00"
   },
   {
     "stop_id": 47,
@@ -159,7 +159,7 @@
     "route_short_name": 1,
     "route_long_name": "1 - Seminari - CEU - Castelló",
     "direction_name": "Castelló",
-    "next_arrival": "12:55:00"
+    "next_arrival": "13:35:00"
   },
   {
     "stop_id": 46,
@@ -168,7 +168,7 @@
     "route_short_name": 1,
     "route_long_name": "1 - Seminari - CEU - Castelló",
     "direction_name": "Castelló",
-    "next_arrival": "12:57:00"
+    "next_arrival": "13:37:00"
   },
   {
     "stop_id": 45,
@@ -177,7 +177,7 @@
     "route_short_name": 1,
     "route_long_name": "1 - Seminari - CEU - Castelló",
     "direction_name": "Castelló",
-    "next_arrival": "13:00:00"
+    "next_arrival": "13:40:00"
   },
   {
     "stop_id": 44,
@@ -186,7 +186,7 @@
     "route_short_name": 1,
     "route_long_name": "1 - Castelló - Masies",
     "direction_name": "Masies",
-    "next_arrival": "13:04:00"
+    "next_arrival": "13:44:00"
   },
   {
     "stop_id": 43,
@@ -195,7 +195,7 @@
     "route_short_name": 1,
     "route_long_name": "1 - Castelló - Masies",
     "direction_name": "Masies",
-    "next_arrival": "12:59:00"
+    "next_arrival": "13:39:00"
   },
   {
     "stop_id": 42,
@@ -204,16 +204,16 @@
     "route_short_name": 1,
     "route_long_name": "1 - Castelló - Masies",
     "direction_name": "Masies",
-    "next_arrival": "12:55:00"
+    "next_arrival": "13:35:00"
   },
   {
     "stop_id": 41,
     "stop_name": "Carlet",
-    "route_id": "V1-36-1",
+    "route_id": "V1-1-37",
     "route_short_name": 1,
-    "route_long_name": "1 - Seminari - CEU - Castelló",
-    "direction_name": "Castelló",
-    "next_arrival": "13:17:00"
+    "route_long_name": "1 - Castelló - Masies",
+    "direction_name": "Masies",
+    "next_arrival": "13:31:00"
   },
   {
     "stop_id": 40,
@@ -222,7 +222,7 @@
     "route_short_name": 1,
     "route_long_name": "1 - Seminari - CEU - Castelló",
     "direction_name": "Castelló",
-    "next_arrival": "13:20:00"
+    "next_arrival": "14:00:00"
   },
   {
     "stop_id": 39,
@@ -231,7 +231,7 @@
     "route_short_name": 1,
     "route_long_name": "1 - Seminari - CEU - Castelló",
     "direction_name": "Castelló",
-    "next_arrival": "13:24:00"
+    "next_arrival": "14:04:00"
   },
   {
     "stop_id": 38,
@@ -240,16 +240,16 @@
     "route_short_name": 1,
     "route_long_name": "1 - Castelló - Masies",
     "direction_name": "Masies",
-    "next_arrival": "13:22:00"
+    "next_arrival": "14:02:00"
   },
   {
     "stop_id": 37,
     "stop_name": "Massalavés",
-    "route_id": "V1-1-37",
+    "route_id": "V1-36-1",
     "route_short_name": 1,
-    "route_long_name": "1 - Castelló - Masies",
-    "direction_name": "Masies",
-    "next_arrival": "13:18:00"
+    "route_long_name": "1 - Seminari - CEU - Castelló",
+    "direction_name": "Castelló",
+    "next_arrival": "13:30:00"
   },
   {
     "stop_id": 36,
@@ -258,7 +258,7 @@
     "route_short_name": 1,
     "route_long_name": "1 - Seminari - CEU - Castelló",
     "direction_name": "Castelló",
-    "next_arrival": "12:53:00"
+    "next_arrival": "13:33:00"
   },
   {
     "stop_id": 35,
@@ -267,7 +267,7 @@
     "route_short_name": 1,
     "route_long_name": "1 - Seminari - CEU - Castelló",
     "direction_name": "Castelló",
-    "next_arrival": "12:58:00"
+    "next_arrival": "13:38:00"
   },
   {
     "stop_id": 78,
@@ -276,7 +276,7 @@
     "route_short_name": 1,
     "route_long_name": "1 - Torrent - Seminari - CEU",
     "direction_name": "Seminari - CEU",
-    "next_arrival": "13:02:00"
+    "next_arrival": "13:42:00"
   },
   {
     "stop_id": 77,
@@ -285,7 +285,7 @@
     "route_short_name": 1,
     "route_long_name": "1 - Torrent - Seminari - CEU",
     "direction_name": "Seminari - CEU",
-    "next_arrival": "13:01:00"
+    "next_arrival": "13:41:00"
   },
   {
     "stop_id": 76,
@@ -294,25 +294,25 @@
     "route_short_name": 1,
     "route_long_name": "1 - Torrent - Seminari - CEU",
     "direction_name": "Seminari - CEU",
-    "next_arrival": "12:59:00"
+    "next_arrival": "13:39:00"
   },
   {
     "stop_id": 75,
     "stop_name": "Rocafort",
-    "route_id": "V1-17-36",
+    "route_id": "V1-36-1",
     "route_short_name": 1,
-    "route_long_name": "1 - Torrent - Seminari - CEU",
-    "direction_name": "Seminari - CEU",
-    "next_arrival": "12:57:00"
+    "route_long_name": "1 - Seminari - CEU - Castelló",
+    "direction_name": "Castelló",
+    "next_arrival": "13:30:00"
   },
   {
     "stop_id": 74,
     "stop_name": "Godella",
-    "route_id": "V1-17-36",
+    "route_id": "V1-36-1",
     "route_short_name": 1,
-    "route_long_name": "1 - Torrent - Seminari - CEU",
-    "direction_name": "Seminari - CEU",
-    "next_arrival": "12:55:00"
+    "route_long_name": "1 - Seminari - CEU - Castelló",
+    "direction_name": "Castelló",
+    "next_arrival": "13:32:00"
   },
   {
     "stop_id": 73,
@@ -321,16 +321,16 @@
     "route_short_name": 1,
     "route_long_name": "1 - Torrent - Seminari - CEU",
     "direction_name": "Seminari - CEU",
-    "next_arrival": "12:53:00"
+    "next_arrival": "13:33:00"
   },
   {
     "stop_id": 72,
     "stop_name": "Burjassot",
-    "route_id": "V1-36-1",
+    "route_id": "V1-17-36",
     "route_short_name": 1,
-    "route_long_name": "1 - Seminari - CEU - Castelló",
-    "direction_name": "Castelló",
-    "next_arrival": "12:55:00"
+    "route_long_name": "1 - Torrent - Seminari - CEU",
+    "direction_name": "Seminari - CEU",
+    "next_arrival": "13:32:00"
   },
   {
     "stop_id": 79,
@@ -339,7 +339,7 @@
     "route_short_name": 1,
     "route_long_name": "1 - Bétera - Masies",
     "direction_name": "Masies",
-    "next_arrival": "12:58:00"
+    "next_arrival": "13:38:00"
   },
   {
     "stop_id": 107,
@@ -348,7 +348,7 @@
     "route_short_name": 1,
     "route_long_name": "1 - Masies - Bétera",
     "direction_name": "Bétera",
-    "next_arrival": "13:13:00"
+    "next_arrival": "13:53:00"
   },
   {
     "stop_id": 80,
@@ -357,25 +357,25 @@
     "route_short_name": 1,
     "route_long_name": "1 - Masies - Bétera",
     "direction_name": "Bétera",
-    "next_arrival": "13:02:00"
+    "next_arrival": "13:42:00"
   },
   {
     "stop_id": 34,
     "stop_name": "Torrent Avinguda",
-    "route_id": "V2-44-107",
+    "route_id": "V2-107-54",
     "route_short_name": 2,
-    "route_long_name": "2 - Paterna - Torrent Avinguda",
-    "direction_name": "Torrent Avinguda",
-    "next_arrival": "12:56:00"
+    "route_long_name": "2 - Torrent Avinguda - Llíria",
+    "direction_name": "Llíria",
+    "next_arrival": "13:32:00"
   },
   {
     "stop_id": 60,
     "stop_name": "Paterna",
-    "route_id": "V2-44-107",
+    "route_id": "V2-107-54",
     "route_short_name": 2,
-    "route_long_name": "2 - Paterna - Torrent Avinguda",
-    "direction_name": "Torrent Avinguda",
-    "next_arrival": "12:58:00"
+    "route_long_name": "2 - Torrent Avinguda - Llíria",
+    "direction_name": "Llíria",
+    "next_arrival": "13:29:00"
   },
   {
     "stop_id": 59,
@@ -384,7 +384,7 @@
     "route_short_name": 2,
     "route_long_name": "2 - Paterna - Torrent Avinguda",
     "direction_name": "Torrent Avinguda",
-    "next_arrival": "13:00:00"
+    "next_arrival": "13:40:00"
   },
   {
     "stop_id": 58,
@@ -393,7 +393,7 @@
     "route_short_name": 2,
     "route_long_name": "2 - Paterna - Torrent Avinguda",
     "direction_name": "Torrent Avinguda",
-    "next_arrival": "13:02:00"
+    "next_arrival": "13:42:00"
   },
   {
     "stop_id": 57,
@@ -402,7 +402,7 @@
     "route_short_name": 2,
     "route_long_name": "2 - Paterna - Torrent Avinguda",
     "direction_name": "Torrent Avinguda",
-    "next_arrival": "13:03:00"
+    "next_arrival": "13:43:00"
   },
   {
     "stop_id": 56,
@@ -411,7 +411,7 @@
     "route_short_name": 2,
     "route_long_name": "2 - Torrent Avinguda - Paterna",
     "direction_name": "Paterna",
-    "next_arrival": "13:02:00"
+    "next_arrival": "13:42:00"
   },
   {
     "stop_id": 71,
@@ -420,25 +420,25 @@
     "route_short_name": 2,
     "route_long_name": "2 - Torrent Avinguda - Llíria",
     "direction_name": "Llíria",
-    "next_arrival": "13:20:00"
+    "next_arrival": "14:00:00"
   },
   {
     "stop_id": 70,
     "stop_name": "Benaguasil",
-    "route_id": "V2-107-54",
+    "route_id": "V2-54-107",
     "route_short_name": 2,
-    "route_long_name": "2 - Torrent Avinguda - Llíria",
-    "direction_name": "Llíria",
-    "next_arrival": "13:17:00"
+    "route_long_name": "2 - Llíria - Torrent Avinguda",
+    "direction_name": "Torrent Avinguda",
+    "next_arrival": "13:31:00"
   },
   {
     "stop_id": 69,
     "stop_name": "Fondo de Benaguasil",
-    "route_id": "V2-107-54",
+    "route_id": "V2-54-107",
     "route_short_name": 2,
-    "route_long_name": "2 - Torrent Avinguda - Llíria",
-    "direction_name": "Llíria",
-    "next_arrival": "13:15:00"
+    "route_long_name": "2 - Llíria - Torrent Avinguda",
+    "direction_name": "Torrent Avinguda",
+    "next_arrival": "13:32:00"
   },
   {
     "stop_id": 68,
@@ -447,7 +447,7 @@
     "route_short_name": 2,
     "route_long_name": "2 - Llíria - Torrent Avinguda",
     "direction_name": "Torrent Avinguda",
-    "next_arrival": "12:56:00"
+    "next_arrival": "13:36:00"
   },
   {
     "stop_id": 201,
@@ -456,7 +456,7 @@
     "route_short_name": 2,
     "route_long_name": "2 - Llíria - Torrent Avinguda",
     "direction_name": "Torrent Avinguda",
-    "next_arrival": "12:59:00"
+    "next_arrival": "13:39:00"
   },
   {
     "stop_id": 67,
@@ -465,7 +465,7 @@
     "route_short_name": 2,
     "route_long_name": "2 - Llíria - Torrent Avinguda",
     "direction_name": "Torrent Avinguda",
-    "next_arrival": "13:01:00"
+    "next_arrival": "13:41:00"
   },
   {
     "stop_id": 66,
@@ -474,16 +474,16 @@
     "route_short_name": 2,
     "route_long_name": "2 - Llíria - Torrent Avinguda",
     "direction_name": "Torrent Avinguda",
-    "next_arrival": "13:02:00"
+    "next_arrival": "13:42:00"
   },
   {
     "stop_id": 108,
     "stop_name": "El Clot",
-    "route_id": "V2-54-107",
+    "route_id": "V2-107-54",
     "route_short_name": 2,
-    "route_long_name": "2 - Llíria - Torrent Avinguda",
-    "direction_name": "Torrent Avinguda",
-    "next_arrival": "13:04:00"
+    "route_long_name": "2 - Torrent Avinguda - Llíria",
+    "direction_name": "Llíria",
+    "next_arrival": "13:44:00"
   },
   {
     "stop_id": 65,
@@ -492,7 +492,7 @@
     "route_short_name": 2,
     "route_long_name": "2 - Torrent Avinguda - Llíria",
     "direction_name": "Llíria",
-    "next_arrival": "13:02:00"
+    "next_arrival": "13:42:00"
   },
   {
     "stop_id": 64,
@@ -501,7 +501,7 @@
     "route_short_name": 2,
     "route_long_name": "2 - Torrent Avinguda - Llíria",
     "direction_name": "Llíria",
-    "next_arrival": "13:00:00"
+    "next_arrival": "13:40:00"
   },
   {
     "stop_id": 63,
@@ -510,7 +510,7 @@
     "route_short_name": 2,
     "route_long_name": "2 - Torrent Avinguda - Llíria",
     "direction_name": "Llíria",
-    "next_arrival": "12:57:00"
+    "next_arrival": "13:37:00"
   },
   {
     "stop_id": 198,
@@ -519,7 +519,7 @@
     "route_short_name": 2,
     "route_long_name": "2 - Torrent Avinguda - Llíria",
     "direction_name": "Llíria",
-    "next_arrival": "12:54:00"
+    "next_arrival": "13:34:00"
   },
   {
     "stop_id": 62,
@@ -528,160 +528,160 @@
     "route_short_name": 2,
     "route_long_name": "2 - Torrent Avinguda - Llíria",
     "direction_name": "Llíria",
-    "next_arrival": "12:53:00"
+    "next_arrival": "13:33:00"
   },
   {
     "stop_id": 61,
     "stop_name": "Santa Rita",
-    "route_id": "V2-54-107",
+    "route_id": "V2-107-54",
     "route_short_name": 2,
-    "route_long_name": "2 - Llíria - Torrent Avinguda",
-    "direction_name": "Torrent Avinguda",
-    "next_arrival": "13:16:00"
+    "route_long_name": "2 - Torrent Avinguda - Llíria",
+    "direction_name": "Llíria",
+    "next_arrival": "13:31:00"
   },
   {
     "stop_id": 11,
     "stop_name": "Machado",
-    "route_id": "V3-182-64",
+    "route_id": "V3-64-182",
     "route_short_name": 3,
-    "route_long_name": "3 - Aeroport - Rafelbunyol",
-    "direction_name": "Rafelbunyol",
-    "next_arrival": "12:57:00"
+    "route_long_name": "3 - Rafelbunyol - Aeroport",
+    "direction_name": "Aeroport",
+    "next_arrival": "13:29:00"
   },
   {
     "stop_id": 12,
     "stop_name": "Benimaclet",
-    "route_id": "V4-98-114",
-    "route_short_name": 4,
-    "route_long_name": "4 - Dr. Lluch - Mas del Rosari",
-    "direction_name": "Dr. Lluch",
-    "next_arrival": "12:53:00"
+    "route_id": "V6-123-132",
+    "route_short_name": 6,
+    "route_long_name": "6 - Marítim - Tossal del Rei",
+    "direction_name": "Marítim",
+    "next_arrival": "13:29:00"
   },
   {
     "stop_id": 13,
     "stop_name": "Facultats - Manuel Broseta",
-    "route_id": "V3-182-64",
+    "route_id": "V3-64-182",
     "route_short_name": 3,
-    "route_long_name": "3 - Aeroport - Rafelbunyol",
-    "direction_name": "Rafelbunyol",
-    "next_arrival": "12:53:00"
+    "route_long_name": "3 - Rafelbunyol - Aeroport",
+    "direction_name": "Aeroport",
+    "next_arrival": "13:33:00"
   },
   {
     "stop_id": 14,
     "stop_name": "Alameda",
-    "route_id": "V3-64-182",
-    "route_short_name": 3,
-    "route_long_name": "3 - Rafelbunyol - Aeroport",
-    "direction_name": "Aeroport",
-    "next_arrival": "12:55:00"
+    "route_id": "V7-107-120",
+    "route_short_name": 7,
+    "route_long_name": "7 - Torrent Avinguda - Aragó",
+    "direction_name": "Aragó",
+    "next_arrival": "13:29:00"
   },
   {
     "stop_id": 15,
     "stop_name": "Colón",
-    "route_id": "V3-64-182",
+    "route_id": "V3-182-64",
     "route_short_name": 3,
-    "route_long_name": "3 - Rafelbunyol - Aeroport",
-    "direction_name": "Aeroport",
-    "next_arrival": "12:56:00"
+    "route_long_name": "3 - Aeroport - Rafelbunyol",
+    "direction_name": "Rafelbunyol",
+    "next_arrival": "13:30:00"
   },
   {
     "stop_id": 16,
     "stop_name": "Xàtiva",
-    "route_id": "V5-182-120",
+    "route_id": "V5-120-182",
     "route_short_name": 5,
-    "route_long_name": "5 - Aeroport - Aragó",
-    "direction_name": "Aragó",
-    "next_arrival": "12:55:00"
+    "route_long_name": "5 - Aragó - Aeroport",
+    "direction_name": "Aeroport",
+    "next_arrival": "13:30:00"
   },
   {
     "stop_id": 18,
     "stop_name": "Av. del Cid",
-    "route_id": "V5-120-182",
-    "route_short_name": 5,
-    "route_long_name": "5 - Aragó - Aeroport",
-    "direction_name": "Aeroport",
-    "next_arrival": "12:54:00"
+    "route_id": "V9-56-73",
+    "route_short_name": 9,
+    "route_long_name": "9 - Alboraia Peris Aragó - Av. del Cid",
+    "direction_name": "Av. del Cid",
+    "next_arrival": "13:30:00"
   },
   {
     "stop_id": 19,
     "stop_name": "Nou d'Octubre",
-    "route_id": "V9-186-56",
-    "route_short_name": 9,
-    "route_long_name": "9 - Riba-roja de Túria - Alboraia Peris Aragó",
-    "direction_name": "Alboraia Peris Aragó",
-    "next_arrival": "12:53:00"
+    "route_id": "V5-182-120",
+    "route_short_name": 5,
+    "route_long_name": "5 - Aeroport - Aragó",
+    "direction_name": "Aragó",
+    "next_arrival": "13:29:00"
   },
   {
     "stop_id": 20,
     "stop_name": "Mislata",
-    "route_id": "V5-120-182",
-    "route_short_name": 5,
-    "route_long_name": "5 - Aragó - Aeroport",
-    "direction_name": "Aeroport",
-    "next_arrival": "12:58:00"
+    "route_id": "V9-186-56",
+    "route_short_name": 9,
+    "route_long_name": "9 - Riba-roja de Túria - Alboraia Peris Aragó",
+    "direction_name": "Alboraia Peris Aragó",
+    "next_arrival": "13:31:00"
   },
   {
     "stop_id": 21,
     "stop_name": "Mislata Almassil",
-    "route_id": "V5-120-182",
-    "route_short_name": 5,
-    "route_long_name": "5 - Aragó - Aeroport",
-    "direction_name": "Aeroport",
-    "next_arrival": "12:59:00"
+    "route_id": "V9-186-56",
+    "route_short_name": 9,
+    "route_long_name": "9 - Riba-roja de Túria - Alboraia Peris Aragó",
+    "direction_name": "Alboraia Peris Aragó",
+    "next_arrival": "13:30:00"
   },
   {
     "stop_id": 200,
     "stop_name": "Faitanar",
-    "route_id": "V3-182-64",
+    "route_id": "V3-64-182",
     "route_short_name": 3,
-    "route_long_name": "3 - Aeroport - Rafelbunyol",
-    "direction_name": "Rafelbunyol",
-    "next_arrival": "12:57:00"
+    "route_long_name": "3 - Rafelbunyol - Aeroport",
+    "direction_name": "Aeroport",
+    "next_arrival": "13:29:00"
   },
   {
     "stop_id": 117,
     "stop_name": "Quart de Poblet",
-    "route_id": "V3-182-64",
+    "route_id": "V3-64-182",
     "route_short_name": 3,
-    "route_long_name": "3 - Aeroport - Rafelbunyol",
-    "direction_name": "Rafelbunyol",
-    "next_arrival": "12:55:00"
+    "route_long_name": "3 - Rafelbunyol - Aeroport",
+    "direction_name": "Aeroport",
+    "next_arrival": "13:31:00"
   },
   {
     "stop_id": 118,
     "stop_name": "Salt de l'Aigua",
-    "route_id": "V3-64-182",
+    "route_id": "V3-182-64",
     "route_short_name": 3,
-    "route_long_name": "3 - Rafelbunyol - Aeroport",
-    "direction_name": "Aeroport",
-    "next_arrival": "12:53:00"
+    "route_long_name": "3 - Aeroport - Rafelbunyol",
+    "direction_name": "Rafelbunyol",
+    "next_arrival": "13:33:00"
   },
   {
     "stop_id": 119,
     "stop_name": "Manises",
-    "route_id": "V3-64-182",
+    "route_id": "V3-182-64",
     "route_short_name": 3,
-    "route_long_name": "3 - Rafelbunyol - Aeroport",
-    "direction_name": "Aeroport",
-    "next_arrival": "12:55:00"
+    "route_long_name": "3 - Aeroport - Rafelbunyol",
+    "direction_name": "Rafelbunyol",
+    "next_arrival": "13:31:00"
   },
   {
     "stop_id": 120,
     "stop_name": "Roses",
-    "route_id": "V5-182-120",
-    "route_short_name": 5,
-    "route_long_name": "5 - Aeroport - Aragó",
-    "direction_name": "Aragó",
-    "next_arrival": "12:57:00"
+    "route_id": "V3-182-64",
+    "route_short_name": 3,
+    "route_long_name": "3 - Aeroport - Rafelbunyol",
+    "direction_name": "Rafelbunyol",
+    "next_arrival": "13:29:00"
   },
   {
     "stop_id": 121,
     "stop_name": "Aeroport",
-    "route_id": "V5-182-120",
+    "route_id": "V5-120-182",
     "route_short_name": 5,
-    "route_long_name": "5 - Aeroport - Aragó",
-    "direction_name": "Aragó",
-    "next_arrival": "12:55:00"
+    "route_long_name": "5 - Aragó - Aeroport",
+    "direction_name": "Aeroport",
+    "next_arrival": "13:30:00"
   },
   {
     "stop_id": 1,
@@ -690,25 +690,25 @@
     "route_short_name": 3,
     "route_long_name": "3 - Aeroport - Rafelbunyol",
     "direction_name": "Rafelbunyol",
-    "next_arrival": "13:01:00"
+    "next_arrival": "13:41:00"
   },
   {
     "stop_id": 2,
     "stop_name": "La Pobla de Farnals",
-    "route_id": "V3-182-64",
+    "route_id": "V3-64-182",
     "route_short_name": 3,
-    "route_long_name": "3 - Aeroport - Rafelbunyol",
-    "direction_name": "Rafelbunyol",
-    "next_arrival": "13:00:00"
+    "route_long_name": "3 - Rafelbunyol - Aeroport",
+    "direction_name": "Aeroport",
+    "next_arrival": "13:30:00"
   },
   {
     "stop_id": 3,
     "stop_name": "Massamagrell",
-    "route_id": "V3-182-64",
+    "route_id": "V3-64-182",
     "route_short_name": 3,
-    "route_long_name": "3 - Aeroport - Rafelbunyol",
-    "direction_name": "Rafelbunyol",
-    "next_arrival": "12:58:00"
+    "route_long_name": "3 - Rafelbunyol - Aeroport",
+    "direction_name": "Aeroport",
+    "next_arrival": "13:32:00"
   },
   {
     "stop_id": 4,
@@ -717,25 +717,25 @@
     "route_short_name": 3,
     "route_long_name": "3 - Rafelbunyol - Aeroport",
     "direction_name": "Aeroport",
-    "next_arrival": "12:55:00"
+    "next_arrival": "13:35:00"
   },
   {
     "stop_id": 5,
     "stop_name": "Albalat dels Sorells",
-    "route_id": "V3-64-182",
+    "route_id": "V3-182-64",
     "route_short_name": 3,
-    "route_long_name": "3 - Rafelbunyol - Aeroport",
-    "direction_name": "Aeroport",
-    "next_arrival": "12:57:00"
+    "route_long_name": "3 - Aeroport - Rafelbunyol",
+    "direction_name": "Rafelbunyol",
+    "next_arrival": "13:32:00"
   },
   {
     "stop_id": 6,
     "stop_name": "Foios",
-    "route_id": "V3-64-182",
+    "route_id": "V3-182-64",
     "route_short_name": 3,
-    "route_long_name": "3 - Rafelbunyol - Aeroport",
-    "direction_name": "Aeroport",
-    "next_arrival": "12:59:00"
+    "route_long_name": "3 - Aeroport - Rafelbunyol",
+    "direction_name": "Rafelbunyol",
+    "next_arrival": "13:30:00"
   },
   {
     "stop_id": 7,
@@ -744,7 +744,7 @@
     "route_short_name": 3,
     "route_long_name": "3 - Rafelbunyol - Aeroport",
     "direction_name": "Aeroport",
-    "next_arrival": "13:01:00"
+    "next_arrival": "13:41:00"
   },
   {
     "stop_id": 8,
@@ -753,34 +753,34 @@
     "route_short_name": 3,
     "route_long_name": "3 - Rafelbunyol - Aeroport",
     "direction_name": "Aeroport",
-    "next_arrival": "13:04:00"
+    "next_arrival": "13:44:00"
   },
   {
     "stop_id": 9,
     "stop_name": "Alboraia Peris Aragó",
-    "route_id": "V9-56-186",
+    "route_id": "V9-73-56",
     "route_short_name": 9,
-    "route_long_name": "9 - Alboraia Peris Aragó - Riba-roja de Túria",
-    "direction_name": "Riba-roja de Túria",
-    "next_arrival": "12:54:00"
+    "route_long_name": "9 - Av. del Cid - Alboraia Peris Aragó",
+    "direction_name": "Alboraia Peris Aragó",
+    "next_arrival": "13:31:00"
   },
   {
     "stop_id": 10,
     "stop_name": "Alboraia Palmaret",
-    "route_id": "V9-56-186",
+    "route_id": "V9-73-56",
     "route_short_name": 9,
-    "route_long_name": "9 - Alboraia Peris Aragó - Riba-roja de Túria",
-    "direction_name": "Riba-roja de Túria",
-    "next_arrival": "12:56:00"
+    "route_long_name": "9 - Av. del Cid - Alboraia Peris Aragó",
+    "direction_name": "Alboraia Peris Aragó",
+    "next_arrival": "13:29:00"
   },
   {
     "stop_id": 24,
     "stop_name": "Aragó",
-    "route_id": "V7-120-107",
+    "route_id": "V7-107-120",
     "route_short_name": 7,
-    "route_long_name": "7 - Aragó - Torrent Avinguda",
-    "direction_name": "Torrent Avinguda",
-    "next_arrival": "12:55:00"
+    "route_long_name": "7 - Torrent Avinguda - Aragó",
+    "direction_name": "Aragó",
+    "next_arrival": "13:31:00"
   },
   {
     "stop_id": 109,
@@ -789,7 +789,7 @@
     "route_short_name": 7,
     "route_long_name": "7 - Aragó - Torrent Avinguda",
     "direction_name": "Torrent Avinguda",
-    "next_arrival": "13:01:00"
+    "next_arrival": "13:41:00"
   },
   {
     "stop_id": 183,
@@ -798,16 +798,16 @@
     "route_short_name": 9,
     "route_long_name": "9 - Riba-roja de Túria - Alboraia Peris Aragó",
     "direction_name": "Alboraia Peris Aragó",
-    "next_arrival": "13:18:00"
+    "next_arrival": "13:58:00"
   },
   {
     "stop_id": 184,
     "stop_name": "La Presa",
-    "route_id": "V9-186-56",
+    "route_id": "V9-56-186",
     "route_short_name": 9,
-    "route_long_name": "9 - Riba-roja de Túria - Alboraia Peris Aragó",
-    "direction_name": "Alboraia Peris Aragó",
-    "next_arrival": "13:14:00"
+    "route_long_name": "9 - Alboraia Peris Aragó - Riba-roja de Túria",
+    "direction_name": "Riba-roja de Túria",
+    "next_arrival": "13:31:00"
   },
   {
     "stop_id": 188,
@@ -816,7 +816,7 @@
     "route_short_name": 9,
     "route_long_name": "9 - Alboraia Peris Aragó - Riba-roja de Túria",
     "direction_name": "Riba-roja de Túria",
-    "next_arrival": "12:53:00"
+    "next_arrival": "13:33:00"
   },
   {
     "stop_id": 185,
@@ -825,7 +825,7 @@
     "route_short_name": 9,
     "route_long_name": "9 - Alboraia Peris Aragó - Riba-roja de Túria",
     "direction_name": "Riba-roja de Túria",
-    "next_arrival": "12:55:00"
+    "next_arrival": "13:35:00"
   },
   {
     "stop_id": 186,
@@ -834,61 +834,61 @@
     "route_short_name": 9,
     "route_long_name": "9 - Alboraia Peris Aragó - Riba-roja de Túria",
     "direction_name": "Riba-roja de Túria",
-    "next_arrival": "12:57:00"
+    "next_arrival": "13:37:00"
   },
   {
     "stop_id": 114,
     "stop_name": "Ll. Llarga - Terramelar",
-    "route_id": "V4-115-29",
+    "route_id": "V4-110-29",
     "route_short_name": 4,
-    "route_long_name": "4 - Ll. Llarga - Terramelar - Empalme",
+    "route_long_name": "4 - À Punt - Empalme",
     "direction_name": "Ll. Llarga - Terramelar",
-    "next_arrival": "12:56:00"
+    "next_arrival": "13:56:00"
   },
   {
     "stop_id": 105,
     "stop_name": "À Punt",
-    "route_id": "V4-115-29",
+    "route_id": "V4-29-115",
     "route_short_name": 4,
-    "route_long_name": "4 - Ll. Llarga - Terramelar - Empalme",
-    "direction_name": "Ll. Llarga - Terramelar",
-    "next_arrival": "12:55:00"
+    "route_long_name": "4 - Empalme - Ll. Llarga - Terramelar",
+    "direction_name": "Empalme",
+    "next_arrival": "13:30:00"
   },
   {
     "stop_id": 104,
     "stop_name": "Vicent Andrés Estellés",
-    "route_id": "V4-115-29",
+    "route_id": "V4-113-98",
     "route_short_name": 4,
-    "route_long_name": "4 - Ll. Llarga - Terramelar - Empalme",
-    "direction_name": "Ll. Llarga - Terramelar",
-    "next_arrival": "12:53:00"
+    "route_long_name": "4 - La Coma - Dr. Lluch",
+    "direction_name": "Mas del Rosari",
+    "next_arrival": "13:29:00"
   },
   {
     "stop_id": 103,
     "stop_name": "Campus",
-    "route_id": "V4-114-98",
+    "route_id": "V4-29-115",
     "route_short_name": 4,
-    "route_long_name": "4 - Mas del Rosari - Dr. Lluch",
-    "direction_name": "Mas del Rosari",
-    "next_arrival": "12:58:00"
+    "route_long_name": "4 - Empalme - Ll. Llarga - Terramelar",
+    "direction_name": "Empalme",
+    "next_arrival": "13:33:00"
   },
   {
     "stop_id": 102,
     "stop_name": "Sant Joan",
-    "route_id": "V4-114-98",
+    "route_id": "V4-98-113",
     "route_short_name": 4,
-    "route_long_name": "4 - Mas del Rosari - Dr. Lluch",
-    "direction_name": "Mas del Rosari",
-    "next_arrival": "12:57:00"
+    "route_long_name": "4 - Dr. Lluch - La Coma",
+    "direction_name": "Dr. Lluch",
+    "next_arrival": "13:29:00"
   },
   {
     "stop_id": 101,
     "stop_name": "La Granja",
-    "route_id": "V4-114-98",
+    "route_id": "V4-98-113",
     "route_short_name": 4,
-    "route_long_name": "4 - Mas del Rosari - Dr. Lluch",
-    "direction_name": "Mas del Rosari",
-    "next_arrival": "12:55:00"
+    "route_long_name": "4 - Dr. Lluch - La Coma",
+    "direction_name": "Dr. Lluch",
+    "next_arrival": "13:30:00"
   },
   {
     "stop_id": 126,
@@ -897,250 +897,250 @@
     "route_short_name": 8,
     "route_long_name": "8 - Neptú - Marítim",
     "direction_name": "Neptú",
-    "next_arrival": "12:54:00"
+    "next_arrival": "13:34:00"
   },
   {
     "stop_id": 123,
     "stop_name": "Grau - La Marina",
-    "route_id": "V8-123-125",
+    "route_id": "V8-126-123",
     "route_short_name": 8,
-    "route_long_name": "8 - Marítim - Grau - La Marina",
-    "direction_name": "Marítim",
-    "next_arrival": "12:59:00"
+    "route_long_name": "8 - Neptú - Marítim",
+    "direction_name": "Neptú",
+    "next_arrival": "13:32:00"
   },
   {
     "stop_id": 122,
     "stop_name": "Francesc Cubells",
-    "route_id": "V8-123-125",
+    "route_id": "V8-126-123",
     "route_short_name": 8,
-    "route_long_name": "8 - Marítim - Grau - La Marina",
-    "direction_name": "Marítim",
-    "next_arrival": "13:00:00"
+    "route_long_name": "8 - Neptú - Marítim",
+    "direction_name": "Neptú",
+    "next_arrival": "13:31:00"
   },
   {
     "stop_id": 115,
     "stop_name": "Marítim",
-    "route_id": "V6-132-124",
+    "route_id": "V6-123-132",
     "route_short_name": 6,
-    "route_long_name": "6 - Tossal del Rei - Francesc Cubells",
-    "direction_name": "Tossal del Rei",
-    "next_arrival": "12:58:00"
+    "route_long_name": "6 - Marítim - Tossal del Rei",
+    "direction_name": "Marítim",
+    "next_arrival": "13:30:00"
   },
   {
     "stop_id": 110,
     "stop_name": "Mas del Rosari",
-    "route_id": "V4-114-98",
+    "route_id": "V4-113-98",
     "route_short_name": 4,
-    "route_long_name": "4 - Mas del Rosari - Dr. Lluch",
+    "route_long_name": "4 - La Coma - Dr. Lluch",
     "direction_name": "Mas del Rosari",
-    "next_arrival": "13:07:00"
+    "next_arrival": "13:37:00"
   },
   {
     "stop_id": 111,
     "stop_name": "La Coma",
-    "route_id": "V4-114-98",
+    "route_id": "V4-113-98",
     "route_short_name": 4,
-    "route_long_name": "4 - Mas del Rosari - Dr. Lluch",
+    "route_long_name": "4 - La Coma - Dr. Lluch",
     "direction_name": "Mas del Rosari",
-    "next_arrival": "13:06:00"
+    "next_arrival": "13:36:00"
   },
   {
     "stop_id": 112,
     "stop_name": "Tomás y Valiente",
-    "route_id": "V4-114-98",
+    "route_id": "V4-113-98",
     "route_short_name": 4,
-    "route_long_name": "4 - Mas del Rosari - Dr. Lluch",
+    "route_long_name": "4 - La Coma - Dr. Lluch",
     "direction_name": "Mas del Rosari",
-    "next_arrival": "13:04:00"
+    "next_arrival": "13:34:00"
   },
   {
     "stop_id": 113,
     "stop_name": "Parc Científic",
-    "route_id": "V4-98-113",
+    "route_id": "V4-113-98",
     "route_short_name": 4,
-    "route_long_name": "4 - Dr. Lluch - La Coma",
-    "direction_name": "Dr. Lluch",
-    "next_arrival": "12:54:00"
+    "route_long_name": "4 - La Coma - Dr. Lluch",
+    "direction_name": "Mas del Rosari",
+    "next_arrival": "13:32:00"
   },
   {
     "stop_id": 100,
     "stop_name": "Palau de Congressos",
-    "route_id": "V4-98-102",
+    "route_id": "V4-102-98",
     "route_short_name": 4,
-    "route_long_name": "4 - Dr. Lluch - Vicent Andrés Estellés",
-    "direction_name": "Dr. Lluch",
-    "next_arrival": "12:54:00"
+    "route_long_name": "4 - Vicent Andrés Estellés - Dr. Lluch",
+    "direction_name": "Vicent Andrés Estellés",
+    "next_arrival": "13:31:00"
   },
   {
     "stop_id": 99,
     "stop_name": "Florista",
-    "route_id": "V4-98-102",
+    "route_id": "V4-102-98",
     "route_short_name": 4,
-    "route_long_name": "4 - Dr. Lluch - Vicent Andrés Estellés",
-    "direction_name": "Dr. Lluch",
-    "next_arrival": "12:55:00"
+    "route_long_name": "4 - Vicent Andrés Estellés - Dr. Lluch",
+    "direction_name": "Vicent Andrés Estellés",
+    "next_arrival": "13:30:00"
   },
   {
     "stop_id": 98,
     "stop_name": "Garbí",
-    "route_id": "V4-98-102",
+    "route_id": "V4-102-98",
     "route_short_name": 4,
-    "route_long_name": "4 - Dr. Lluch - Vicent Andrés Estellés",
-    "direction_name": "Dr. Lluch",
-    "next_arrival": "12:57:00"
+    "route_long_name": "4 - Vicent Andrés Estellés - Dr. Lluch",
+    "direction_name": "Vicent Andrés Estellés",
+    "next_arrival": "13:29:00"
   },
   {
     "stop_id": 97,
     "stop_name": "Benicalap",
-    "route_id": "V4-102-98",
+    "route_id": "V4-102-99",
     "route_short_name": 4,
-    "route_long_name": "4 - Vicent Andrés Estellés - Dr. Lluch",
+    "route_long_name": "4 - Vicent Andrés Estellés - Cabanyal",
     "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "12:57:00"
+    "next_arrival": "13:37:00"
   },
   {
     "stop_id": 96,
     "stop_name": "Trànsits",
-    "route_id": "V4-102-98",
+    "route_id": "V4-98-102",
     "route_short_name": 4,
-    "route_long_name": "4 - Vicent Andrés Estellés - Dr. Lluch",
-    "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "12:56:00"
+    "route_long_name": "4 - Dr. Lluch - Vicent Andrés Estellés",
+    "direction_name": "Dr. Lluch",
+    "next_arrival": "13:29:00"
   },
   {
     "stop_id": 95,
     "stop_name": "Marxalenes",
-    "route_id": "V4-102-98",
+    "route_id": "V4-98-102",
     "route_short_name": 4,
-    "route_long_name": "4 - Vicent Andrés Estellés - Dr. Lluch",
-    "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "12:55:00"
+    "route_long_name": "4 - Dr. Lluch - Vicent Andrés Estellés",
+    "direction_name": "Dr. Lluch",
+    "next_arrival": "13:31:00"
   },
   {
     "stop_id": 94,
     "stop_name": "Reus",
-    "route_id": "V4-102-98",
+    "route_id": "V4-98-102",
     "route_short_name": 4,
-    "route_long_name": "4 - Vicent Andrés Estellés - Dr. Lluch",
-    "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "12:54:00"
+    "route_long_name": "4 - Dr. Lluch - Vicent Andrés Estellés",
+    "direction_name": "Dr. Lluch",
+    "next_arrival": "13:32:00"
   },
   {
     "stop_id": 93,
     "stop_name": "Sagunt",
-    "route_id": "V4-98-102",
+    "route_id": "V4-102-99",
     "route_short_name": 4,
-    "route_long_name": "4 - Dr. Lluch - Vicent Andrés Estellés",
-    "direction_name": "Dr. Lluch",
-    "next_arrival": "12:54:00"
+    "route_long_name": "4 - Vicent Andrés Estellés - Cabanyal",
+    "direction_name": "Vicent Andrés Estellés",
+    "next_arrival": "13:32:00"
   },
   {
     "stop_id": 92,
     "stop_name": "Pont de Fusta",
-    "route_id": "V4-98-102",
+    "route_id": "V4-102-99",
     "route_short_name": 4,
-    "route_long_name": "4 - Dr. Lluch - Vicent Andrés Estellés",
-    "direction_name": "Dr. Lluch",
-    "next_arrival": "12:57:00"
+    "route_long_name": "4 - Vicent Andrés Estellés - Cabanyal",
+    "direction_name": "Vicent Andrés Estellés",
+    "next_arrival": "13:29:00"
   },
   {
     "stop_id": 91,
     "stop_name": "Trinitat",
-    "route_id": "V4-102-98",
+    "route_id": "V4-98-102",
     "route_short_name": 4,
-    "route_long_name": "4 - Vicent Andrés Estellés - Dr. Lluch",
-    "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "12:55:00"
+    "route_long_name": "4 - Dr. Lluch - Vicent Andrés Estellés",
+    "direction_name": "Dr. Lluch",
+    "next_arrival": "13:31:00"
   },
   {
     "stop_id": 90,
     "stop_name": "Vicente Zaragozá",
-    "route_id": "V4-98-114",
-    "route_short_name": 4,
-    "route_long_name": "4 - Dr. Lluch - Mas del Rosari",
-    "direction_name": "Dr. Lluch",
-    "next_arrival": "12:55:00"
+    "route_id": "V6-123-132",
+    "route_short_name": 6,
+    "route_long_name": "6 - Marítim - Tossal del Rei",
+    "direction_name": "Marítim",
+    "next_arrival": "13:31:00"
   },
   {
     "stop_id": 89,
     "stop_name": "Universitat Politècnica",
-    "route_id": "V6-123-132",
-    "route_short_name": 6,
-    "route_long_name": "6 - Marítim - Tossal del Rei",
-    "direction_name": "Marítim",
-    "next_arrival": "12:53:00"
+    "route_id": "V4-114-98",
+    "route_short_name": 4,
+    "route_long_name": "4 - Mas del Rosari - Dr. Lluch",
+    "direction_name": "Mas del Rosari",
+    "next_arrival": "13:29:00"
   },
   {
     "stop_id": 88,
     "stop_name": "La Carrasca",
-    "route_id": "V6-123-132",
+    "route_id": "V6-132-123",
     "route_short_name": 6,
-    "route_long_name": "6 - Marítim - Tossal del Rei",
-    "direction_name": "Marítim",
-    "next_arrival": "12:54:00"
+    "route_long_name": "6 - Tossal del Rei - Marítim",
+    "direction_name": "Tossal del Rei",
+    "next_arrival": "13:32:00"
   },
   {
     "stop_id": 87,
     "stop_name": "Tarongers - Ernest Lluch",
-    "route_id": "V6-123-132",
-    "route_short_name": 6,
-    "route_long_name": "6 - Marítim - Tossal del Rei",
-    "direction_name": "Marítim",
-    "next_arrival": "12:56:00"
+    "route_id": "V4-98-113",
+    "route_short_name": 4,
+    "route_long_name": "4 - Dr. Lluch - La Coma",
+    "direction_name": "Dr. Lluch",
+    "next_arrival": "13:30:00"
   },
   {
     "stop_id": 86,
     "stop_name": "Beteró",
-    "route_id": "V4-113-98",
-    "route_short_name": 4,
-    "route_long_name": "4 - La Coma - Dr. Lluch",
-    "direction_name": "Mas del Rosari",
-    "next_arrival": "12:55:00"
+    "route_id": "V6-132-123",
+    "route_short_name": 6,
+    "route_long_name": "6 - Tossal del Rei - Marítim",
+    "direction_name": "Tossal del Rei",
+    "next_arrival": "13:30:00"
   },
   {
     "stop_id": 85,
     "stop_name": "La Cadena",
-    "route_id": "V4-113-98",
+    "route_id": "V4-103-98",
     "route_short_name": 4,
-    "route_long_name": "4 - La Coma - Dr. Lluch",
-    "direction_name": "Mas del Rosari",
-    "next_arrival": "12:53:00"
+    "route_long_name": "4 - Campus - Dr. Lluch",
+    "direction_name": "Vicent Andrés Estellés",
+    "next_arrival": "13:33:00"
   },
   {
     "stop_id": 81,
     "stop_name": "Platja Malva-rosa",
-    "route_id": "V4-98-102",
+    "route_id": "V4-98-113",
     "route_short_name": 4,
-    "route_long_name": "4 - Dr. Lluch - Vicent Andrés Estellés",
+    "route_long_name": "4 - Dr. Lluch - La Coma",
     "direction_name": "Dr. Lluch",
-    "next_arrival": "12:55:00"
+    "next_arrival": "13:35:00"
   },
   {
     "stop_id": 82,
     "stop_name": "Platja les Arenes",
-    "route_id": "V4-98-102",
+    "route_id": "V4-98-113",
     "route_short_name": 4,
-    "route_long_name": "4 - Dr. Lluch - Vicent Andrés Estellés",
+    "route_long_name": "4 - Dr. Lluch - La Coma",
     "direction_name": "Dr. Lluch",
-    "next_arrival": "12:56:00"
+    "next_arrival": "13:36:00"
   },
   {
     "stop_id": 83,
     "stop_name": "Dr. Lluch",
-    "route_id": "V4-98-102",
+    "route_id": "V4-103-98",
     "route_short_name": 4,
-    "route_long_name": "4 - Dr. Lluch - Vicent Andrés Estellés",
-    "direction_name": "Dr. Lluch",
-    "next_arrival": "12:58:00"
+    "route_long_name": "4 - Campus - Dr. Lluch",
+    "direction_name": "Vicent Andrés Estellés",
+    "next_arrival": "13:30:00"
   },
   {
     "stop_id": 132,
     "stop_name": "Tossal del Rei",
-    "route_id": "V6-123-132",
+    "route_id": "V6-132-124",
     "route_short_name": 6,
-    "route_long_name": "6 - Marítim - Tossal del Rei",
-    "direction_name": "Marítim",
-    "next_arrival": "12:57:00"
+    "route_long_name": "6 - Tossal del Rei - Francesc Cubells",
+    "direction_name": "Tossal del Rei",
+    "next_arrival": "13:29:00"
   },
   {
     "stop_id": 131,
@@ -1149,7 +1149,7 @@
     "route_short_name": 6,
     "route_long_name": "6 - Marítim - Tossal del Rei",
     "direction_name": "Marítim",
-    "next_arrival": "12:59:00"
+    "next_arrival": "13:39:00"
   },
   {
     "stop_id": 130,
@@ -1158,7 +1158,7 @@
     "route_short_name": 6,
     "route_long_name": "6 - Marítim - Tossal del Rei",
     "direction_name": "Marítim",
-    "next_arrival": "13:01:00"
+    "next_arrival": "13:41:00"
   },
   {
     "stop_id": 129,
@@ -1167,7 +1167,7 @@
     "route_short_name": 6,
     "route_long_name": "6 - Marítim - Tossal del Rei",
     "direction_name": "Marítim",
-    "next_arrival": "13:02:00"
+    "next_arrival": "13:42:00"
   },
   {
     "stop_id": 128,
@@ -1176,70 +1176,70 @@
     "route_short_name": 6,
     "route_long_name": "6 - Tossal del Rei - Marítim",
     "direction_name": "Tossal del Rei",
-    "next_arrival": "13:02:00"
+    "next_arrival": "13:42:00"
   },
   {
     "stop_id": 127,
     "stop_name": "Canyamelar",
-    "route_id": "V6-123-132",
+    "route_id": "V6-132-123",
     "route_short_name": 6,
-    "route_long_name": "6 - Marítim - Tossal del Rei",
-    "direction_name": "Marítim",
-    "next_arrival": "13:04:00"
+    "route_long_name": "6 - Tossal del Rei - Marítim",
+    "direction_name": "Tossal del Rei",
+    "next_arrival": "13:44:00"
   },
   {
     "stop_id": 84,
     "stop_name": "Cabanyal",
-    "route_id": "V4-102-98",
+    "route_id": "V4-103-98",
     "route_short_name": 4,
-    "route_long_name": "4 - Vicent Andrés Estellés - Dr. Lluch",
+    "route_long_name": "4 - Campus - Dr. Lluch",
     "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "13:01:00"
+    "next_arrival": "13:31:00"
   },
   {
     "stop_id": 190,
     "stop_name": "Alacant",
-    "route_id": "V10-194-190",
+    "route_id": "V10-190-197",
     "route_short_name": 10,
-    "route_long_name": "10 - Ciutat Arts i Ciències - Justícia - Alacant",
-    "direction_name": "Alacant",
-    "next_arrival": "12:56:00"
+    "route_long_name": "10 - Alacant - Natzaret",
+    "direction_name": "Natzaret",
+    "next_arrival": "13:30:00"
   },
   {
     "stop_id": 191,
     "stop_name": "Russafa",
-    "route_id": "V10-190-197",
+    "route_id": "V10-194-190",
     "route_short_name": 10,
-    "route_long_name": "10 - Alacant - Natzaret",
-    "direction_name": "Natzaret",
-    "next_arrival": "12:54:00"
+    "route_long_name": "10 - Ciutat Arts i Ciències - Justícia - Alacant",
+    "direction_name": "Alacant",
+    "next_arrival": "13:32:00"
   },
   {
     "stop_id": 192,
     "stop_name": "Amado Granell - Montolivet",
-    "route_id": "V10-190-197",
+    "route_id": "V10-194-190",
     "route_short_name": 10,
-    "route_long_name": "10 - Alacant - Natzaret",
-    "direction_name": "Natzaret",
-    "next_arrival": "12:56:00"
+    "route_long_name": "10 - Ciutat Arts i Ciències - Justícia - Alacant",
+    "direction_name": "Alacant",
+    "next_arrival": "13:30:00"
   },
   {
     "stop_id": 193,
     "stop_name": "Quatre Carreres",
-    "route_id": "V10-190-197",
-    "route_short_name": 10,
-    "route_long_name": "10 - Alacant - Natzaret",
-    "direction_name": "Natzaret",
-    "next_arrival": "12:58:00"
-  },
-  {
-    "stop_id": 194,
-    "stop_name": "Ciutat Arts i Ciències - Justícia",
     "route_id": "V10-197-190",
     "route_short_name": 10,
     "route_long_name": "10 - Natzaret - Alacant",
     "direction_name": "Alacant",
-    "next_arrival": "12:55:00"
+    "next_arrival": "13:38:00"
+  },
+  {
+    "stop_id": 194,
+    "stop_name": "Ciutat Arts i Ciències - Justícia",
+    "route_id": "V10-190-194",
+    "route_short_name": 10,
+    "route_long_name": "10 - Alacant - Ciutat Arts i Ciències - Justícia",
+    "direction_name": "Ciutat Arts i Ciències - Justícia",
+    "next_arrival": "13:31:00"
   },
   {
     "stop_id": 195,
@@ -1248,24 +1248,24 @@
     "route_short_name": 10,
     "route_long_name": "10 - Natzaret - Alacant",
     "direction_name": "Alacant",
-    "next_arrival": "12:53:00"
+    "next_arrival": "13:33:00"
   },
   {
     "stop_id": 196,
     "stop_name": "Moreres",
-    "route_id": "V10-190-197",
+    "route_id": "V10-197-190",
     "route_short_name": 10,
-    "route_long_name": "10 - Alacant - Natzaret",
-    "direction_name": "Natzaret",
-    "next_arrival": "13:05:00"
+    "route_long_name": "10 - Natzaret - Alacant",
+    "direction_name": "Alacant",
+    "next_arrival": "13:31:00"
   },
   {
     "stop_id": 197,
     "stop_name": "Natzaret",
-    "route_id": "V10-190-197",
+    "route_id": "V10-197-190",
     "route_short_name": 10,
-    "route_long_name": "10 - Alacant - Natzaret",
-    "direction_name": "Natzaret",
-    "next_arrival": "13:06:00"
+    "route_long_name": "10 - Natzaret - Alacant",
+    "direction_name": "Alacant",
+    "next_arrival": "13:30:00"
   }
 ]
