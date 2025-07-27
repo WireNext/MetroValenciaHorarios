@@ -2,128 +2,128 @@
   {
     "stop_id": 55,
     "stop_name": "Empalme",
-    "route_id": "V4-94-102",
+    "route_id": "V4-98-114",
     "route_short_name": 4,
-    "route_long_name": "4 - Beteró - Vicent Andrés Estellés",
-    "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "06:29:00"
+    "route_long_name": "4 - Dr. Lluch - Mas del Rosari",
+    "direction_name": "Mas del Rosari",
+    "next_arrival": "06:51:00"
   },
   {
     "stop_id": 54,
     "stop_name": "Beniferri",
-    "route_id": "V2-20-54",
-    "route_short_name": 2,
-    "route_long_name": "2 - València Sud - Llíria",
-    "direction_name": "Llíria",
-    "next_arrival": "06:38:00"
+    "route_id": "V1-20-29",
+    "route_short_name": 1,
+    "route_long_name": "1 - València Sud - Empalme",
+    "direction_name": "Empalme",
+    "next_arrival": "06:52:00"
   },
   {
     "stop_id": 53,
     "stop_name": "Campanar",
-    "route_id": "V2-20-54",
-    "route_short_name": 2,
-    "route_long_name": "2 - València Sud - Llíria",
-    "direction_name": "Llíria",
-    "next_arrival": "06:36:00"
+    "route_id": "V1-20-29",
+    "route_short_name": 1,
+    "route_long_name": "1 - València Sud - Empalme",
+    "direction_name": "Empalme",
+    "next_arrival": "06:50:00"
   },
   {
     "stop_id": 52,
     "stop_name": "Túria",
-    "route_id": "V2-20-54",
-    "route_short_name": 2,
-    "route_long_name": "2 - València Sud - Llíria",
-    "direction_name": "Llíria",
-    "next_arrival": "06:35:00"
+    "route_id": "V1-20-29",
+    "route_short_name": 1,
+    "route_long_name": "1 - València Sud - Empalme",
+    "direction_name": "Empalme",
+    "next_arrival": "06:49:00"
   },
   {
     "stop_id": 17,
     "stop_name": "Àngel Guimerà",
-    "route_id": "V2-20-54",
-    "route_short_name": 2,
-    "route_long_name": "2 - València Sud - Llíria",
-    "direction_name": "Llíria",
-    "next_arrival": "06:33:00"
+    "route_id": "V1-20-29",
+    "route_short_name": 1,
+    "route_long_name": "1 - València Sud - Empalme",
+    "direction_name": "Empalme",
+    "next_arrival": "06:47:00"
   },
   {
     "stop_id": 51,
     "stop_name": "Pl. Espanya",
-    "route_id": "V2-20-54",
-    "route_short_name": 2,
-    "route_long_name": "2 - València Sud - Llíria",
-    "direction_name": "Llíria",
-    "next_arrival": "06:32:00"
+    "route_id": "V1-20-29",
+    "route_short_name": 1,
+    "route_long_name": "1 - València Sud - Empalme",
+    "direction_name": "Empalme",
+    "next_arrival": "06:46:00"
   },
   {
     "stop_id": 25,
     "stop_name": "Jesús",
-    "route_id": "V2-20-54",
-    "route_short_name": 2,
-    "route_long_name": "2 - València Sud - Llíria",
-    "direction_name": "Llíria",
-    "next_arrival": "06:30:00"
+    "route_id": "V1-20-29",
+    "route_short_name": 1,
+    "route_long_name": "1 - València Sud - Empalme",
+    "direction_name": "Empalme",
+    "next_arrival": "06:44:00"
   },
   {
     "stop_id": 26,
     "stop_name": "Patraix",
-    "route_id": "V2-20-54",
-    "route_short_name": 2,
-    "route_long_name": "2 - València Sud - Llíria",
-    "direction_name": "Llíria",
-    "next_arrival": "06:28:00"
+    "route_id": "V1-20-29",
+    "route_short_name": 1,
+    "route_long_name": "1 - València Sud - Empalme",
+    "direction_name": "Empalme",
+    "next_arrival": "06:43:00"
   },
   {
     "stop_id": 27,
     "stop_name": "Safranar",
-    "route_id": "V2-20-54",
-    "route_short_name": 2,
-    "route_long_name": "2 - València Sud - Llíria",
-    "direction_name": "Llíria",
-    "next_arrival": "06:26:00"
+    "route_id": "V1-20-37",
+    "route_short_name": 1,
+    "route_long_name": "1 - València Sud - Masies",
+    "direction_name": "Masies",
+    "next_arrival": "06:56:00"
   },
   {
     "stop_id": 28,
     "stop_name": "Sant Isidre",
-    "route_id": "V2-20-54",
-    "route_short_name": 2,
-    "route_long_name": "2 - València Sud - Llíria",
-    "direction_name": "Llíria",
-    "next_arrival": "06:25:00"
+    "route_id": "V1-20-37",
+    "route_short_name": 1,
+    "route_long_name": "1 - València Sud - Masies",
+    "direction_name": "Masies",
+    "next_arrival": "06:55:00"
   },
   {
     "stop_id": 30,
     "stop_name": "València Sud",
-    "route_id": "V2-20-54",
-    "route_short_name": 2,
-    "route_long_name": "2 - València Sud - Llíria",
-    "direction_name": "Llíria",
-    "next_arrival": "06:23:00"
+    "route_id": "V1-20-37",
+    "route_short_name": 1,
+    "route_long_name": "1 - València Sud - Masies",
+    "direction_name": "Masies",
+    "next_arrival": "06:53:00"
   },
   {
     "stop_id": 31,
     "stop_name": "Paiporta",
-    "route_id": "V1-20-1",
-    "route_short_name": 1,
-    "route_long_name": "1 - València Sud - Castelló",
-    "direction_name": "Castelló",
-    "next_arrival": "06:36:00"
+    "route_id": "V2-107-54",
+    "route_short_name": 2,
+    "route_long_name": "2 - Torrent Avinguda - Llíria",
+    "direction_name": "Llíria",
+    "next_arrival": "07:01:00"
   },
   {
     "stop_id": 32,
     "stop_name": "Picanya",
-    "route_id": "V1-20-1",
-    "route_short_name": 1,
-    "route_long_name": "1 - València Sud - Castelló",
-    "direction_name": "Castelló",
-    "next_arrival": "06:38:00"
+    "route_id": "V2-107-54",
+    "route_short_name": 2,
+    "route_long_name": "2 - Torrent Avinguda - Llíria",
+    "direction_name": "Llíria",
+    "next_arrival": "06:59:00"
   },
   {
     "stop_id": 33,
     "stop_name": "Torrent",
-    "route_id": "V1-20-1",
-    "route_short_name": 1,
-    "route_long_name": "1 - València Sud - Castelló",
-    "direction_name": "Castelló",
-    "next_arrival": "06:42:00"
+    "route_id": "V2-20-107",
+    "route_short_name": 2,
+    "route_long_name": "2 - València Sud - Torrent Avinguda",
+    "direction_name": "Torrent Avinguda",
+    "next_arrival": "06:45:00"
   },
   {
     "stop_id": 50,
@@ -407,11 +407,11 @@
   {
     "stop_id": 56,
     "stop_name": "Cantereria",
-    "route_id": "V2-20-54",
+    "route_id": "V2-107-54",
     "route_short_name": 2,
-    "route_long_name": "2 - València Sud - Llíria",
+    "route_long_name": "2 - Torrent Avinguda - Llíria",
     "direction_name": "Llíria",
-    "next_arrival": "06:42:00"
+    "next_arrival": "07:22:00"
   },
   {
     "stop_id": 71,
@@ -542,65 +542,65 @@
   {
     "stop_id": 11,
     "stop_name": "Machado",
-    "route_id": "V3-66-182",
-    "route_short_name": 3,
-    "route_long_name": "3 - Machado - Aeroport",
-    "direction_name": "Aeroport",
-    "next_arrival": "06:29:00"
+    "route_id": "V7-66-69",
+    "route_short_name": 7,
+    "route_long_name": "7 - Machado - Alameda",
+    "direction_name": "Alameda",
+    "next_arrival": "06:51:00"
   },
   {
     "stop_id": 12,
     "stop_name": "Benimaclet",
-    "route_id": "V4-94-102",
-    "route_short_name": 4,
-    "route_long_name": "4 - Beteró - Vicent Andrés Estellés",
-    "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "06:10:00"
+    "route_id": "V6-94-132",
+    "route_short_name": 6,
+    "route_long_name": "6 - Beteró - Tossal del Rei",
+    "direction_name": "Tossal del Rei",
+    "next_arrival": "06:48:00"
   },
   {
     "stop_id": 13,
     "stop_name": "Facultats - Manuel Broseta",
-    "route_id": "V3-66-182",
-    "route_short_name": 3,
-    "route_long_name": "3 - Machado - Aeroport",
-    "direction_name": "Aeroport",
-    "next_arrival": "06:33:00"
+    "route_id": "V7-66-69",
+    "route_short_name": 7,
+    "route_long_name": "7 - Machado - Alameda",
+    "direction_name": "Alameda",
+    "next_arrival": "06:55:00"
   },
   {
     "stop_id": 14,
     "stop_name": "Alameda",
-    "route_id": "V3-66-182",
-    "route_short_name": 3,
-    "route_long_name": "3 - Machado - Aeroport",
-    "direction_name": "Aeroport",
-    "next_arrival": "06:35:00"
+    "route_id": "V7-66-69",
+    "route_short_name": 7,
+    "route_long_name": "7 - Machado - Alameda",
+    "direction_name": "Alameda",
+    "next_arrival": "06:56:00"
   },
   {
     "stop_id": 15,
     "stop_name": "Colón",
-    "route_id": "V3-66-182",
-    "route_short_name": 3,
-    "route_long_name": "3 - Machado - Aeroport",
-    "direction_name": "Aeroport",
-    "next_arrival": "06:36:00"
+    "route_id": "V9-66-186",
+    "route_short_name": 9,
+    "route_long_name": "9 - Machado - Riba-roja de Túria",
+    "direction_name": "Riba-roja de Túria",
+    "next_arrival": "07:04:00"
   },
   {
     "stop_id": 16,
     "stop_name": "Xàtiva",
-    "route_id": "V3-66-182",
-    "route_short_name": 3,
-    "route_long_name": "3 - Machado - Aeroport",
-    "direction_name": "Aeroport",
-    "next_arrival": "06:38:00"
+    "route_id": "V9-66-186",
+    "route_short_name": 9,
+    "route_long_name": "9 - Machado - Riba-roja de Túria",
+    "direction_name": "Riba-roja de Túria",
+    "next_arrival": "07:06:00"
   },
   {
     "stop_id": 18,
     "stop_name": "Av. del Cid",
-    "route_id": "V3-66-182",
-    "route_short_name": 3,
-    "route_long_name": "3 - Machado - Aeroport",
-    "direction_name": "Aeroport",
-    "next_arrival": "06:42:00"
+    "route_id": "V9-66-186",
+    "route_short_name": 9,
+    "route_long_name": "9 - Machado - Riba-roja de Túria",
+    "direction_name": "Riba-roja de Túria",
+    "next_arrival": "07:10:00"
   },
   {
     "stop_id": 19,
@@ -839,173 +839,173 @@
   {
     "stop_id": 86,
     "stop_name": "Beteró",
-    "route_id": "V4-94-102",
+    "route_id": "V4-98-102",
     "route_short_name": 4,
-    "route_long_name": "4 - Beteró - Vicent Andrés Estellés",
+    "route_long_name": "4 - Dr. Lluch - Vicent Andrés Estellés",
     "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "06:03:00"
+    "next_arrival": "06:45:00"
   },
   {
     "stop_id": 87,
     "stop_name": "Tarongers - Ernest Lluch",
-    "route_id": "V4-94-102",
+    "route_id": "V4-98-102",
     "route_short_name": 4,
-    "route_long_name": "4 - Beteró - Vicent Andrés Estellés",
+    "route_long_name": "4 - Dr. Lluch - Vicent Andrés Estellés",
     "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "06:04:00"
+    "next_arrival": "06:46:00"
   },
   {
     "stop_id": 88,
     "stop_name": "La Carrasca",
-    "route_id": "V4-94-102",
-    "route_short_name": 4,
-    "route_long_name": "4 - Beteró - Vicent Andrés Estellés",
-    "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "06:05:00"
+    "route_id": "V6-94-132",
+    "route_short_name": 6,
+    "route_long_name": "6 - Beteró - Tossal del Rei",
+    "direction_name": "Tossal del Rei",
+    "next_arrival": "06:43:00"
   },
   {
     "stop_id": 89,
     "stop_name": "Universitat Politècnica",
-    "route_id": "V4-94-102",
-    "route_short_name": 4,
-    "route_long_name": "4 - Beteró - Vicent Andrés Estellés",
-    "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "06:06:00"
+    "route_id": "V6-94-132",
+    "route_short_name": 6,
+    "route_long_name": "6 - Beteró - Tossal del Rei",
+    "direction_name": "Tossal del Rei",
+    "next_arrival": "06:44:00"
   },
   {
     "stop_id": 90,
     "stop_name": "Vicente Zaragozá",
-    "route_id": "V4-94-102",
-    "route_short_name": 4,
-    "route_long_name": "4 - Beteró - Vicent Andrés Estellés",
-    "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "06:08:00"
+    "route_id": "V6-94-132",
+    "route_short_name": 6,
+    "route_long_name": "6 - Beteró - Tossal del Rei",
+    "direction_name": "Tossal del Rei",
+    "next_arrival": "06:46:00"
   },
   {
     "stop_id": 91,
     "stop_name": "Trinitat",
-    "route_id": "V4-94-102",
-    "route_short_name": 4,
-    "route_long_name": "4 - Beteró - Vicent Andrés Estellés",
-    "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "06:12:00"
+    "route_id": "V6-94-132",
+    "route_short_name": 6,
+    "route_long_name": "6 - Beteró - Tossal del Rei",
+    "direction_name": "Tossal del Rei",
+    "next_arrival": "06:50:00"
   },
   {
     "stop_id": 92,
     "stop_name": "Pont de Fusta",
-    "route_id": "V4-94-102",
+    "route_id": "V4-98-102",
     "route_short_name": 4,
-    "route_long_name": "4 - Beteró - Vicent Andrés Estellés",
+    "route_long_name": "4 - Dr. Lluch - Vicent Andrés Estellés",
     "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "06:16:00"
+    "next_arrival": "06:58:00"
   },
   {
     "stop_id": 93,
     "stop_name": "Sagunt",
-    "route_id": "V4-94-102",
+    "route_id": "V4-98-102",
     "route_short_name": 4,
-    "route_long_name": "4 - Beteró - Vicent Andrés Estellés",
+    "route_long_name": "4 - Dr. Lluch - Vicent Andrés Estellés",
     "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "06:19:00"
+    "next_arrival": "07:01:00"
   },
   {
     "stop_id": 94,
     "stop_name": "Reus",
-    "route_id": "V4-94-102",
+    "route_id": "V4-98-114",
     "route_short_name": 4,
-    "route_long_name": "4 - Beteró - Vicent Andrés Estellés",
-    "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "06:21:00"
+    "route_long_name": "4 - Dr. Lluch - Mas del Rosari",
+    "direction_name": "Mas del Rosari",
+    "next_arrival": "06:43:00"
   },
   {
     "stop_id": 95,
     "stop_name": "Marxalenes",
-    "route_id": "V4-94-102",
+    "route_id": "V4-98-114",
     "route_short_name": 4,
-    "route_long_name": "4 - Beteró - Vicent Andrés Estellés",
-    "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "06:22:00"
+    "route_long_name": "4 - Dr. Lluch - Mas del Rosari",
+    "direction_name": "Mas del Rosari",
+    "next_arrival": "06:44:00"
   },
   {
     "stop_id": 96,
     "stop_name": "Trànsits",
-    "route_id": "V4-94-102",
+    "route_id": "V4-98-114",
     "route_short_name": 4,
-    "route_long_name": "4 - Beteró - Vicent Andrés Estellés",
-    "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "06:23:00"
+    "route_long_name": "4 - Dr. Lluch - Mas del Rosari",
+    "direction_name": "Mas del Rosari",
+    "next_arrival": "06:45:00"
   },
   {
     "stop_id": 97,
     "stop_name": "Benicalap",
-    "route_id": "V4-94-102",
+    "route_id": "V4-98-114",
     "route_short_name": 4,
-    "route_long_name": "4 - Beteró - Vicent Andrés Estellés",
-    "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "06:24:00"
+    "route_long_name": "4 - Dr. Lluch - Mas del Rosari",
+    "direction_name": "Mas del Rosari",
+    "next_arrival": "06:46:00"
   },
   {
     "stop_id": 98,
     "stop_name": "Garbí",
-    "route_id": "V4-94-102",
+    "route_id": "V4-98-114",
     "route_short_name": 4,
-    "route_long_name": "4 - Beteró - Vicent Andrés Estellés",
-    "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "06:26:00"
+    "route_long_name": "4 - Dr. Lluch - Mas del Rosari",
+    "direction_name": "Mas del Rosari",
+    "next_arrival": "06:48:00"
   },
   {
     "stop_id": 99,
     "stop_name": "Florista",
-    "route_id": "V4-94-102",
+    "route_id": "V4-98-114",
     "route_short_name": 4,
-    "route_long_name": "4 - Beteró - Vicent Andrés Estellés",
-    "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "06:27:00"
+    "route_long_name": "4 - Dr. Lluch - Mas del Rosari",
+    "direction_name": "Mas del Rosari",
+    "next_arrival": "06:49:00"
   },
   {
     "stop_id": 100,
     "stop_name": "Palau de Congressos",
-    "route_id": "V4-94-102",
+    "route_id": "V4-98-114",
     "route_short_name": 4,
-    "route_long_name": "4 - Beteró - Vicent Andrés Estellés",
-    "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "06:28:00"
+    "route_long_name": "4 - Dr. Lluch - Mas del Rosari",
+    "direction_name": "Mas del Rosari",
+    "next_arrival": "06:50:00"
   },
   {
     "stop_id": 101,
     "stop_name": "La Granja",
-    "route_id": "V4-94-102",
+    "route_id": "V4-98-114",
     "route_short_name": 4,
-    "route_long_name": "4 - Beteró - Vicent Andrés Estellés",
-    "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "06:32:00"
+    "route_long_name": "4 - Dr. Lluch - Mas del Rosari",
+    "direction_name": "Mas del Rosari",
+    "next_arrival": "06:54:00"
   },
   {
     "stop_id": 102,
     "stop_name": "Sant Joan",
-    "route_id": "V4-94-102",
+    "route_id": "V4-98-114",
     "route_short_name": 4,
-    "route_long_name": "4 - Beteró - Vicent Andrés Estellés",
-    "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "06:34:00"
+    "route_long_name": "4 - Dr. Lluch - Mas del Rosari",
+    "direction_name": "Mas del Rosari",
+    "next_arrival": "06:56:00"
   },
   {
     "stop_id": 103,
     "stop_name": "Campus",
-    "route_id": "V4-94-102",
+    "route_id": "V4-98-114",
     "route_short_name": 4,
-    "route_long_name": "4 - Beteró - Vicent Andrés Estellés",
-    "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "06:35:00"
+    "route_long_name": "4 - Dr. Lluch - Mas del Rosari",
+    "direction_name": "Mas del Rosari",
+    "next_arrival": "06:57:00"
   },
   {
     "stop_id": 104,
     "stop_name": "Vicent Andrés Estellés",
-    "route_id": "V4-94-102",
+    "route_id": "V4-98-114",
     "route_short_name": 4,
-    "route_long_name": "4 - Beteró - Vicent Andrés Estellés",
-    "direction_name": "Vicent Andrés Estellés",
-    "next_arrival": "06:36:00"
+    "route_long_name": "4 - Dr. Lluch - Mas del Rosari",
+    "direction_name": "Mas del Rosari",
+    "next_arrival": "06:58:00"
   },
   {
     "stop_id": 128,
@@ -1059,7 +1059,7 @@
     "route_short_name": 4,
     "route_long_name": "4 - La Cadena - Dr. Lluch",
     "direction_name": "Dr. Lluch",
-    "next_arrival": "06:18:00"
+    "next_arrival": "06:58:00"
   },
   {
     "stop_id": 84,
@@ -1068,16 +1068,16 @@
     "route_short_name": 4,
     "route_long_name": "4 - Dr. Lluch - Mas del Rosari",
     "direction_name": "Mas del Rosari",
-    "next_arrival": "06:21:00"
+    "next_arrival": "07:01:00"
   },
   {
     "stop_id": 85,
     "stop_name": "La Cadena",
-    "route_id": "V4-95-98",
+    "route_id": "V4-98-102",
     "route_short_name": 4,
-    "route_long_name": "4 - La Cadena - Dr. Lluch",
-    "direction_name": "Dr. Lluch",
-    "next_arrival": "06:13:00"
+    "route_long_name": "4 - Dr. Lluch - Vicent Andrés Estellés",
+    "direction_name": "Vicent Andrés Estellés",
+    "next_arrival": "06:43:00"
   },
   {
     "stop_id": 105,
@@ -1185,7 +1185,7 @@
     "route_short_name": 4,
     "route_long_name": "4 - La Cadena - Dr. Lluch",
     "direction_name": "Dr. Lluch",
-    "next_arrival": "06:15:00"
+    "next_arrival": "06:55:00"
   },
   {
     "stop_id": 82,
@@ -1194,7 +1194,7 @@
     "route_short_name": 4,
     "route_long_name": "4 - La Cadena - Dr. Lluch",
     "direction_name": "Dr. Lluch",
-    "next_arrival": "06:16:00"
+    "next_arrival": "06:56:00"
   },
   {
     "stop_id": 190,
