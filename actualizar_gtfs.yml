@@ -1,0 +1,33 @@
+name: Actualizar GTFS diario
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # Cada día a las 3:00 UTC
+  workflow_dispatch:
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repo
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: pip install requests
+
+      - name: Ejecutar script GTFS
+        run: python procesar_gtfs.py
+
+      - name: Subir cambios
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add public/gtfs/*.json
+          git commit -m "Actualización diaria GTFS" || echo "Sin cambios"
+          git push
