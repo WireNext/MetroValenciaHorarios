@@ -18,8 +18,8 @@ with zipfile.ZipFile("gtfs.zip", 'r') as zip_ref:
 
 os.makedirs("public/gtfs", exist_ok=True)
 
-# 1. Filtrar route_id de T1 a T4
-rutas_deseadas = {"T1", "T2", "T3", "T4"}
+
+rutas_deseadas = {"1", "1", "3", "4", "5", "6", "7", "8", "9", "10"}
 route_ids = set()
 with open("gtfs/routes.txt", encoding="utf-8") as f:
     reader = csv.DictReader(f)
@@ -72,7 +72,7 @@ for puntos in shapes_json.values():
 
 # 6. Guardar resultados
 def guardar(nombre, datos):
-    with open(f"public/gtfs/{nombre}.json", "w", encoding="utf-8") as f:
+    with open(f"gtfs/{nombre}.json", "w", encoding="utf-8") as f:
         json.dump(datos, f, ensure_ascii=False, indent=2)
     print(f"✅ Guardado {nombre}.json")
 
