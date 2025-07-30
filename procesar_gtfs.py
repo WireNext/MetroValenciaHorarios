@@ -62,8 +62,7 @@ with open("gtfs/shapes.txt", encoding="utf-8") as f:
             shapes_json[row["shape_id"]].append({
                 "shape_pt_lat": row["shape_pt_lat"],
                 "shape_pt_lon": row["shape_pt_lon"],
-                "shape_pt_sequence": row["shape_pt_sequence"],
-                "shape_dist_traveled": row["shape_dist_traveled"]
+                "shape_pt_sequence": row["shape_pt_sequence"]
             })
 
 # Ordenar por secuencia
