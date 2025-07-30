@@ -287,6 +287,139 @@
     "zone_id": "B"
   },
   {
+    "stop_id": "60",
+    "stop_name": "Paterna",
+    "stop_lat": "39.4988098145",
+    "stop_lon": "-0.4419719875",
+    "zone_id": "A B"
+  },
+  {
+    "stop_id": "59",
+    "stop_name": "Campament",
+    "stop_lat": "39.4958457947",
+    "stop_lon": "-0.435323",
+    "zone_id": "A B"
+  },
+  {
+    "stop_id": "58",
+    "stop_name": "Les Carolines - Fira",
+    "stop_lat": "39.4987373352",
+    "stop_lon": "-0.4254194498",
+    "zone_id": "A B"
+  },
+  {
+    "stop_id": "57",
+    "stop_name": "Benimàmet",
+    "stop_lat": "39.5018768311",
+    "stop_lon": "-0.4194111228",
+    "zone_id": "A B"
+  },
+  {
+    "stop_id": "56",
+    "stop_name": "Cantereria",
+    "stop_lat": "39.5023803711",
+    "stop_lon": "-0.4120722115",
+    "zone_id": "A B"
+  },
+  {
+    "stop_id": "71",
+    "stop_name": "Llíria",
+    "stop_lat": "39.6228408813",
+    "stop_lon": "-0.590277791",
+    "zone_id": "B"
+  },
+  {
+    "stop_id": "70",
+    "stop_name": "Benaguasil",
+    "stop_lat": "39.5988807678",
+    "stop_lon": "-0.5839277506",
+    "zone_id": "B"
+  },
+  {
+    "stop_id": "69",
+    "stop_name": "Fondo de Benaguasil",
+    "stop_lat": "39.5927238464",
+    "stop_lon": "-0.5780805349",
+    "zone_id": "B"
+  },
+  {
+    "stop_id": "68",
+    "stop_name": "La Pobla de Vallbona",
+    "stop_lat": "39.5827636719",
+    "stop_lon": "-0.5622777939",
+    "zone_id": "B"
+  },
+  {
+    "stop_id": "201",
+    "stop_name": "Gallipont - Torre del Virrei",
+    "stop_lat": "39.5686645508",
+    "stop_lon": "-0.5419166684",
+    "zone_id": "B"
+  },
+  {
+    "stop_id": "67",
+    "stop_name": "L'Eliana",
+    "stop_lat": "39.561832428",
+    "stop_lon": "-0.5359194279",
+    "zone_id": "B"
+  },
+  {
+    "stop_id": "66",
+    "stop_name": "Montesol",
+    "stop_lat": "39.5555725098",
+    "stop_lon": "-0.5316972136",
+    "zone_id": "B"
+  },
+  {
+    "stop_id": "108",
+    "stop_name": "El Clot",
+    "stop_lat": "39.5498657227",
+    "stop_lon": "-0.5279861093",
+    "zone_id": "B"
+  },
+  {
+    "stop_id": "65",
+    "stop_name": "Entrepins",
+    "stop_lat": "39.5433349609",
+    "stop_lon": "-0.5139539838",
+    "zone_id": "B"
+  },
+  {
+    "stop_id": "64",
+    "stop_name": "La Vallesa",
+    "stop_lat": "39.5378417969",
+    "stop_lon": "-0.4979777634",
+    "zone_id": "A B"
+  },
+  {
+    "stop_id": "63",
+    "stop_name": "La Canyada",
+    "stop_lat": "39.5268058777",
+    "stop_lon": "-0.4871222079",
+    "zone_id": "A B"
+  },
+  {
+    "stop_id": "198",
+    "stop_name": "Font del Barranc",
+    "stop_lat": "39.5168998",
+    "stop_lon": "-0.4716618",
+    "zone_id": "A B"
+  },
+  {
+    "stop_id": "62",
+    "stop_name": "Fuente del Jarro",
+    "stop_lat": "39.5111732483",
+    "stop_lon": "-0.4645166695",
+    "zone_id": "A B"
+  },
+  {
+    "stop_id": "61",
+    "stop_name": "Santa Rita",
+    "stop_lat": "39.505657196",
+    "stop_lon": "-0.4551055431",
+    "zone_id": "A B"
+  },
+  {
     "stop_id": "11",
     "stop_name": "Machado",
     "stop_lat": "39.4924316406",

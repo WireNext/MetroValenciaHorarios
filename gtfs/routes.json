@@ -369,6 +369,114 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "V2-107-20",
+    "agency_id": "1",
+    "route_short_name": "2",
+    "route_long_name": "2 - Torrent Avinguda - València Sud",
+    "route_type": "1",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V2-107-29",
+    "agency_id": "1",
+    "route_short_name": "2",
+    "route_long_name": "2 - Torrent Avinguda - Empalme",
+    "route_type": "1",
+    "route_color": "E60096",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V2-107-44",
+    "agency_id": "1",
+    "route_short_name": "2",
+    "route_long_name": "2 - Torrent Avinguda - Paterna",
+    "route_type": "1",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V2-107-54",
+    "agency_id": "1",
+    "route_short_name": "2",
+    "route_long_name": "2 - Torrent Avinguda - Llíria",
+    "route_type": "1",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V2-20-107",
+    "agency_id": "1",
+    "route_short_name": "2",
+    "route_long_name": "2 - València Sud - Torrent Avinguda",
+    "route_type": "1",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V2-20-44",
+    "agency_id": "1",
+    "route_short_name": "2",
+    "route_long_name": "2 - València Sud - Paterna",
+    "route_type": "1",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V2-20-54",
+    "agency_id": "1",
+    "route_short_name": "2",
+    "route_long_name": "2 - València Sud - Llíria",
+    "route_type": "1",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V2-29-20",
+    "agency_id": "1",
+    "route_short_name": "2",
+    "route_long_name": "2 - Empalme - València Sud",
+    "route_type": "1",
+    "route_color": "E60096",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V2-44-107",
+    "agency_id": "1",
+    "route_short_name": "2",
+    "route_long_name": "2 - Paterna - Torrent Avinguda",
+    "route_type": "1",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V2-44-20",
+    "agency_id": "1",
+    "route_short_name": "2",
+    "route_long_name": "2 - Paterna - València Sud",
+    "route_type": "1",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V2-54-107",
+    "agency_id": "1",
+    "route_short_name": "2",
+    "route_long_name": "2 - Llíria - Torrent Avinguda",
+    "route_type": "1",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V2-54-20",
+    "agency_id": "1",
+    "route_short_name": "2",
+    "route_long_name": "2 - Llíria - València Sud",
+    "route_type": "1",
+    "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "V3-179-64",
     "agency_id": "1",
     "route_short_name": "3",

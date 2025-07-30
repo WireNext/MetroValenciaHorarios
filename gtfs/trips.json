@@ -3353,6 +3353,1070 @@
     "shape_id": "48"
   },
   {
+    "route_id": "V2-20-107",
+    "service_id": "3030",
+    "trip_id": "4752982",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-20-54",
+    "service_id": "3030",
+    "trip_id": "4753441",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-20-107",
+    "service_id": "3030",
+    "trip_id": "4752983",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-20-44",
+    "service_id": "3030",
+    "trip_id": "4753442",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753443",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4752984",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-20-107",
+    "service_id": "3030",
+    "trip_id": "4752985",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-20-54",
+    "service_id": "3030",
+    "trip_id": "4753444",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4752986",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-20-107",
+    "service_id": "3030",
+    "trip_id": "4752987",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753445",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4752988",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-20-54",
+    "service_id": "3030",
+    "trip_id": "4753446",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4752989",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-20-44",
+    "service_id": "3030",
+    "trip_id": "4753447",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4752990",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753448",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4752991",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753449",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4752992",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753450",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4752993",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753451",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4752994",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753452",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4752995",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3030",
+    "trip_id": "4753453",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-20",
+    "service_id": "3030",
+    "trip_id": "4752996",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753454",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4752997",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3030",
+    "trip_id": "4753455",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4752998",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753456",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-20",
+    "service_id": "3030",
+    "trip_id": "4752999",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3030",
+    "trip_id": "4753457",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753000",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753458",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753001",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3030",
+    "trip_id": "4753459",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4753002",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753460",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753003",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3030",
+    "trip_id": "4753461",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4753004",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753462",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753005",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3030",
+    "trip_id": "4753463",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4753006",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753464",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753007",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3030",
+    "trip_id": "4753465",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4753008",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753466",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753009",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3030",
+    "trip_id": "4753467",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4753010",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753468",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753011",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3030",
+    "trip_id": "4753469",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4753012",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753470",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753013",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3030",
+    "trip_id": "4753471",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4753014",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753472",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753015",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3030",
+    "trip_id": "4753473",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4753016",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753474",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753017",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3030",
+    "trip_id": "4753475",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4753018",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753476",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753019",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753477",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4753020",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-20-44",
+    "service_id": "3030",
+    "trip_id": "4753478",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753021",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753479",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4753022",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-20-44",
+    "service_id": "3030",
+    "trip_id": "4753480",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753023",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753481",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4753024",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753482",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753025",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3030",
+    "trip_id": "4753483",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-20",
+    "service_id": "3030",
+    "trip_id": "4753026",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753484",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753027",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3030",
+    "trip_id": "4753485",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753028",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753486",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-20",
+    "service_id": "3030",
+    "trip_id": "4753029",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3030",
+    "trip_id": "4753487",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753030",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753488",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753031",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3030",
+    "trip_id": "4753489",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4753032",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753490",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753033",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3030",
+    "trip_id": "4753491",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4753034",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753492",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753035",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3030",
+    "trip_id": "4753493",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4753036",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753494",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753037",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3030",
+    "trip_id": "4753495",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4753038",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753496",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753039",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3030",
+    "trip_id": "4753497",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4753040",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753498",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753041",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3030",
+    "trip_id": "4753499",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4753042",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753043",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753500",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4753044",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3030",
+    "trip_id": "4753501",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753045",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4753046",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753502",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753047",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3030",
+    "trip_id": "4753503",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4753048",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753504",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753049",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3030",
+    "trip_id": "4753505",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753506",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3030",
+    "trip_id": "4753050",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3030",
+    "trip_id": "4753507",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753051",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753508",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-20",
+    "service_id": "3030",
+    "trip_id": "4753509",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-44-20",
+    "service_id": "3030",
+    "trip_id": "4753052",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753510",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753053",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-29",
+    "service_id": "3030",
+    "trip_id": "4753511",
+    "trip_headsign": "Empalme",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-29-20",
+    "service_id": "3030",
+    "trip_id": "4753054",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-20",
+    "service_id": "3030",
+    "trip_id": "4753512",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753055",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3030",
+    "trip_id": "4753513",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753056",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-20",
+    "service_id": "3030",
+    "trip_id": "4753514",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-54-20",
+    "service_id": "3030",
+    "trip_id": "4753057",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-20",
+    "service_id": "3030",
+    "trip_id": "4753515",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3030",
+    "trip_id": "4753058",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
     "route_id": "V3-66-64",
     "service_id": "3030",
     "trip_id": "4753516",
@@ -12754,6 +13818,678 @@
     "shape_id": "48"
   },
   {
+    "route_id": "V2-20-54",
+    "service_id": "3033",
+    "trip_id": "4756852",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-20-107",
+    "service_id": "3033",
+    "trip_id": "4756551",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3033",
+    "trip_id": "4756853",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-20-107",
+    "service_id": "3033",
+    "trip_id": "4756552",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3033",
+    "trip_id": "4756553",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3033",
+    "trip_id": "4756854",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-20-107",
+    "service_id": "3033",
+    "trip_id": "4756554",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3033",
+    "trip_id": "4756555",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3033",
+    "trip_id": "4756855",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-20-107",
+    "service_id": "3033",
+    "trip_id": "4756556",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3033",
+    "trip_id": "4756856",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3033",
+    "trip_id": "4756557",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3033",
+    "trip_id": "4756857",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-20-107",
+    "service_id": "3033",
+    "trip_id": "4756558",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3033",
+    "trip_id": "4756858",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3033",
+    "trip_id": "4756559",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3033",
+    "trip_id": "4756859",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3033",
+    "trip_id": "4756560",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3033",
+    "trip_id": "4756860",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3033",
+    "trip_id": "4756561",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3033",
+    "trip_id": "4756861",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3033",
+    "trip_id": "4756562",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3033",
+    "trip_id": "4756862",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3033",
+    "trip_id": "4756563",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3033",
+    "trip_id": "4756863",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3033",
+    "trip_id": "4756564",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3033",
+    "trip_id": "4756864",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3033",
+    "trip_id": "4756565",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3033",
+    "trip_id": "4756865",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3033",
+    "trip_id": "4756566",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3033",
+    "trip_id": "4756866",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3033",
+    "trip_id": "4756567",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3033",
+    "trip_id": "4756867",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3033",
+    "trip_id": "4756568",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3033",
+    "trip_id": "4756868",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3033",
+    "trip_id": "4756569",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3033",
+    "trip_id": "4756869",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3033",
+    "trip_id": "4756570",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3033",
+    "trip_id": "4756870",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3033",
+    "trip_id": "4756571",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3033",
+    "trip_id": "4756871",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3033",
+    "trip_id": "4756572",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3033",
+    "trip_id": "4756872",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3033",
+    "trip_id": "4756573",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3033",
+    "trip_id": "4756873",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3033",
+    "trip_id": "4756574",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3033",
+    "trip_id": "4756874",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3033",
+    "trip_id": "4756575",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3033",
+    "trip_id": "4756875",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3033",
+    "trip_id": "4756576",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3033",
+    "trip_id": "4756876",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3033",
+    "trip_id": "4756577",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3033",
+    "trip_id": "4756877",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3033",
+    "trip_id": "4756578",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3033",
+    "trip_id": "4756878",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3033",
+    "trip_id": "4756579",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3033",
+    "trip_id": "4756879",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3033",
+    "trip_id": "4756580",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3033",
+    "trip_id": "4756880",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3033",
+    "trip_id": "4756581",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3033",
+    "trip_id": "4756881",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3033",
+    "trip_id": "4756582",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3033",
+    "trip_id": "4756882",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3033",
+    "trip_id": "4756583",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3033",
+    "trip_id": "4756883",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3033",
+    "trip_id": "4756584",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3033",
+    "trip_id": "4756884",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3033",
+    "trip_id": "4756585",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3033",
+    "trip_id": "4756885",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3033",
+    "trip_id": "4756586",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3033",
+    "trip_id": "4756886",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3033",
+    "trip_id": "4756587",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3033",
+    "trip_id": "4756887",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3033",
+    "trip_id": "4756588",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3033",
+    "trip_id": "4756888",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3033",
+    "trip_id": "4756589",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3033",
+    "trip_id": "4756889",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3033",
+    "trip_id": "4756590",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3033",
+    "trip_id": "4756890",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3033",
+    "trip_id": "4756591",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3033",
+    "trip_id": "4756891",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3033",
+    "trip_id": "4756592",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3033",
+    "trip_id": "4756892",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3033",
+    "trip_id": "4756593",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3033",
+    "trip_id": "4756893",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3033",
+    "trip_id": "4756594",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3033",
+    "trip_id": "4756894",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3033",
+    "trip_id": "4756595",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3033",
+    "trip_id": "4756895",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3033",
+    "trip_id": "4756596",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-20",
+    "service_id": "3033",
+    "trip_id": "4756896",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-54-20",
+    "service_id": "3033",
+    "trip_id": "4756597",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3033",
+    "trip_id": "4756897",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-20",
+    "service_id": "3033",
+    "trip_id": "4756598",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3033",
+    "trip_id": "4756599",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3033",
+    "trip_id": "4756601",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
     "route_id": "V3-66-64",
     "service_id": "3033",
     "trip_id": "4756899",
@@ -18144,6 +19880,20 @@
     "shape_id": "2"
   },
   {
+    "route_id": "V2-107-20",
+    "service_id": "3033",
+    "trip_id": "4756898",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-54-20",
+    "service_id": "3033",
+    "trip_id": "4756600",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
     "route_id": "V3-182-66",
     "service_id": "3033",
     "trip_id": "4756944",
@@ -20613,6 +22363,748 @@
     "trip_id": "4764662",
     "trip_headsign": "Masies",
     "shape_id": "48"
+  },
+  {
+    "route_id": "V2-20-54",
+    "service_id": "3043",
+    "trip_id": "4765035",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-20-107",
+    "service_id": "3043",
+    "trip_id": "4764663",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765036",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-20-107",
+    "service_id": "3043",
+    "trip_id": "4764664",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765037",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764665",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765038",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764666",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765039",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764667",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765040",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764668",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765041",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764669",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765042",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764670",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765043",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764671",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765044",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764672",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765045",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764673",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765046",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764674",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765047",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764675",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765048",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764676",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765049",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764677",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765050",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764678",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765051",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764679",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765052",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764680",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765053",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764681",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765054",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764682",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765055",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764683",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765056",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764684",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765057",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764685",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765058",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764686",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765059",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764687",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765060",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764688",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765061",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764689",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765062",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764690",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765063",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764691",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765064",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764692",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765065",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764693",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765066",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764694",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765067",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764695",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765068",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764696",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765069",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764697",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765070",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764698",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765071",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764699",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765072",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764700",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765073",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764701",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765074",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764702",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765075",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764703",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765076",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764704",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765077",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764705",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765078",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764706",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765079",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764707",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765080",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764708",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765081",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764709",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765082",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764710",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765083",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764711",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765084",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764712",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765085",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-20",
+    "service_id": "3043",
+    "trip_id": "4764713",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765086",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-20",
+    "service_id": "3043",
+    "trip_id": "4764714",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764715",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764716",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
   },
   {
     "route_id": "V3-66-64",
@@ -27237,6 +29729,90 @@
     "shape_id": "2"
   },
   {
+    "route_id": "V2-20-44",
+    "service_id": "3043",
+    "trip_id": "4765295",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764929",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765296",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764930",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765297",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764931",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765298",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764932",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3043",
+    "trip_id": "4765299",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3043",
+    "trip_id": "4764933",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3043",
+    "trip_id": "4765300",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3043",
+    "trip_id": "4764934",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
     "route_id": "V3-182-56",
     "service_id": "3043",
     "trip_id": "4765301",
@@ -29965,6 +32541,748 @@
     "trip_id": "4788830",
     "trip_headsign": "Masies",
     "shape_id": "2"
+  },
+  {
+    "route_id": "V2-54-20",
+    "service_id": "3045",
+    "trip_id": "4788456",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-20",
+    "service_id": "3045",
+    "trip_id": "4788829",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788455",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-20",
+    "service_id": "3045",
+    "trip_id": "4788828",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3045",
+    "trip_id": "4788454",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788827",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788453",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788826",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3045",
+    "trip_id": "4788452",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788825",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788451",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788824",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3045",
+    "trip_id": "4788450",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788823",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788449",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788822",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3045",
+    "trip_id": "4788448",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788821",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788447",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788820",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3045",
+    "trip_id": "4788446",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788819",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788445",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788818",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3045",
+    "trip_id": "4788444",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788817",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788443",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788816",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3045",
+    "trip_id": "4788442",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788815",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788441",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788814",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3045",
+    "trip_id": "4788440",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788813",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788439",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788812",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3045",
+    "trip_id": "4788438",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788811",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788437",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788810",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3045",
+    "trip_id": "4788436",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788809",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788435",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788808",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3045",
+    "trip_id": "4788434",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788807",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788433",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788806",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3045",
+    "trip_id": "4788432",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788805",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788431",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788804",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3045",
+    "trip_id": "4788430",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788803",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788429",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788802",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3045",
+    "trip_id": "4788428",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788801",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788427",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788800",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3045",
+    "trip_id": "4788426",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788799",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788425",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788798",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3045",
+    "trip_id": "4788424",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788797",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788423",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788796",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3045",
+    "trip_id": "4788422",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788795",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788421",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788794",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3045",
+    "trip_id": "4788420",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788793",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788419",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788792",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3045",
+    "trip_id": "4788418",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788791",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788417",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788790",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3045",
+    "trip_id": "4788416",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788789",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788415",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788788",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3045",
+    "trip_id": "4788414",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788787",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788413",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788786",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3045",
+    "trip_id": "4788412",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788785",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788411",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788784",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3045",
+    "trip_id": "4788410",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788783",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788409",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788782",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3045",
+    "trip_id": "4788408",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788781",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788407",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788780",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3045",
+    "trip_id": "4788406",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-20-54",
+    "service_id": "3045",
+    "trip_id": "4788779",
+    "trip_headsign": "València Sud",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3045",
+    "trip_id": "4788405",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-20-44",
+    "service_id": "3045",
+    "trip_id": "4788778",
+    "trip_headsign": "València Sud",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788777",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788776",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
   },
   {
     "route_id": "V3-64-66",
@@ -36400,6 +39718,90 @@
     "shape_id": "48"
   },
   {
+    "route_id": "V2-20-44",
+    "service_id": "3045",
+    "trip_id": "4789081",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788563",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4789082",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788562",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4789083",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788561",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4789084",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788560",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4789085",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3045",
+    "trip_id": "4788559",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4789086",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3045",
+    "trip_id": "4788558",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
     "route_id": "V3-182-56",
     "service_id": "3045",
     "trip_id": "4789087",
@@ -38960,6 +42362,692 @@
     "trip_id": "4790254",
     "trip_headsign": "Masies",
     "shape_id": "2"
+  },
+  {
+    "route_id": "V2-54-20",
+    "service_id": "3047",
+    "trip_id": "4789952",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-20",
+    "service_id": "3047",
+    "trip_id": "4790253",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3047",
+    "trip_id": "4789951",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-20",
+    "service_id": "3047",
+    "trip_id": "4790252",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3047",
+    "trip_id": "4790251",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3047",
+    "trip_id": "4789950",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-20",
+    "service_id": "3047",
+    "trip_id": "4790250",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3047",
+    "trip_id": "4790249",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3047",
+    "trip_id": "4789949",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-20",
+    "service_id": "3047",
+    "trip_id": "4790248",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3047",
+    "trip_id": "4789948",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3047",
+    "trip_id": "4790247",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3047",
+    "trip_id": "4789947",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-20",
+    "service_id": "3047",
+    "trip_id": "4790246",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3047",
+    "trip_id": "4789946",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3047",
+    "trip_id": "4790245",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3047",
+    "trip_id": "4789945",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3047",
+    "trip_id": "4790244",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3047",
+    "trip_id": "4789944",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3047",
+    "trip_id": "4790243",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3047",
+    "trip_id": "4789943",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3047",
+    "trip_id": "4790242",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3047",
+    "trip_id": "4789942",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3047",
+    "trip_id": "4790241",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3047",
+    "trip_id": "4789941",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3047",
+    "trip_id": "4790240",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3047",
+    "trip_id": "4789940",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3047",
+    "trip_id": "4790239",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3047",
+    "trip_id": "4789939",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3047",
+    "trip_id": "4790238",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3047",
+    "trip_id": "4789938",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3047",
+    "trip_id": "4790237",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3047",
+    "trip_id": "4789937",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3047",
+    "trip_id": "4790236",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3047",
+    "trip_id": "4789936",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3047",
+    "trip_id": "4790235",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3047",
+    "trip_id": "4789935",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3047",
+    "trip_id": "4790234",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3047",
+    "trip_id": "4789934",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3047",
+    "trip_id": "4790233",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3047",
+    "trip_id": "4789933",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3047",
+    "trip_id": "4790232",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3047",
+    "trip_id": "4789932",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3047",
+    "trip_id": "4790231",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3047",
+    "trip_id": "4789931",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3047",
+    "trip_id": "4790230",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3047",
+    "trip_id": "4789930",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3047",
+    "trip_id": "4790229",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3047",
+    "trip_id": "4789929",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3047",
+    "trip_id": "4790228",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3047",
+    "trip_id": "4789928",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3047",
+    "trip_id": "4790227",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3047",
+    "trip_id": "4789927",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3047",
+    "trip_id": "4790226",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3047",
+    "trip_id": "4789926",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3047",
+    "trip_id": "4790225",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3047",
+    "trip_id": "4789925",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3047",
+    "trip_id": "4790224",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3047",
+    "trip_id": "4789924",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3047",
+    "trip_id": "4790223",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3047",
+    "trip_id": "4789923",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3047",
+    "trip_id": "4790222",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3047",
+    "trip_id": "4789922",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3047",
+    "trip_id": "4790221",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3047",
+    "trip_id": "4789921",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3047",
+    "trip_id": "4790220",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3047",
+    "trip_id": "4789920",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3047",
+    "trip_id": "4790219",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3047",
+    "trip_id": "4789919",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3047",
+    "trip_id": "4790218",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3047",
+    "trip_id": "4789918",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3047",
+    "trip_id": "4790217",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3047",
+    "trip_id": "4789917",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3047",
+    "trip_id": "4790216",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3047",
+    "trip_id": "4789916",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3047",
+    "trip_id": "4790215",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3047",
+    "trip_id": "4789915",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3047",
+    "trip_id": "4790214",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3047",
+    "trip_id": "4789914",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3047",
+    "trip_id": "4790213",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3047",
+    "trip_id": "4789913",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3047",
+    "trip_id": "4790212",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3047",
+    "trip_id": "4789912",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3047",
+    "trip_id": "4790211",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3047",
+    "trip_id": "4789911",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3047",
+    "trip_id": "4790210",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3047",
+    "trip_id": "4789910",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3047",
+    "trip_id": "4790209",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3047",
+    "trip_id": "4789909",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3047",
+    "trip_id": "4790208",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-20-107",
+    "service_id": "3047",
+    "trip_id": "4789908",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-20-54",
+    "service_id": "3047",
+    "trip_id": "4790207",
+    "trip_headsign": "València Sud",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3047",
+    "trip_id": "4789907",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-20-44",
+    "service_id": "3047",
+    "trip_id": "4790206",
+    "trip_headsign": "València Sud",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-20-107",
+    "service_id": "3047",
+    "trip_id": "4789906",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3047",
+    "trip_id": "4790205",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-20-54",
+    "service_id": "3047",
+    "trip_id": "4790204",
+    "trip_headsign": "València Sud",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3047",
+    "trip_id": "4790203",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
   },
   {
     "route_id": "V3-64-66",
@@ -46823,6 +50911,748 @@
     "shape_id": "48"
   },
   {
+    "route_id": "V2-20-54",
+    "service_id": "3048",
+    "trip_id": "4770568",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-20-107",
+    "service_id": "3048",
+    "trip_id": "4770196",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770569",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-20-107",
+    "service_id": "3048",
+    "trip_id": "4770197",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770570",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770198",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770571",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770199",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770572",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770200",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770573",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770201",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770574",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770202",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770575",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770203",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770576",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770204",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770577",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770205",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770578",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770206",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770579",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770207",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770580",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770208",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770581",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770209",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770582",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770210",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770583",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770211",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770584",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770212",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770585",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770213",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770586",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770214",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770587",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770215",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770588",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770216",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770589",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770217",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770590",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770218",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770591",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770219",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770592",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770220",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770593",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770221",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770594",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770222",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770595",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770223",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770596",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770224",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770597",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770225",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770598",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770226",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770599",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770227",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770600",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770228",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770601",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770229",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770602",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770230",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770603",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770231",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770604",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770232",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770605",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770233",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770606",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770234",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770607",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770235",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770608",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770236",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770609",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770237",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770610",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770238",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770611",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770239",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770612",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770240",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770613",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770241",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770614",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770242",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770615",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770243",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770616",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770244",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770617",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770245",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770618",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-20",
+    "service_id": "3048",
+    "trip_id": "4770246",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770619",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-20",
+    "service_id": "3048",
+    "trip_id": "4770247",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770248",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770249",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
     "route_id": "V3-66-64",
     "service_id": "3048",
     "trip_id": "4770620",
@@ -53256,6 +58086,90 @@
     "shape_id": "2"
   },
   {
+    "route_id": "V2-20-44",
+    "service_id": "3048",
+    "trip_id": "4770828",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770462",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770829",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770463",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770830",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770464",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770831",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770465",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3048",
+    "trip_id": "4770832",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3048",
+    "trip_id": "4770466",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3048",
+    "trip_id": "4770833",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3048",
+    "trip_id": "4770467",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
     "route_id": "V3-182-56",
     "service_id": "3048",
     "trip_id": "4770834",
@@ -55865,6 +60779,678 @@
     "trip_id": "4792064",
     "trip_headsign": "Masies",
     "shape_id": "2"
+  },
+  {
+    "route_id": "V2-54-20",
+    "service_id": "3050",
+    "trip_id": "4791733",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-20",
+    "service_id": "3050",
+    "trip_id": "4792063",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3050",
+    "trip_id": "4791732",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-20",
+    "service_id": "3050",
+    "trip_id": "4792062",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3050",
+    "trip_id": "4792061",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3050",
+    "trip_id": "4791731",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-20",
+    "service_id": "3050",
+    "trip_id": "4792060",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792059",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3050",
+    "trip_id": "4791730",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-20",
+    "service_id": "3050",
+    "trip_id": "4792058",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3050",
+    "trip_id": "4791729",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792057",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3050",
+    "trip_id": "4791728",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-20",
+    "service_id": "3050",
+    "trip_id": "4792056",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3050",
+    "trip_id": "4791727",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792055",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3050",
+    "trip_id": "4791726",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3050",
+    "trip_id": "4792054",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3050",
+    "trip_id": "4791725",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792053",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3050",
+    "trip_id": "4791724",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3050",
+    "trip_id": "4792052",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3050",
+    "trip_id": "4791723",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792051",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3050",
+    "trip_id": "4791722",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3050",
+    "trip_id": "4792050",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3050",
+    "trip_id": "4791721",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792049",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3050",
+    "trip_id": "4791720",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3050",
+    "trip_id": "4792048",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3050",
+    "trip_id": "4791719",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792047",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3050",
+    "trip_id": "4791718",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3050",
+    "trip_id": "4792046",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3050",
+    "trip_id": "4791717",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792045",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3050",
+    "trip_id": "4791716",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3050",
+    "trip_id": "4792044",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3050",
+    "trip_id": "4791715",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792043",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3050",
+    "trip_id": "4791714",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3050",
+    "trip_id": "4792042",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3050",
+    "trip_id": "4791713",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792041",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3050",
+    "trip_id": "4791712",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3050",
+    "trip_id": "4792040",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3050",
+    "trip_id": "4791711",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792039",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3050",
+    "trip_id": "4791710",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3050",
+    "trip_id": "4792038",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3050",
+    "trip_id": "4791709",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792037",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3050",
+    "trip_id": "4791708",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3050",
+    "trip_id": "4792036",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3050",
+    "trip_id": "4791707",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792035",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3050",
+    "trip_id": "4791706",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3050",
+    "trip_id": "4792034",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3050",
+    "trip_id": "4791705",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792033",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3050",
+    "trip_id": "4791704",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3050",
+    "trip_id": "4792032",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3050",
+    "trip_id": "4791703",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792031",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3050",
+    "trip_id": "4791702",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3050",
+    "trip_id": "4792030",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3050",
+    "trip_id": "4791701",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792029",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3050",
+    "trip_id": "4791700",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3050",
+    "trip_id": "4792028",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3050",
+    "trip_id": "4791699",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792027",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3050",
+    "trip_id": "4791698",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3050",
+    "trip_id": "4792026",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3050",
+    "trip_id": "4791697",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792025",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3050",
+    "trip_id": "4791696",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3050",
+    "trip_id": "4792024",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3050",
+    "trip_id": "4791695",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792023",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3050",
+    "trip_id": "4791694",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3050",
+    "trip_id": "4792022",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3050",
+    "trip_id": "4791693",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792021",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3050",
+    "trip_id": "4791692",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3050",
+    "trip_id": "4792020",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3050",
+    "trip_id": "4791691",
+    "trip_headsign": "Paterna",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792019",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3050",
+    "trip_id": "4791690",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3050",
+    "trip_id": "4792018",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-20-107",
+    "service_id": "3050",
+    "trip_id": "4791689",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-20-54",
+    "service_id": "3050",
+    "trip_id": "4792017",
+    "trip_headsign": "València Sud",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3050",
+    "trip_id": "4791688",
+    "trip_headsign": "Llíria",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-20-44",
+    "service_id": "3050",
+    "trip_id": "4792016",
+    "trip_headsign": "València Sud",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792015",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792014",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
   },
   {
     "route_id": "V3-64-66",
@@ -61614,6 +67200,90 @@
     "shape_id": "48"
   },
   {
+    "route_id": "V2-20-44",
+    "service_id": "3050",
+    "trip_id": "4792281",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4791830",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792282",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3050",
+    "trip_id": "4791829",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3050",
+    "trip_id": "4792283",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3050",
+    "trip_id": "4791828",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792284",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4791827",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3050",
+    "trip_id": "4792285",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3050",
+    "trip_id": "4791826",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4792286",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3050",
+    "trip_id": "4791825",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "47"
+  },
+  {
     "route_id": "V3-182-56",
     "service_id": "3050",
     "trip_id": "4792287",
@@ -64377,6 +70047,762 @@
     "trip_id": "4774267",
     "trip_headsign": "Masies",
     "shape_id": "48"
+  },
+  {
+    "route_id": "V2-20-54",
+    "service_id": "3052",
+    "trip_id": "4774609",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-20-107",
+    "service_id": "3052",
+    "trip_id": "4774268",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774610",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-20-107",
+    "service_id": "3052",
+    "trip_id": "4774269",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3052",
+    "trip_id": "4774611",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3052",
+    "trip_id": "4774270",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774612",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3052",
+    "trip_id": "4774271",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3052",
+    "trip_id": "4774613",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3052",
+    "trip_id": "4774272",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774614",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3052",
+    "trip_id": "4774273",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3052",
+    "trip_id": "4774615",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3052",
+    "trip_id": "4774274",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774616",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3052",
+    "trip_id": "4774275",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3052",
+    "trip_id": "4774617",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3052",
+    "trip_id": "4774276",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774618",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3052",
+    "trip_id": "4774277",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3052",
+    "trip_id": "4774619",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3052",
+    "trip_id": "4774278",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774620",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3052",
+    "trip_id": "4774279",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3052",
+    "trip_id": "4774621",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3052",
+    "trip_id": "4774280",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774622",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3052",
+    "trip_id": "4774281",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3052",
+    "trip_id": "4774623",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3052",
+    "trip_id": "4774282",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774624",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3052",
+    "trip_id": "4774283",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3052",
+    "trip_id": "4774625",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3052",
+    "trip_id": "4774284",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774626",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3052",
+    "trip_id": "4774285",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3052",
+    "trip_id": "4774627",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3052",
+    "trip_id": "4774286",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774628",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3052",
+    "trip_id": "4774287",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3052",
+    "trip_id": "4774629",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3052",
+    "trip_id": "4774288",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774630",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3052",
+    "trip_id": "4774289",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3052",
+    "trip_id": "4774631",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3052",
+    "trip_id": "4774290",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774632",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3052",
+    "trip_id": "4774291",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3052",
+    "trip_id": "4774633",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3052",
+    "trip_id": "4774292",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774634",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3052",
+    "trip_id": "4774293",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3052",
+    "trip_id": "4774635",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3052",
+    "trip_id": "4774294",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774636",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3052",
+    "trip_id": "4774295",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3052",
+    "trip_id": "4774637",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3052",
+    "trip_id": "4774296",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774638",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3052",
+    "trip_id": "4774297",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3052",
+    "trip_id": "4774639",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3052",
+    "trip_id": "4774298",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774640",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3052",
+    "trip_id": "4774299",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3052",
+    "trip_id": "4774641",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3052",
+    "trip_id": "4774300",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774642",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3052",
+    "trip_id": "4774301",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3052",
+    "trip_id": "4774643",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3052",
+    "trip_id": "4774302",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774644",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3052",
+    "trip_id": "4774303",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3052",
+    "trip_id": "4774645",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3052",
+    "trip_id": "4774304",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774646",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3052",
+    "trip_id": "4774305",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3052",
+    "trip_id": "4774647",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3052",
+    "trip_id": "4774306",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774648",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3052",
+    "trip_id": "4774307",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3052",
+    "trip_id": "4774649",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3052",
+    "trip_id": "4774308",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774650",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3052",
+    "trip_id": "4774309",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3052",
+    "trip_id": "4774651",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3052",
+    "trip_id": "4774310",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774652",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3052",
+    "trip_id": "4774311",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3052",
+    "trip_id": "4774653",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3052",
+    "trip_id": "4774312",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774654",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3052",
+    "trip_id": "4774313",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3052",
+    "trip_id": "4774655",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3052",
+    "trip_id": "4774314",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774656",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3052",
+    "trip_id": "4774315",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3052",
+    "trip_id": "4774657",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3052",
+    "trip_id": "4774316",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774658",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3052",
+    "trip_id": "4774317",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3052",
+    "trip_id": "4774659",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-20",
+    "service_id": "3052",
+    "trip_id": "4774318",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3052",
+    "trip_id": "4774660",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-20",
+    "service_id": "3052",
+    "trip_id": "4774319",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-20",
+    "service_id": "3052",
+    "trip_id": "4774661",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3052",
+    "trip_id": "4774320",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-54-20",
+    "service_id": "3052",
+    "trip_id": "4774321",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3052",
+    "trip_id": "4774322",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
   },
   {
     "route_id": "V3-66-64",
