@@ -16,7 +16,7 @@ print("📂 Extrayendo archivos...")
 with zipfile.ZipFile("gtfs.zip", 'r') as zip_ref:
     zip_ref.extractall("gtfs")
 
-os.makedirs("public/gtfs", exist_ok=True)
+os.makedirs("gtfs", exist_ok=True)
 
 
 rutas_deseadas = {"1", "1", "3", "4", "5", "6", "7", "8", "9", "10"}
