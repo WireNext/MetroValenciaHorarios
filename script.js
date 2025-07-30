@@ -39,7 +39,7 @@ function iniciarMapa(stops, stopTimes, trips, routes, shapes) {
       font-weight: bold;
       font-size: 18px;
       ">
-      🚌
+      🚇
       </div>`,
     className: '',
     iconSize: [30, 30],
