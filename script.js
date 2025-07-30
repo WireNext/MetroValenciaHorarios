@@ -20,8 +20,8 @@ async function cargarDatosGTFS() {
 }
 
 function iniciarMapa(stops, stopTimes, trips, routes, shapes) {
-  const map = L.map('map').setView([39.4699, -0.3763], 14);
-  
+  const map = L.map('map').setView([39.4699, -0.3763], 14); // Valencia
+
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; OpenStreetMap contributors'
   }).addTo(map);
@@ -47,7 +47,7 @@ function iniciarMapa(stops, stopTimes, trips, routes, shapes) {
     popupAnchor: [0, -30]
   });
 
-  // Añadimos estilos para parpadeo
+  // Estilo de parpadeo
   const style = document.createElement('style');
   style.innerHTML = `
     @keyframes parpadeo {
@@ -117,7 +117,6 @@ function iniciarMapa(stops, stopTimes, trips, routes, shapes) {
       let html = `<strong>${stop.stop_name}</strong><br><ul>`;
 
       proximosMinutos.forEach(h => {
-        // Si quedan 1 minuto o menos, añadimos la clase parpadeo
         if (h.diffMin <= 1) {
           html += `<li><b>${h.linea}</b> ${h.nombre}: <span class="parpadeo">en ${Math.round(h.diffMin)} min</span></li>`;
         } else {
@@ -130,7 +129,6 @@ function iniciarMapa(stops, stopTimes, trips, routes, shapes) {
       });
 
       html += '</ul>';
-
       marker.setPopupContent(html);
     });
 
@@ -139,7 +137,7 @@ function iniciarMapa(stops, stopTimes, trips, routes, shapes) {
 
   map.addLayer(clusterGroup);
 
-  // Dibujar shapes (corregido para formato objeto)
+  // Dibujar shapes con route_color
   for (const shapeId in shapes) {
     const puntos = shapes[shapeId];
 
@@ -150,8 +148,19 @@ function iniciarMapa(stops, stopTimes, trips, routes, shapes) {
       parseFloat(pt.shape_pt_lon)
     ]);
 
+    // Buscar trip y ruta correspondiente
+    const trip = trips.find(t => t.shape_id === shapeId);
+    let color = '#0078A8'; // color por defecto
+
+    if (trip) {
+      const ruta = routes.find(r => r.route_id === trip.route_id);
+      if (ruta && ruta.route_color) {
+        color = '#' + ruta.route_color;
+      }
+    }
+
     L.polyline(latlngs, {
-      color: 'blue',
+      color,
       weight: 3,
       opacity: 0.7
     }).addTo(map);
