@@ -1,1 +1,1010 @@
-[]
+[
+  {
+    "route_id": "V1-1-20",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Castelló - València Sud",
+    "route_type": "1",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-1-29",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Castelló - Empalme",
+    "route_type": "1",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-1-36",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Castelló - Seminari - CEU",
+    "route_type": "1",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-1-37",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Castelló - Masies",
+    "route_type": "1",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-13-20",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Picassent - València Sud",
+    "route_type": "1",
+    "route_color": "E60096",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-13-29",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Picassent - Empalme",
+    "route_type": "1",
+    "route_color": "E60096",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-13-36",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Picassent - Seminari - CEU",
+    "route_type": "1",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-13-37",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Picassent - Masies",
+    "route_type": "1",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-17-20",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Torrent - València Sud",
+    "route_type": "1",
+    "route_color": "E60096",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-17-29",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Torrent - Empalme",
+    "route_type": "1",
+    "route_color": "E60096",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-17-36",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Torrent - Seminari - CEU",
+    "route_type": "1",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-17-37",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Torrent - Masies",
+    "route_type": "1",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-20-1",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - València Sud - Castelló",
+    "route_type": "1",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-20-13",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - València Sud - Picassent",
+    "route_type": "1",
+    "route_color": "E60096",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-20-17",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - València Sud - Torrent",
+    "route_type": "1",
+    "route_color": "E60096",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-20-29",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - València Sud - Empalme",
+    "route_type": "1",
+    "route_color": "E60096",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-20-36",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - València Sud - Seminari - CEU",
+    "route_type": "1",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-20-37",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - València Sud - Masies",
+    "route_type": "1",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-20-5",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - València Sud - L'Alcúdia",
+    "route_type": "1",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-29-1",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Empalme - Castelló",
+    "route_type": "1",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-29-17",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Empalme - Torrent",
+    "route_type": "1",
+    "route_color": "E60096",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-29-20",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Empalme - València Sud",
+    "route_type": "1",
+    "route_color": "E60096",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-36-1",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Seminari - CEU - Castelló",
+    "route_type": "1",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-36-13",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Seminari - CEU - Picassent",
+    "route_type": "1",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-36-17",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Seminari - CEU - Torrent",
+    "route_type": "1",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-36-20",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Seminari - CEU - València Sud",
+    "route_type": "1",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-36-5",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Seminari - CEU - L'Alcúdia",
+    "route_type": "1",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-37-1",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Masies - Castelló",
+    "route_type": "0",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-37-107",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Masies - Torrent Avinguda",
+    "route_type": "0",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-37-13",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Masies - Picassent",
+    "route_type": "1",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-37-17",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Masies - Torrent",
+    "route_type": "1",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-37-20",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Masies - València Sud",
+    "route_type": "0",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-37-39",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Masies - Bétera",
+    "route_type": "1",
+    "route_color": "E60096",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-37-5",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Masies - L'Alcúdia",
+    "route_type": "1",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-39-37",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Bétera - Masies",
+    "route_type": "1",
+    "route_color": "E60096",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-5-36",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - L'Alcúdia - Seminari - CEU",
+    "route_type": "1",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-5-37",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - L'Alcúdia - Masies",
+    "route_type": "0",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V10-190-194",
+    "agency_id": "1",
+    "route_short_name": "10",
+    "route_long_name": "10 - Alacant - Ciutat Arts i Ciències - Justícia",
+    "route_type": "0",
+    "route_color": "B7DD79",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V10-190-197",
+    "agency_id": "1",
+    "route_short_name": "10",
+    "route_long_name": "10 - Alacant - Natzaret",
+    "route_type": "0",
+    "route_color": "B7DD79",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V10-194-190",
+    "agency_id": "1",
+    "route_short_name": "10",
+    "route_long_name": "10 - Ciutat Arts i Ciències - Justícia - Alacant",
+    "route_type": "0",
+    "route_color": "B7DD79",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V10-197-190",
+    "agency_id": "1",
+    "route_short_name": "10",
+    "route_long_name": "10 - Natzaret - Alacant",
+    "route_type": "0",
+    "route_color": "B7DD79",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V3-179-64",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Salt de l'Aigua - Rafelbunyol",
+    "route_type": "0",
+    "route_color": "DD052C",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V3-182-56",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Aeroport - Alboraia Peris Aragó",
+    "route_type": "1",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V3-182-61",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Aeroport - Museros",
+    "route_type": "0",
+    "route_color": "DD052C",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V3-182-64",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Aeroport - Rafelbunyol",
+    "route_type": "1",
+    "route_color": "DD052C",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V3-182-66",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Aeroport - Machado",
+    "route_type": "1",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V3-56-182",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Alboraia Peris Aragó - Aeroport",
+    "route_type": "1",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V3-60-64",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Albalat dels Sorells - Rafelbunyol",
+    "route_type": "0",
+    "route_color": "DD052C",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V3-64-182",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Rafelbunyol - Aeroport",
+    "route_type": "1",
+    "route_color": "DD052C",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V3-64-61",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Rafelbunyol - Museros",
+    "route_type": "0",
+    "route_color": "DD052C",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V3-64-66",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Rafelbunyol - Machado",
+    "route_type": "1",
+    "route_color": "DD052C",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V3-66-182",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Machado - Aeroport",
+    "route_type": "1",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V3-66-64",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Machado - Rafelbunyol",
+    "route_type": "1",
+    "route_color": "DD052C",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V3-66-73",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Machado - Av. del Cid",
+    "route_type": "1",
+    "route_color": "DD052C",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V3-73-64",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Av. del Cid - Rafelbunyol",
+    "route_type": "1",
+    "route_color": "DD052C",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V3-74-64",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Nou d'Octubre - Rafelbunyol",
+    "route_type": "0",
+    "route_color": "DD052C",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-102-94",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Vicent Andrés Estellés - Beteró",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-102-98",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Vicent Andrés Estellés - Dr. Lluch",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-114-98",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Mas del Rosari - Dr. Lluch",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-115-29",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Ll. Llarga - Terramelar - Empalme",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-115-94",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Ll. Llarga - Terramelar - Beteró",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-115-98",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Ll. Llarga - Terramelar - Dr. Lluch",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-29-115",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Empalme - Ll. Llarga - Terramelar",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-87-98",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Pont de Fusta - Dr. Lluch",
+    "route_type": "1",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-94-102",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Beteró - Vicent Andrés Estellés",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-94-115",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Beteró - Ll. Llarga - Terramelar",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-95-98",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - La Cadena - Dr. Lluch",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-98-102",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Dr. Lluch - Vicent Andrés Estellés",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-98-114",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Dr. Lluch - Mas del Rosari",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-98-95",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Dr. Lluch - La Cadena",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V5-120-182",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Aragó - Aeroport",
+    "route_type": "1",
+    "route_color": "008F71",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V5-120-69",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Aragó - Alameda",
+    "route_type": "0",
+    "route_color": "008F71",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V5-120-73",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Aragó - Av. del Cid",
+    "route_type": "1",
+    "route_color": "008F71",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V5-182-120",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Aeroport - Aragó",
+    "route_type": "1",
+    "route_color": "008F71",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V5-182-66",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Aeroport - Machado",
+    "route_type": "1",
+    "route_color": "8884BF",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V5-66-69",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Machado - Alameda",
+    "route_type": "1",
+    "route_color": "8884BF",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V5-69-120",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Alameda - Aragó",
+    "route_type": "0",
+    "route_color": "008F71",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V5-69-66",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Alameda - Machado",
+    "route_type": "1",
+    "route_color": "8884BF",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V5-73-120",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Av. del Cid - Aragó",
+    "route_type": "1",
+    "route_color": "008F71",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V5-73-66",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Av. del Cid - Machado",
+    "route_type": "1",
+    "route_color": "8884BF",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V5-75-120",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Mislata - Aragó",
+    "route_type": "0",
+    "route_color": "008F71",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V6-123-132",
+    "agency_id": "1",
+    "route_short_name": "6",
+    "route_long_name": "6 - Marítim - Tossal del Rei",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V6-123-95",
+    "agency_id": "1",
+    "route_short_name": "6",
+    "route_long_name": "6 - Marítim - La Cadena",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V6-123-98",
+    "agency_id": "1",
+    "route_short_name": "6",
+    "route_long_name": "6 - Marítim - Dr. Lluch",
+    "route_type": "0",
+    "route_color": "8884BF",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V6-132-123",
+    "agency_id": "1",
+    "route_short_name": "6",
+    "route_long_name": "6 - Tossal del Rei - Marítim",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V6-132-94",
+    "agency_id": "1",
+    "route_short_name": "6",
+    "route_long_name": "6 - Tossal del Rei - Beteró",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V6-94-132",
+    "agency_id": "1",
+    "route_short_name": "6",
+    "route_long_name": "6 - Beteró - Tossal del Rei",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V6-95-123",
+    "agency_id": "1",
+    "route_short_name": "6",
+    "route_long_name": "6 - La Cadena - Marítim",
+    "route_type": "0",
+    "route_color": "8884BF",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V6-95-132",
+    "agency_id": "1",
+    "route_short_name": "6",
+    "route_long_name": "6 - La Cadena - Tossal del Rei",
+    "route_type": "1",
+    "route_color": "8884BF",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V6-98-123",
+    "agency_id": "1",
+    "route_short_name": "6",
+    "route_long_name": "6 - Dr. Lluch - Marítim",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V7-107-120",
+    "agency_id": "1",
+    "route_short_name": "7",
+    "route_long_name": "7 - Torrent Avinguda - Aragó",
+    "route_type": "1",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V7-107-66",
+    "agency_id": "1",
+    "route_short_name": "7",
+    "route_long_name": "7 - Torrent Avinguda - Machado",
+    "route_type": "1",
+    "route_color": "82CEE6",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V7-120-107",
+    "agency_id": "1",
+    "route_short_name": "7",
+    "route_long_name": "7 - Aragó - Torrent Avinguda",
+    "route_type": "1",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V7-66-107",
+    "agency_id": "1",
+    "route_short_name": "7",
+    "route_long_name": "7 - Machado - Torrent Avinguda",
+    "route_type": "1",
+    "route_color": "82CEE6",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V7-66-69",
+    "agency_id": "1",
+    "route_short_name": "7",
+    "route_long_name": "7 - Machado - Alameda",
+    "route_type": "1",
+    "route_color": "82CEE6",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V7-69-120",
+    "agency_id": "1",
+    "route_short_name": "7",
+    "route_long_name": "7 - Alameda - Aragó",
+    "route_type": "1",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V7-69-66",
+    "agency_id": "1",
+    "route_short_name": "7",
+    "route_long_name": "7 - Alameda - Machado",
+    "route_type": "1",
+    "route_color": "82CEE6",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V8-123-126",
+    "agency_id": "1",
+    "route_short_name": "8",
+    "route_long_name": "8 - Marítim - Neptú",
+    "route_type": "0",
+    "route_color": "B8804F",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V8-123-95",
+    "agency_id": "1",
+    "route_short_name": "8",
+    "route_long_name": "8 - Marítim - La Cadena",
+    "route_type": "0",
+    "route_color": "B8804F",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V8-123-98",
+    "agency_id": "1",
+    "route_short_name": "8",
+    "route_long_name": "8 - Marítim - Dr. Lluch",
+    "route_type": "0",
+    "route_color": "82CEE6",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V8-126-123",
+    "agency_id": "1",
+    "route_short_name": "8",
+    "route_long_name": "8 - Neptú - Marítim",
+    "route_type": "0",
+    "route_color": "B8804F",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V8-95-123",
+    "agency_id": "1",
+    "route_short_name": "8",
+    "route_long_name": "8 - La Cadena - Marítim",
+    "route_type": "0",
+    "route_color": "82CEE6",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V9-186-56",
+    "agency_id": "1",
+    "route_short_name": "9",
+    "route_long_name": "9 - Riba-roja de Túria - Alboraia Peris Aragó",
+    "route_type": "1",
+    "route_color": "B7DD79",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V9-186-61",
+    "agency_id": "1",
+    "route_short_name": "9",
+    "route_long_name": "9 - Riba-roja de Túria - Museros",
+    "route_type": "0",
+    "route_color": "B8804F",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V9-186-64",
+    "agency_id": "1",
+    "route_short_name": "9",
+    "route_long_name": "9 - Riba-roja de Túria - Rafelbunyol",
+    "route_type": "0",
+    "route_color": "B8804F",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V9-186-66",
+    "agency_id": "1",
+    "route_short_name": "9",
+    "route_long_name": "9 - Riba-roja de Túria - Machado",
+    "route_type": "1",
+    "route_color": "B7DD79",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V9-56-186",
+    "agency_id": "1",
+    "route_short_name": "9",
+    "route_long_name": "9 - Alboraia Peris Aragó - Riba-roja de Túria",
+    "route_type": "1",
+    "route_color": "B7DD79",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V9-56-73",
+    "agency_id": "1",
+    "route_short_name": "9",
+    "route_long_name": "9 - Alboraia Peris Aragó - Av. del Cid",
+    "route_type": "1",
+    "route_color": "B7DD79",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V9-66-186",
+    "agency_id": "1",
+    "route_short_name": "9",
+    "route_long_name": "9 - Machado - Riba-roja de Túria",
+    "route_type": "1",
+    "route_color": "B7DD79",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V9-66-73",
+    "agency_id": "1",
+    "route_short_name": "9",
+    "route_long_name": "9 - Machado - Av. del Cid",
+    "route_type": "1",
+    "route_color": "B7DD79",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V9-73-56",
+    "agency_id": "1",
+    "route_short_name": "9",
+    "route_long_name": "9 - Av. del Cid - Alboraia Peris Aragó",
+    "route_type": "1",
+    "route_color": "B7DD79",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V9-73-66",
+    "agency_id": "1",
+    "route_short_name": "9",
+    "route_long_name": "9 - Av. del Cid - Machado",
+    "route_type": "1",
+    "route_color": "B7DD79",
+    "route_text_color": "FFFFFF"
+  }
+]
