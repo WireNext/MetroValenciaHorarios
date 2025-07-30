@@ -1,0 +1,272 @@
+[
+  {
+    "stop_id": "59990010102",
+    "stop_name": "Raval universitari [Castelló de la Plana]",
+    "stop_lat": "39.992498812",
+    "stop_lon": "-0.0637168192"
+  },
+  {
+    "stop_id": "59990010103",
+    "stop_name": "Pont Segle XXI [Castelló de la Plana]",
+    "stop_lat": "39.991218525",
+    "stop_lon": "-0.058005924"
+  },
+  {
+    "stop_id": "59990010105",
+    "stop_name": "Pl. Tetuán [Castelló de la Plana]",
+    "stop_lat": "39.9871189795",
+    "stop_lon": "-0.0403419225"
+  },
+  {
+    "stop_id": "59990010106",
+    "stop_name": "Pl. Cardona vives – Antic Asil [Castelló de la Plana]",
+    "stop_lat": "39.9858293866",
+    "stop_lon": "-0.035425092"
+  },
+  {
+    "stop_id": "59990010107",
+    "stop_name": "Av. del Mar – Torreblanca [Castelló de la Plana]",
+    "stop_lat": "39.984881807",
+    "stop_lon": "-0.0307924692"
+  },
+  {
+    "stop_id": "59990010108",
+    "stop_name": "Av. del Mar – Columbretes [Castelló de la Plana]",
+    "stop_lat": "39.984248081",
+    "stop_lon": "-0.0274995867"
+  },
+  {
+    "stop_id": "59990010109",
+    "stop_name": "Av. del Mar – Recito Ferial [Castelló de la Plana]",
+    "stop_lat": "39.9832948687",
+    "stop_lon": "-0.0226502595"
+  },
+  {
+    "stop_id": "59990010110",
+    "stop_name": "Av. del Mar – Autovia Port [Castelló de la Plana]",
+    "stop_lat": "39.9813058989",
+    "stop_lon": "-0.0127905361"
+  },
+  {
+    "stop_id": "59990010111",
+    "stop_name": "Av. del Mar – Donació [Castelló de la Plana]",
+    "stop_lat": "39.9801382546",
+    "stop_lon": "-0.0069770329"
+  },
+  {
+    "stop_id": "59990010112",
+    "stop_name": "Av. del mar – Patos [Castelló de la Plana]",
+    "stop_lat": "39.9786050231",
+    "stop_lon": "0.0005597399"
+  },
+  {
+    "stop_id": "59990010113",
+    "stop_name": "Av. del Mar – Institut [Castelló de la Plana]",
+    "stop_lat": "39.9771333737",
+    "stop_lon": "0.0079069762"
+  },
+  {
+    "stop_id": "59990010114",
+    "stop_name": "Rotonda Centenari [Castelló de la Plana]",
+    "stop_lat": "39.9751700711",
+    "stop_lon": "0.0150362482"
+  },
+  {
+    "stop_id": "59990010201",
+    "stop_name": "Rotonda Centenari (front) [Castelló de la Plana]",
+    "stop_lat": "39.9752498104",
+    "stop_lon": "0.0150830851"
+  },
+  {
+    "stop_id": "59990010202",
+    "stop_name": "Av. del Mar – Institut (front) [Castelló de la Plana]",
+    "stop_lat": "39.9769101293",
+    "stop_lon": "0.0092899553"
+  },
+  {
+    "stop_id": "59990010203",
+    "stop_name": "Av. del mar – Patos (front) [Castelló de la Plana]",
+    "stop_lat": "39.9786900063",
+    "stop_lon": "0.0005882214"
+  },
+  {
+    "stop_id": "59990010204",
+    "stop_name": "Av. del Mar – Donació (front) [Castelló de la Plana]",
+    "stop_lat": "39.9802200686",
+    "stop_lon": "-0.0069486984"
+  },
+  {
+    "stop_id": "59990010205",
+    "stop_name": "Av. del Mar – Autovia Port (front) [Castelló de la Plana]",
+    "stop_lat": "39.9813924183",
+    "stop_lon": "-0.0127599394"
+  },
+  {
+    "stop_id": "59990010206",
+    "stop_name": "Av. del Mar – Recito Ferial (front) [Castelló de la Plana]",
+    "stop_lat": "39.9833971948",
+    "stop_lon": "-0.0226169238"
+  },
+  {
+    "stop_id": "59990010207",
+    "stop_name": "Av. del Mar – Columbretes (front) [Castelló de la Plana]",
+    "stop_lat": "39.9843283152",
+    "stop_lon": "-0.0274713432"
+  },
+  {
+    "stop_id": "59990010208",
+    "stop_name": "Av. del Mar – Torreblanca (front) [Castelló de la Plana]",
+    "stop_lat": "39.9849741988",
+    "stop_lon": "-0.030804975"
+  },
+  {
+    "stop_id": "59990010209",
+    "stop_name": "Pl. Cardona vives – Antic Asil (front) [Castelló de la Plana]",
+    "stop_lat": "39.9856602113",
+    "stop_lon": "-0.0341596345"
+  },
+  {
+    "stop_id": "59990010210",
+    "stop_name": "Pl. Jutge Borrull [Castelló de la Plana]",
+    "stop_lat": "39.9838375462",
+    "stop_lon": "-0.0356333592"
+  },
+  {
+    "stop_id": "59990010211",
+    "stop_name": "Porta del Sol [Castelló de la Plana]",
+    "stop_lat": "39.9844714457",
+    "stop_lon": "-0.0387598599"
+  },
+  {
+    "stop_id": "59990010212",
+    "stop_name": "Av. Rei en Jaume I [Castelló de la Plana]",
+    "stop_lat": "39.9859659043",
+    "stop_lon": "-0.0403755885"
+  },
+  {
+    "stop_id": "59990030102",
+    "stop_name": "Camí Serradal 10 [Castelló de la Plana]",
+    "stop_lat": "39.9770877054",
+    "stop_lon": "0.0125962009"
+  },
+  {
+    "stop_id": "59990030103",
+    "stop_name": "Camí Serradal (front esglèsia Sant Pau) [Castelló de la Plana]",
+    "stop_lat": "39.9804705993",
+    "stop_lon": "0.0138372301"
+  },
+  {
+    "stop_id": "59990030105",
+    "stop_name": "Camí Serradal (Urb. Portes del Pinar) [Castelló de la Plana]",
+    "stop_lat": "39.9877985113",
+    "stop_lon": "0.0172781531"
+  },
+  {
+    "stop_id": "59990030106",
+    "stop_name": "Camí Serradal 300 [Castelló de la Plana]",
+    "stop_lat": "39.9909402448",
+    "stop_lon": "0.0187447905"
+  },
+  {
+    "stop_id": "59990030107",
+    "stop_name": "Camí mascarat 5 [Castelló de la Plana]",
+    "stop_lat": "39.9946254326",
+    "stop_lon": "0.0225046959"
+  },
+  {
+    "stop_id": "59990030108",
+    "stop_name": "Camçi Mascarat (Urb. Ciutat Jardí) [Castelló de la Plana]",
+    "stop_lat": "39.9939618499",
+    "stop_lon": "0.0257063747"
+  },
+  {
+    "stop_id": "59990040105",
+    "stop_name": "Pas. Morella – Parc Ribalta [Castelló de la Plana]",
+    "stop_lat": "39.9887049174",
+    "stop_lon": "-0.0471881531"
+  },
+  {
+    "stop_id": "59990010213",
+    "stop_name": "Pas. Morella – Parc Ribalta (front) [Castelló de la Plana]",
+    "stop_lat": "39.9887930014",
+    "stop_lon": "-0.0472118065"
+  },
+  {
+    "stop_id": "59990010214",
+    "stop_name": "Estació Intermodal (front) [Castelló de la Plana]",
+    "stop_lat": "39.9897646532",
+    "stop_lon": "-0.0512395828"
+  },
+  {
+    "stop_id": "59990010215",
+    "stop_name": "Pont Segle XXI (front) [Castelló de la Plana]",
+    "stop_lat": "39.9913052826",
+    "stop_lon": "-0.0579774741"
+  },
+  {
+    "stop_id": "59990010216",
+    "stop_name": "Raval universitari (front) [Castelló de la Plana]",
+    "stop_lat": "39.9925893706",
+    "stop_lon": "-0.0636882129"
+  },
+  {
+    "stop_id": "59990010104",
+    "stop_name": "Estació Intermodal (TRAM) [Castelló de la Plana]",
+    "stop_lat": "39.9896633422",
+    "stop_lon": "-0.051219219"
+  },
+  {
+    "stop_id": "5105140112",
+    "stop_name": "UJI (Ágora) [Castelló de la Plana]",
+    "stop_lat": "39.994463999",
+    "stop_lon": "-0.068611"
+  },
+  {
+    "stop_id": "5105160106",
+    "stop_name": "camí Serradal-Pinar Golf [Castelló de la Plana]",
+    "stop_lat": "39.982952999",
+    "stop_lon": "0.014984"
+  },
+  {
+    "stop_id": "5107170205",
+    "stop_name": "av. Ferrandis Salvador - front 26 [Castelló de la Plana]",
+    "stop_lat": "39.983441999",
+    "stop_lon": "0.020476"
+  },
+  {
+    "stop_id": "5107170206",
+    "stop_name": "av. Ferrandis Salvador - front 10 [Castelló de la Plana]",
+    "stop_lat": "39.981601999",
+    "stop_lon": "0.019471"
+  },
+  {
+    "stop_id": "5107170203",
+    "stop_name": "av. Ferrandis Salvador - front 50 [Castelló de la Plana]",
+    "stop_lat": "39.987855999",
+    "stop_lon": "0.022914"
+  },
+  {
+    "stop_id": "5107170208",
+    "stop_name": "av. Ferrandis Salvador - front Cabo de Gata [Castelló de la Plana]",
+    "stop_lat": "39.9775309518",
+    "stop_lon": "0.0170974864"
+  },
+  {
+    "stop_id": "5105150224",
+    "stop_name": "Av. Ferrandis Salvador, front 64 - H. del Golf [Castelló de la Plana]",
+    "stop_lat": "39.9916212963",
+    "stop_lon": "0.0249753765"
+  },
+  {
+    "stop_id": "5105150225",
+    "stop_name": "Av. Ferrandis Salvador, front 44 - Geriàtric [Castelló de la Plana]",
+    "stop_lat": "39.985927999",
+    "stop_lon": "0.021837"
+  },
+  {
+    "stop_id": "5105150226",
+    "stop_name": "Av. Ferrandis Salvador - front E. Hosteleria [Castelló de la Plana]",
+    "stop_lat": "39.980249056",
+    "stop_lon": "0.0187207046"
+  }
+]

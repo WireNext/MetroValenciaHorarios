@@ -1,0 +1,30 @@
+[
+  {
+    "route_id": "59990030",
+    "agency_id": "5999",
+    "route_short_name": "T3",
+    "route_long_name": "Grau – Serradal",
+    "route_type": "3"
+  },
+  {
+    "route_id": "59990040",
+    "agency_id": "5999",
+    "route_short_name": "T4",
+    "route_long_name": "UJI – Parc Ribalta",
+    "route_type": "3"
+  },
+  {
+    "route_id": "59990010",
+    "agency_id": "5999",
+    "route_short_name": "T1",
+    "route_long_name": "UJI – Grau",
+    "route_type": "3"
+  },
+  {
+    "route_id": "59990020",
+    "agency_id": "5999",
+    "route_short_name": "T2",
+    "route_long_name": "UJI – Grau – Platja",
+    "route_type": "3"
+  }
+]
