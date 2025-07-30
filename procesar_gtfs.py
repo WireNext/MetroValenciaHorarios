@@ -19,7 +19,7 @@ with zipfile.ZipFile("gtfs.zip", 'r') as zip_ref:
 os.makedirs("gtfs", exist_ok=True)
 
 
-rutas_deseadas = {"1", "1", "3", "4", "5", "6", "7", "8", "9", "10"}
+rutas_deseadas = {"1", "2", "3", "4", "5", "6", "7", "8", "9", "10"}
 route_ids = set()
 with open("gtfs/routes.txt", encoding="utf-8") as f:
     reader = csv.DictReader(f)
