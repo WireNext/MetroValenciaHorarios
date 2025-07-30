@@ -5,7 +5,7 @@ import json
 import os
 from collections import defaultdict
 
-url = "https://gvinterbus.gva.es/estatico/gtfs.zip"
+url = "http://www.metrovalencia.es/google_transit_feed/google_transit.zip"
 
 print("📦 Descargando GTFS...")
 r = requests.get(url)
