@@ -414,15 +414,6 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "V3-182-61",
-    "agency_id": "1",
-    "route_short_name": "3",
-    "route_long_name": "3 - Aeroport - Museros",
-    "route_type": "0",
-    "route_color": "DD052C",
-    "route_text_color": "FFFFFF"
-  },
-  {
     "route_id": "V3-182-64",
     "agency_id": "1",
     "route_short_name": "3",
@@ -455,15 +446,6 @@
     "route_short_name": "3",
     "route_long_name": "3 - Rafelbunyol - Aeroport",
     "route_type": "1",
-    "route_color": "DD052C",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V3-64-61",
-    "agency_id": "1",
-    "route_short_name": "3",
-    "route_long_name": "3 - Rafelbunyol - Museros",
-    "route_type": "0",
     "route_color": "DD052C",
     "route_text_color": "FFFFFF"
   },
@@ -711,15 +693,6 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "V5-75-120",
-    "agency_id": "1",
-    "route_short_name": "5",
-    "route_long_name": "5 - Mislata - Aragó",
-    "route_type": "0",
-    "route_color": "008F71",
-    "route_text_color": "FFFFFF"
-  },
-  {
     "route_id": "V6-123-132",
     "agency_id": "1",
     "route_short_name": "6",
@@ -915,15 +888,6 @@
     "route_long_name": "9 - Riba-roja de Túria - Alboraia Peris Aragó",
     "route_type": "1",
     "route_color": "B7DD79",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V9-186-61",
-    "agency_id": "1",
-    "route_short_name": "9",
-    "route_long_name": "9 - Riba-roja de Túria - Museros",
-    "route_type": "0",
-    "route_color": "B8804F",
     "route_text_color": "FFFFFF"
   },
   {
