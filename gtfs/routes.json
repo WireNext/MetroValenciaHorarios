@@ -1,14 +1,5 @@
 [
   {
-    "route_id": "V1-1-20",
-    "agency_id": "1",
-    "route_short_name": "1",
-    "route_long_name": "1 - Castelló - València Sud",
-    "route_type": "1",
-    "route_color": "FEC601",
-    "route_text_color": "FFFFFF"
-  },
-  {
     "route_id": "V1-1-29",
     "agency_id": "1",
     "route_short_name": "1",
@@ -36,15 +27,6 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "V1-13-20",
-    "agency_id": "1",
-    "route_short_name": "1",
-    "route_long_name": "1 - Picassent - València Sud",
-    "route_type": "1",
-    "route_color": "E60096",
-    "route_text_color": "FFFFFF"
-  },
-  {
     "route_id": "V1-13-36",
     "agency_id": "1",
     "route_short_name": "1",
@@ -54,12 +36,12 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "V1-17-20",
+    "route_id": "V1-13-37",
     "agency_id": "1",
     "route_short_name": "1",
-    "route_long_name": "1 - Torrent - València Sud",
+    "route_long_name": "1 - Picassent - Masies",
     "route_type": "1",
-    "route_color": "E60096",
+    "route_color": "FEC601",
     "route_text_color": "FFFFFF"
   },
   {
@@ -153,15 +135,6 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "V1-29-20",
-    "agency_id": "1",
-    "route_short_name": "1",
-    "route_long_name": "1 - Empalme - València Sud",
-    "route_type": "1",
-    "route_color": "E60096",
-    "route_text_color": "FFFFFF"
-  },
-  {
     "route_id": "V1-36-1",
     "agency_id": "1",
     "route_short_name": "1",
@@ -216,6 +189,15 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "V1-37-13",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Masies - Picassent",
+    "route_type": "1",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "V1-37-17",
     "agency_id": "1",
     "route_short_name": "1",
@@ -249,15 +231,6 @@
     "route_long_name": "1 - Bétera - Masies",
     "route_type": "1",
     "route_color": "E60096",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V1-5-36",
-    "agency_id": "1",
-    "route_short_name": "1",
-    "route_long_name": "1 - L'Alcúdia - Seminari - CEU",
-    "route_type": "1",
-    "route_color": "FEC601",
     "route_text_color": "FFFFFF"
   },
   {
@@ -396,15 +369,6 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "V3-179-64",
-    "agency_id": "1",
-    "route_short_name": "3",
-    "route_long_name": "3 - Salt de l'Aigua - Rafelbunyol",
-    "route_type": "0",
-    "route_color": "DD052C",
-    "route_text_color": "FFFFFF"
-  },
-  {
     "route_id": "V3-182-56",
     "agency_id": "1",
     "route_short_name": "3",
@@ -445,15 +409,6 @@
     "agency_id": "1",
     "route_short_name": "3",
     "route_long_name": "3 - Rafelbunyol - Aeroport",
-    "route_type": "1",
-    "route_color": "DD052C",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V3-64-66",
-    "agency_id": "1",
-    "route_short_name": "3",
-    "route_long_name": "3 - Rafelbunyol - Machado",
     "route_type": "1",
     "route_color": "DD052C",
     "route_text_color": "FFFFFF"
@@ -825,15 +780,6 @@
     "route_long_name": "7 - Alameda - Aragó",
     "route_type": "1",
     "route_color": "F28D01",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V7-69-66",
-    "agency_id": "1",
-    "route_short_name": "7",
-    "route_long_name": "7 - Alameda - Machado",
-    "route_type": "1",
-    "route_color": "82CEE6",
     "route_text_color": "FFFFFF"
   },
   {
