@@ -985,5 +985,19 @@
     "stop_lat": "39.449889",
     "stop_lon": "-0.334674",
     "zone_id": "A"
+  },
+  {
+    "stop_id": "22",
+    "stop_name": "Ayora",
+    "stop_lat": "39.4664268494",
+    "stop_lon": "-0.3429694474",
+    "zone_id": "A"
+  },
+  {
+    "stop_id": "23",
+    "stop_name": "Amistat",
+    "stop_lat": "39.4703330994",
+    "stop_lon": "-0.3503944576",
+    "zone_id": "A"
   }
 ]
