@@ -63,15 +63,6 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "V1-13-37",
-    "agency_id": "1",
-    "route_short_name": "1",
-    "route_long_name": "1 - Picassent - Masies",
-    "route_type": "1",
-    "route_color": "FEC601",
-    "route_text_color": "FFFFFF"
-  },
-  {
     "route_id": "V1-13-39",
     "agency_id": "1",
     "route_short_name": "1",
@@ -275,15 +266,6 @@
     "route_short_name": "1",
     "route_long_name": "1 - Masies - Castelló",
     "route_type": "0",
-    "route_color": "FEC601",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V1-37-13",
-    "agency_id": "1",
-    "route_short_name": "1",
-    "route_long_name": "1 - Masies - Picassent",
-    "route_type": "1",
     "route_color": "FEC601",
     "route_text_color": "FFFFFF"
   },
