@@ -297,15 +297,6 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "V1-37-5",
-    "agency_id": "1",
-    "route_short_name": "1",
-    "route_long_name": "1 - Masies - L'Alcúdia",
-    "route_type": "1",
-    "route_color": "FEC601",
-    "route_text_color": "FFFFFF"
-  },
-  {
     "route_id": "V1-39-1",
     "agency_id": "1",
     "route_short_name": "1",
@@ -366,15 +357,6 @@
     "route_long_name": "1 - Bétera - Masies",
     "route_type": "1",
     "route_color": "E60096",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V1-5-36",
-    "agency_id": "1",
-    "route_short_name": "1",
-    "route_long_name": "1 - L'Alcúdia - Seminari - CEU",
-    "route_type": "1",
-    "route_color": "FEC601",
     "route_text_color": "FFFFFF"
   },
   {
@@ -612,15 +594,6 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "V3-60-64",
-    "agency_id": "1",
-    "route_short_name": "3",
-    "route_long_name": "3 - Albalat dels Sorells - Rafelbunyol",
-    "route_type": "0",
-    "route_color": "DD052C",
-    "route_text_color": "FFFFFF"
-  },
-  {
     "route_id": "V3-61-182",
     "agency_id": "1",
     "route_short_name": "3",
@@ -634,15 +607,6 @@
     "agency_id": "1",
     "route_short_name": "3",
     "route_long_name": "3 - Rafelbunyol - Aeroport",
-    "route_type": "1",
-    "route_color": "DD052C",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V3-64-66",
-    "agency_id": "1",
-    "route_short_name": "3",
-    "route_long_name": "3 - Rafelbunyol - Machado",
     "route_type": "1",
     "route_color": "DD052C",
     "route_text_color": "FFFFFF"
