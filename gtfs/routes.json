@@ -720,15 +720,6 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "V4-87-98",
-    "agency_id": "1",
-    "route_short_name": "4",
-    "route_long_name": "4 - Pont de Fusta - Dr. Lluch",
-    "route_type": "1",
-    "route_color": "014A99",
-    "route_text_color": "FFFFFF"
-  },
-  {
     "route_id": "V4-94-102",
     "agency_id": "1",
     "route_short_name": "4",
@@ -769,15 +760,6 @@
     "agency_id": "1",
     "route_short_name": "4",
     "route_long_name": "4 - Dr. Lluch - Mas del Rosari",
-    "route_type": "0",
-    "route_color": "F28D01",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V4-98-95",
-    "agency_id": "1",
-    "route_short_name": "4",
-    "route_long_name": "4 - Dr. Lluch - La Cadena",
     "route_type": "0",
     "route_color": "F28D01",
     "route_text_color": "FFFFFF"
@@ -954,15 +936,6 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "V6-123-95",
-    "agency_id": "1",
-    "route_short_name": "6",
-    "route_long_name": "6 - Marítim - La Cadena",
-    "route_type": "0",
-    "route_color": "F28D01",
-    "route_text_color": "FFFFFF"
-  },
-  {
     "route_id": "V6-123-98",
     "agency_id": "1",
     "route_short_name": "6",
@@ -1032,15 +1005,6 @@
     "route_long_name": "6 - La Cadena - Tossal del Rei",
     "route_type": "1",
     "route_color": "8884BF",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V6-98-123",
-    "agency_id": "1",
-    "route_short_name": "6",
-    "route_long_name": "6 - Dr. Lluch - Marítim",
-    "route_type": "0",
-    "route_color": "F28D01",
     "route_text_color": "FFFFFF"
   },
   {
@@ -1156,15 +1120,6 @@
     "agency_id": "1",
     "route_short_name": "8",
     "route_long_name": "8 - Marítim - Neptú",
-    "route_type": "0",
-    "route_color": "B8804F",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V8-123-95",
-    "agency_id": "1",
-    "route_short_name": "8",
-    "route_long_name": "8 - Marítim - La Cadena",
     "route_type": "0",
     "route_color": "B8804F",
     "route_text_color": "FFFFFF"
