@@ -360,15 +360,6 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "V1-5-37",
-    "agency_id": "1",
-    "route_short_name": "1",
-    "route_long_name": "1 - L'Alcúdia - Masies",
-    "route_type": "0",
-    "route_color": "FEC601",
-    "route_text_color": "FFFFFF"
-  },
-  {
     "route_id": "V1-5-39",
     "agency_id": "1",
     "route_short_name": "1",
@@ -783,15 +774,6 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "V5-120-73",
-    "agency_id": "1",
-    "route_short_name": "5",
-    "route_long_name": "5 - Aragó - Av. del Cid",
-    "route_type": "1",
-    "route_color": "008F71",
-    "route_text_color": "FFFFFF"
-  },
-  {
     "route_id": "V5-122-182",
     "agency_id": "1",
     "route_short_name": "5",
@@ -897,15 +879,6 @@
     "route_long_name": "5 - Alameda - Machado",
     "route_type": "1",
     "route_color": "8884BF",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V5-73-120",
-    "agency_id": "1",
-    "route_short_name": "5",
-    "route_long_name": "5 - Av. del Cid - Aragó",
-    "route_type": "1",
-    "route_color": "008F71",
     "route_text_color": "FFFFFF"
   },
   {
