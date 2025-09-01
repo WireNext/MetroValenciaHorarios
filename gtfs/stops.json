@@ -1,5 +1,75 @@
 [
   {
+    "stop_id": "55",
+    "stop_name": "Empalme",
+    "stop_lat": "39.4995765686",
+    "stop_lon": "-0.4021083415",
+    "zone_id": "A"
+  },
+  {
+    "stop_id": "54",
+    "stop_name": "Beniferri",
+    "stop_lat": "39.4910316467",
+    "stop_lon": "-0.3993369341",
+    "zone_id": "A"
+  },
+  {
+    "stop_id": "53",
+    "stop_name": "Campanar",
+    "stop_lat": "39.4846305847",
+    "stop_lon": "-0.3950361013",
+    "zone_id": "A"
+  },
+  {
+    "stop_id": "52",
+    "stop_name": "Túria",
+    "stop_lat": "39.4788665771",
+    "stop_lon": "-0.3912055492",
+    "zone_id": "A"
+  },
+  {
+    "stop_id": "17",
+    "stop_name": "Àngel Guimerà",
+    "stop_lat": "39.4703025818",
+    "stop_lon": "-0.3850361109",
+    "zone_id": "A"
+  },
+  {
+    "stop_id": "51",
+    "stop_name": "Pl. Espanya",
+    "stop_lat": "39.4662017822",
+    "stop_lon": "-0.3816333413",
+    "zone_id": "A"
+  },
+  {
+    "stop_id": "25",
+    "stop_name": "Jesús",
+    "stop_lat": "39.4592018127",
+    "stop_lon": "-0.3845416605",
+    "zone_id": "A"
+  },
+  {
+    "stop_id": "26",
+    "stop_name": "Patraix",
+    "stop_lat": "39.456451416",
+    "stop_lon": "-0.3905083239",
+    "zone_id": "A"
+  },
+  {
+    "stop_id": "27",
+    "stop_name": "Safranar",
+    "stop_lat": "39.4545707703",
+    "stop_lon": "-0.3983833194",
+    "zone_id": "A"
+  },
+  {
+    "stop_id": "28",
+    "stop_name": "Sant Isidre",
+    "stop_lat": "39.4510345459",
+    "stop_lon": "-0.4028027654",
+    "zone_id": "A"
+  },
+  {
     "stop_id": "30",
     "stop_name": "València Sud",
     "stop_lat": "39.4408111572",
@@ -140,83 +210,6 @@
     "zone_id": "B"
   },
   {
-    "stop_id": "55",
-    "stop_name": "Empalme",
-    "stop_lat": "39.4995765686",
-    "stop_lon": "-0.4021083415",
-    "zone_id": "A"
-  },
-  {
-    "stop_id": "54",
-    "stop_name": "Beniferri",
-    "stop_lat": "39.4910316467",
-    "stop_lon": "-0.3993369341",
-    "zone_id": "A"
-  },
-  {
-    "stop_id": "53",
-    "stop_name": "Campanar",
-    "stop_lat": "39.4846305847",
-    "stop_lon": "-0.3950361013",
-    "zone_id": "A"
-  },
-  {
-    "stop_id": "52",
-    "stop_name": "Túria",
-    "stop_lat": "39.4788665771",
-    "stop_lon": "-0.3912055492",
-    "zone_id": "A"
-  },
-  {
-    "stop_id": "17",
-    "stop_name": "Àngel Guimerà",
-    "stop_lat": "39.4703025818",
-    "stop_lon": "-0.3850361109",
-    "zone_id": "A"
-  },
-  {
-    "stop_id": "51",
-    "stop_name": "Pl. Espanya",
-    "stop_lat": "39.4662017822",
-    "stop_lon": "-0.3816333413",
-    "zone_id": "A"
-  },
-  {
-    "stop_id": "25",
-    "stop_name": "Jesús",
-    "stop_lat": "39.4592018127",
-    "stop_lon": "-0.3845416605",
-    "zone_id": "A"
-  },
-  {
-    "stop_id": "26",
-    "stop_name": "Patraix",
-    "stop_lat": "39.456451416",
-    "stop_lon": "-0.3905083239",
-    "zone_id": "A"
-  },
-  {
-    "stop_id": "27",
-    "stop_name": "Safranar",
-    "stop_lat": "39.4545707703",
-    "stop_lon": "-0.3983833194",
-    "zone_id": "A"
-  },
-  {
-    "stop_id": "28",
-    "stop_name": "Sant Isidre",
-    "stop_lat": "39.4510345459",
-    "stop_lon": "-0.4028027654",
-    "zone_id": "A"
-  },
-  {
-    "stop_id": "79",
-    "stop_name": "Masies",
-    "stop_lat": "39.5665817261",
-    "stop_lon": "-0.4053777754",
-    "zone_id": "A B"
-  },
-  {
     "stop_id": "78",
     "stop_name": "Seminari - CEU",
     "stop_lat": "39.549987793",
@@ -278,6 +271,13 @@
     "stop_lat": "39.5819320679",
     "stop_lon": "-0.4431444407",
     "zone_id": "B"
+  },
+  {
+    "stop_id": "79",
+    "stop_name": "Masies",
+    "stop_lat": "39.5665817261",
+    "stop_lon": "-0.4053777754",
+    "zone_id": "A B"
   },
   {
     "stop_id": "34",
@@ -602,6 +602,27 @@
     "zone_id": "A B"
   },
   {
+    "stop_id": "115",
+    "stop_name": "Marítim",
+    "stop_lat": "39.4649391174",
+    "stop_lon": "-0.3382369876",
+    "zone_id": "A"
+  },
+  {
+    "stop_id": "22",
+    "stop_name": "Ayora",
+    "stop_lat": "39.4664268494",
+    "stop_lon": "-0.3429694474",
+    "zone_id": "A"
+  },
+  {
+    "stop_id": "23",
+    "stop_name": "Amistat",
+    "stop_lat": "39.4703330994",
+    "stop_lon": "-0.3503944576",
+    "zone_id": "A"
+  },
+  {
     "stop_id": "24",
     "stop_name": "Aragó",
     "stop_lat": "39.4726257324",
@@ -882,13 +903,6 @@
     "zone_id": "A B"
   },
   {
-    "stop_id": "115",
-    "stop_name": "Marítim",
-    "stop_lat": "39.4649391174",
-    "stop_lon": "-0.3382369876",
-    "zone_id": "A"
-  },
-  {
     "stop_id": "122",
     "stop_name": "Francesc Cubells",
     "stop_lat": "39.4632453918",
@@ -984,20 +998,6 @@
     "stop_name": "Natzaret",
     "stop_lat": "39.449889",
     "stop_lon": "-0.334674",
-    "zone_id": "A"
-  },
-  {
-    "stop_id": "22",
-    "stop_name": "Ayora",
-    "stop_lat": "39.4664268494",
-    "stop_lon": "-0.3429694474",
-    "zone_id": "A"
-  },
-  {
-    "stop_id": "23",
-    "stop_name": "Amistat",
-    "stop_lat": "39.4703330994",
-    "stop_lon": "-0.3503944576",
     "zone_id": "A"
   }
 ]
