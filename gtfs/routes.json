@@ -63,24 +63,6 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "V1-17-20",
-    "agency_id": "1",
-    "route_short_name": "1",
-    "route_long_name": "1 - Torrent - València Sud",
-    "route_type": "1",
-    "route_color": "E60096",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V1-17-29",
-    "agency_id": "1",
-    "route_short_name": "1",
-    "route_long_name": "1 - Torrent - Empalme",
-    "route_type": "1",
-    "route_color": "E60096",
-    "route_text_color": "FFFFFF"
-  },
-  {
     "route_id": "V1-17-36",
     "agency_id": "1",
     "route_short_name": "1",
@@ -279,15 +261,6 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "V1-39-29",
-    "agency_id": "1",
-    "route_short_name": "1",
-    "route_long_name": "1 - Bétera - Empalme",
-    "route_type": "0",
-    "route_color": "FEC601",
-    "route_text_color": "FFFFFF"
-  },
-  {
     "route_id": "V1-5-39",
     "agency_id": "1",
     "route_short_name": "1",
@@ -369,15 +342,6 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "V2-17-107",
-    "agency_id": "1",
-    "route_short_name": "2",
-    "route_long_name": "2 - Torrent - Torrent Avinguda",
-    "route_type": "1",
-    "route_color": "E60096",
-    "route_text_color": "FFFFFF"
-  },
-  {
     "route_id": "V2-20-107",
     "agency_id": "1",
     "route_short_name": "2",
@@ -409,15 +373,6 @@
     "agency_id": "1",
     "route_short_name": "2",
     "route_long_name": "2 - Empalme - València Sud",
-    "route_type": "1",
-    "route_color": "E60096",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V2-42-107",
-    "agency_id": "1",
-    "route_short_name": "2",
-    "route_long_name": "2 - Les Carolines - Fira - Torrent Avinguda",
     "route_type": "1",
     "route_color": "E60096",
     "route_text_color": "FFFFFF"
@@ -459,24 +414,6 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "V2-54-29",
-    "agency_id": "1",
-    "route_short_name": "2",
-    "route_long_name": "2 - Llíria - Empalme",
-    "route_type": "0",
-    "route_color": "E60096",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V3-179-64",
-    "agency_id": "1",
-    "route_short_name": "3",
-    "route_long_name": "3 - Salt de l'Aigua - Rafelbunyol",
-    "route_type": "0",
-    "route_color": "DD052C",
-    "route_text_color": "FFFFFF"
-  },
-  {
     "route_id": "V3-182-56",
     "agency_id": "1",
     "route_short_name": "3",
@@ -513,15 +450,6 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "V3-61-182",
-    "agency_id": "1",
-    "route_short_name": "3",
-    "route_long_name": "3 - Museros - Aeroport",
-    "route_type": "1",
-    "route_color": "DD052C",
-    "route_text_color": "FFFFFF"
-  },
-  {
     "route_id": "V3-64-182",
     "agency_id": "1",
     "route_short_name": "3",
@@ -535,6 +463,15 @@
     "agency_id": "1",
     "route_short_name": "3",
     "route_long_name": "3 - Rafelbunyol - Av. del Cid",
+    "route_type": "1",
+    "route_color": "DD052C",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V3-64-76",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Rafelbunyol - Mislata - Almassil",
     "route_type": "1",
     "route_color": "DD052C",
     "route_text_color": "FFFFFF"
@@ -684,15 +621,6 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "V5-122-182",
-    "agency_id": "1",
-    "route_short_name": "5",
-    "route_long_name": "5 - Ayora - Aeroport",
-    "route_type": "1",
-    "route_color": "8884BF",
-    "route_text_color": "FFFFFF"
-  },
-  {
     "route_id": "V5-123-182",
     "agency_id": "1",
     "route_short_name": "5",
@@ -717,15 +645,6 @@
     "route_long_name": "5 - Marítim - Av. del Cid",
     "route_type": "1",
     "route_color": "8884BF",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V5-177-123",
-    "agency_id": "1",
-    "route_short_name": "5",
-    "route_long_name": "5 - Faitanar - Marítim",
-    "route_type": "0",
-    "route_color": "008F71",
     "route_text_color": "FFFFFF"
   },
   {
@@ -909,15 +828,6 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "V7-17-123",
-    "agency_id": "1",
-    "route_short_name": "7",
-    "route_long_name": "7 - Torrent - Marítim",
-    "route_type": "1",
-    "route_color": "F28D01",
-    "route_text_color": "FFFFFF"
-  },
-  {
     "route_id": "V7-66-107",
     "agency_id": "1",
     "route_short_name": "7",
@@ -1041,15 +951,6 @@
     "route_long_name": "9 - Machado - Av. del Cid",
     "route_type": "1",
     "route_color": "B7DD79",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V9-68-73",
-    "agency_id": "1",
-    "route_short_name": "9",
-    "route_long_name": "9 - Facultats - Manuel Broseta - Av. del Cid",
-    "route_type": "0",
-    "route_color": "B8804F",
     "route_text_color": "FFFFFF"
   },
   {
