@@ -594,15 +594,6 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "V3-64-76",
-    "agency_id": "1",
-    "route_short_name": "3",
-    "route_long_name": "3 - Rafelbunyol - Mislata - Almassil",
-    "route_type": "1",
-    "route_color": "DD052C",
-    "route_text_color": "FFFFFF"
-  },
-  {
     "route_id": "V3-66-182",
     "agency_id": "1",
     "route_short_name": "3",
