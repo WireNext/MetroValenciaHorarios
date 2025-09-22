@@ -603,15 +603,6 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "V4-29-98",
-    "agency_id": "1",
-    "route_short_name": "4",
-    "route_long_name": "4 - Empalme - Dr. Lluch",
-    "route_type": "0",
-    "route_color": "014A99",
-    "route_text_color": "FFFFFF"
-  },
-  {
     "route_id": "V4-94-102",
     "agency_id": "1",
     "route_short_name": "4",
