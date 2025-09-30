@@ -171,15 +171,6 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "V1-29-17",
-    "agency_id": "1",
-    "route_short_name": "1",
-    "route_long_name": "1 - Empalme - Torrent",
-    "route_type": "1",
-    "route_color": "E60096",
-    "route_text_color": "FFFFFF"
-  },
-  {
     "route_id": "V1-29-20",
     "agency_id": "1",
     "route_short_name": "1",
