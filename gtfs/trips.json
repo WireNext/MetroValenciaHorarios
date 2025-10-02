@@ -17809,6 +17809,8938 @@
   },
   {
     "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4813972",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814071",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4813973",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814072",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4813974",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814073",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4813975",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814074",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4813976",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814075",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4813977",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814076",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4813978",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814077",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4813979",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814078",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4813980",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814079",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4813981",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814080",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4813982",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814081",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4813983",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814082",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4813984",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814083",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4813985",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814084",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4813986",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814085",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4813987",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814086",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4813988",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814087",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4813989",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814088",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4813990",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814089",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4813991",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V1-20-1",
+    "service_id": "3080",
+    "trip_id": "4812894",
+    "trip_headsign": "Castelló",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814090",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4813992",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814091",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4813993",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814092",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4813994",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814093",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4813995",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814094",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4813996",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814095",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4813997",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814096",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4813998",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814097",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4813999",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814098",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814000",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814099",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814001",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814100",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814002",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814101",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814003",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814102",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814004",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814103",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814005",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814104",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814006",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V1-20-29",
+    "service_id": "3080",
+    "trip_id": "4813210",
+    "trip_headsign": "Empalme",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814105",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814007",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814106",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814008",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814107",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814009",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814108",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814010",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814109",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814011",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814110",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814012",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814111",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814013",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814112",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814014",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814113",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814015",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814114",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814016",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V1-20-39",
+    "service_id": "3080",
+    "trip_id": "4813211",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814115",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814017",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814116",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814018",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814117",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814019",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814118",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814020",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814119",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814021",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V1-29-1",
+    "service_id": "3080",
+    "trip_id": "4812895",
+    "trip_headsign": "Castelló",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814120",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814022",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814121",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814023",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814122",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814024",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814123",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814025",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814124",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814026",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V1-17-39",
+    "service_id": "3080",
+    "trip_id": "4813212",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814125",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814027",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814126",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814028",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814127",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814029",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814128",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814030",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814129",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814031",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V1-20-17",
+    "service_id": "3080",
+    "trip_id": "4812896",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814130",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814032",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814131",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814033",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814132",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814034",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814133",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814035",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814134",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814036",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V1-13-36",
+    "service_id": "3080",
+    "trip_id": "4813213",
+    "trip_headsign": "Seminari - CEU",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814135",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814037",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814136",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814038",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814137",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814039",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814138",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814040",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814139",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814041",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V1-39-1",
+    "service_id": "3080",
+    "trip_id": "4812897",
+    "trip_headsign": "Castelló",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814140",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814042",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814141",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814043",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814142",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814044",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814143",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814045",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814144",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814046",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V1-17-39",
+    "service_id": "3080",
+    "trip_id": "4813214",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814145",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814047",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814146",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814048",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814147",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814049",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814148",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814050",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814149",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814051",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V1-39-17",
+    "service_id": "3080",
+    "trip_id": "4812898",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814150",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814052",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814151",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814053",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814152",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814054",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814153",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814055",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814154",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814056",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V1-1-39",
+    "service_id": "3080",
+    "trip_id": "4813215",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814155",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814057",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814156",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814058",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814157",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814059",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814158",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814060",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814159",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V1-20-17",
+    "service_id": "3080",
+    "trip_id": "4812899",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814160",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814161",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814162",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814163",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814164",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V1-17-36",
+    "service_id": "3080",
+    "trip_id": "4813216",
+    "trip_headsign": "Seminari - CEU",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814165",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814166",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814167",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-197-190",
+    "service_id": "3080",
+    "trip_id": "4814168",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V10-194-190",
+    "service_id": "3080",
+    "trip_id": "4814169",
+    "trip_headsign": "Alacant",
+    "shape_id": "73"
+  },
+  {
+    "route_id": "V1-36-1",
+    "service_id": "3080",
+    "trip_id": "4812900",
+    "trip_headsign": "Castelló",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-39",
+    "service_id": "3080",
+    "trip_id": "4813217",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-39-17",
+    "service_id": "3080",
+    "trip_id": "4812901",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-1-36",
+    "service_id": "3080",
+    "trip_id": "4813218",
+    "trip_headsign": "Seminari - CEU",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-20-17",
+    "service_id": "3080",
+    "trip_id": "4812902",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-39",
+    "service_id": "3080",
+    "trip_id": "4813219",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-39-1",
+    "service_id": "3080",
+    "trip_id": "4812903",
+    "trip_headsign": "Castelló",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-36",
+    "service_id": "3080",
+    "trip_id": "4813220",
+    "trip_headsign": "Seminari - CEU",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-36-17",
+    "service_id": "3080",
+    "trip_id": "4812904",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-1-39",
+    "service_id": "3080",
+    "trip_id": "4813221",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-39-17",
+    "service_id": "3080",
+    "trip_id": "4812905",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-36",
+    "service_id": "3080",
+    "trip_id": "4813222",
+    "trip_headsign": "Seminari - CEU",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-36-1",
+    "service_id": "3080",
+    "trip_id": "4812906",
+    "trip_headsign": "Castelló",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-39",
+    "service_id": "3080",
+    "trip_id": "4813223",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-39-17",
+    "service_id": "3080",
+    "trip_id": "4812907",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-1-36",
+    "service_id": "3080",
+    "trip_id": "4813224",
+    "trip_headsign": "Seminari - CEU",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-36-17",
+    "service_id": "3080",
+    "trip_id": "4812908",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-39",
+    "service_id": "3080",
+    "trip_id": "4813225",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-39-1",
+    "service_id": "3080",
+    "trip_id": "4812909",
+    "trip_headsign": "Castelló",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-36",
+    "service_id": "3080",
+    "trip_id": "4813226",
+    "trip_headsign": "Seminari - CEU",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-36-17",
+    "service_id": "3080",
+    "trip_id": "4812910",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-1-39",
+    "service_id": "3080",
+    "trip_id": "4813227",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-39-17",
+    "service_id": "3080",
+    "trip_id": "4812911",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-36",
+    "service_id": "3080",
+    "trip_id": "4813228",
+    "trip_headsign": "Seminari - CEU",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-36-1",
+    "service_id": "3080",
+    "trip_id": "4812912",
+    "trip_headsign": "Castelló",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-39",
+    "service_id": "3080",
+    "trip_id": "4813229",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-39-17",
+    "service_id": "3080",
+    "trip_id": "4812913",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-1-36",
+    "service_id": "3080",
+    "trip_id": "4813230",
+    "trip_headsign": "Seminari - CEU",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-36-17",
+    "service_id": "3080",
+    "trip_id": "4812914",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-39",
+    "service_id": "3080",
+    "trip_id": "4813231",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-39-1",
+    "service_id": "3080",
+    "trip_id": "4812915",
+    "trip_headsign": "Castelló",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-36",
+    "service_id": "3080",
+    "trip_id": "4813232",
+    "trip_headsign": "Seminari - CEU",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-36-17",
+    "service_id": "3080",
+    "trip_id": "4812916",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-1-39",
+    "service_id": "3080",
+    "trip_id": "4813233",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-39-17",
+    "service_id": "3080",
+    "trip_id": "4812917",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-36",
+    "service_id": "3080",
+    "trip_id": "4813234",
+    "trip_headsign": "Seminari - CEU",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-36-1",
+    "service_id": "3080",
+    "trip_id": "4812918",
+    "trip_headsign": "Castelló",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-39",
+    "service_id": "3080",
+    "trip_id": "4813235",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-39-17",
+    "service_id": "3080",
+    "trip_id": "4812919",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-1-36",
+    "service_id": "3080",
+    "trip_id": "4813236",
+    "trip_headsign": "Seminari - CEU",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-36-17",
+    "service_id": "3080",
+    "trip_id": "4812920",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-39",
+    "service_id": "3080",
+    "trip_id": "4813237",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-39-1",
+    "service_id": "3080",
+    "trip_id": "4812921",
+    "trip_headsign": "Castelló",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-36",
+    "service_id": "3080",
+    "trip_id": "4813238",
+    "trip_headsign": "Seminari - CEU",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-36-17",
+    "service_id": "3080",
+    "trip_id": "4812922",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-1-39",
+    "service_id": "3080",
+    "trip_id": "4813239",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-39-17",
+    "service_id": "3080",
+    "trip_id": "4812923",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-36",
+    "service_id": "3080",
+    "trip_id": "4813240",
+    "trip_headsign": "Seminari - CEU",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-36-1",
+    "service_id": "3080",
+    "trip_id": "4812924",
+    "trip_headsign": "Castelló",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-39",
+    "service_id": "3080",
+    "trip_id": "4813241",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-39-17",
+    "service_id": "3080",
+    "trip_id": "4812925",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-1-36",
+    "service_id": "3080",
+    "trip_id": "4813242",
+    "trip_headsign": "Seminari - CEU",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-36-17",
+    "service_id": "3080",
+    "trip_id": "4812926",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-39",
+    "service_id": "3080",
+    "trip_id": "4813243",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-39-1",
+    "service_id": "3080",
+    "trip_id": "4812927",
+    "trip_headsign": "Castelló",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-36",
+    "service_id": "3080",
+    "trip_id": "4813244",
+    "trip_headsign": "Seminari - CEU",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-36-17",
+    "service_id": "3080",
+    "trip_id": "4812928",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-1-39",
+    "service_id": "3080",
+    "trip_id": "4813245",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-39-17",
+    "service_id": "3080",
+    "trip_id": "4812929",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-36",
+    "service_id": "3080",
+    "trip_id": "4813246",
+    "trip_headsign": "Seminari - CEU",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-36-1",
+    "service_id": "3080",
+    "trip_id": "4812930",
+    "trip_headsign": "Castelló",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-39",
+    "service_id": "3080",
+    "trip_id": "4813247",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-39-17",
+    "service_id": "3080",
+    "trip_id": "4812931",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-1-36",
+    "service_id": "3080",
+    "trip_id": "4813248",
+    "trip_headsign": "Seminari - CEU",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-36-17",
+    "service_id": "3080",
+    "trip_id": "4812932",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-39",
+    "service_id": "3080",
+    "trip_id": "4813249",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-39-1",
+    "service_id": "3080",
+    "trip_id": "4812933",
+    "trip_headsign": "Castelló",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-36",
+    "service_id": "3080",
+    "trip_id": "4813250",
+    "trip_headsign": "Seminari - CEU",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-36-17",
+    "service_id": "3080",
+    "trip_id": "4812934",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-1-39",
+    "service_id": "3080",
+    "trip_id": "4813251",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-39-17",
+    "service_id": "3080",
+    "trip_id": "4812935",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-36",
+    "service_id": "3080",
+    "trip_id": "4813252",
+    "trip_headsign": "Seminari - CEU",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-36-1",
+    "service_id": "3080",
+    "trip_id": "4812936",
+    "trip_headsign": "Castelló",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-39",
+    "service_id": "3080",
+    "trip_id": "4813253",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-39-17",
+    "service_id": "3080",
+    "trip_id": "4812937",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-1-29",
+    "service_id": "3080",
+    "trip_id": "4813254",
+    "trip_headsign": "Empalme",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-36-5",
+    "service_id": "3080",
+    "trip_id": "4812938",
+    "trip_headsign": "L'Alcúdia",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-39",
+    "service_id": "3080",
+    "trip_id": "4813255",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-39-20",
+    "service_id": "3080",
+    "trip_id": "4812939",
+    "trip_headsign": "València Sud",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-36-13",
+    "service_id": "3080",
+    "trip_id": "4812940",
+    "trip_headsign": "Picassent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-39-20",
+    "service_id": "3080",
+    "trip_id": "4812941",
+    "trip_headsign": "València Sud",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-39-17",
+    "service_id": "3080",
+    "trip_id": "4812942",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V2-20-54",
+    "service_id": "3080",
+    "trip_id": "4813258",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-20-107",
+    "service_id": "3080",
+    "trip_id": "4812943",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813259",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-20-107",
+    "service_id": "3080",
+    "trip_id": "4812944",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3080",
+    "trip_id": "4812945",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813260",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-20-107",
+    "service_id": "3080",
+    "trip_id": "4812946",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4812947",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813261",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-20-107",
+    "service_id": "3080",
+    "trip_id": "4812948",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3080",
+    "trip_id": "4813262",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4812949",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813263",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-20-107",
+    "service_id": "3080",
+    "trip_id": "4812950",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3080",
+    "trip_id": "4813264",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4812951",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813265",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3080",
+    "trip_id": "4812952",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3080",
+    "trip_id": "4813266",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4812953",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813267",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3080",
+    "trip_id": "4812954",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3080",
+    "trip_id": "4813268",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4812955",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813269",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3080",
+    "trip_id": "4812956",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3080",
+    "trip_id": "4813270",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4812957",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813271",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3080",
+    "trip_id": "4812958",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3080",
+    "trip_id": "4813272",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4812959",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813273",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3080",
+    "trip_id": "4812960",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3080",
+    "trip_id": "4813274",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4812961",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813275",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3080",
+    "trip_id": "4812962",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3080",
+    "trip_id": "4813276",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4812963",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813277",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3080",
+    "trip_id": "4812964",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3080",
+    "trip_id": "4813278",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4812965",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813279",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3080",
+    "trip_id": "4812966",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3080",
+    "trip_id": "4813280",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4812967",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813281",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3080",
+    "trip_id": "4812968",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3080",
+    "trip_id": "4813282",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4812969",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813283",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3080",
+    "trip_id": "4812970",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3080",
+    "trip_id": "4813284",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4812971",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813285",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3080",
+    "trip_id": "4812972",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3080",
+    "trip_id": "4813286",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4812973",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813287",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3080",
+    "trip_id": "4812974",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3080",
+    "trip_id": "4813288",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4812975",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813289",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3080",
+    "trip_id": "4812976",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3080",
+    "trip_id": "4813290",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4812977",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813291",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3080",
+    "trip_id": "4812978",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3080",
+    "trip_id": "4813292",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4812979",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813293",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3080",
+    "trip_id": "4812980",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3080",
+    "trip_id": "4813294",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4812981",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813295",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3080",
+    "trip_id": "4812982",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3080",
+    "trip_id": "4813296",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4812983",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813297",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3080",
+    "trip_id": "4812984",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3080",
+    "trip_id": "4813298",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4812985",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813299",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3080",
+    "trip_id": "4812986",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3080",
+    "trip_id": "4813300",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4812987",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813301",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3080",
+    "trip_id": "4812988",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-20",
+    "service_id": "3080",
+    "trip_id": "4813302",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-54-20",
+    "service_id": "3080",
+    "trip_id": "4812989",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813303",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-20",
+    "service_id": "3080",
+    "trip_id": "4812990",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4812991",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4812993",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V3-66-64",
+    "service_id": "3080",
+    "trip_id": "4813305",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-66-182",
+    "service_id": "3080",
+    "trip_id": "4812994",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813306",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-66-182",
+    "service_id": "3080",
+    "trip_id": "4812995",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813307",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4812996",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813308",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4812997",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813309",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-56-182",
+    "service_id": "3080",
+    "trip_id": "4812998",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813310",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4812999",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813311",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-56-182",
+    "service_id": "3080",
+    "trip_id": "4813000",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813312",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813001",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813313",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-56-182",
+    "service_id": "3080",
+    "trip_id": "4813002",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813314",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813003",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813315",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813004",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813316",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813005",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813317",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813006",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813318",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813007",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813319",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813008",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813320",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813009",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813321",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813010",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813322",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813011",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813323",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813012",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813324",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813013",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813325",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813014",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813326",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813015",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813327",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813016",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813328",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813017",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813329",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813018",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813330",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813019",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813331",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813020",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813332",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813021",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813333",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813022",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813334",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813023",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813335",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813024",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813336",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813025",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813337",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813026",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813338",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813027",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813339",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813028",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813340",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813029",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813341",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813030",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813342",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813031",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-56",
+    "service_id": "3080",
+    "trip_id": "4813343",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813032",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813344",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813033",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-56",
+    "service_id": "3080",
+    "trip_id": "4813345",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813034",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813346",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-182-56",
+    "service_id": "3080",
+    "trip_id": "4813347",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813035",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813348",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813036",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813349",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813037",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813038",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813039",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V4-94-102",
+    "service_id": "3080",
+    "trip_id": "4813524",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-95-98",
+    "service_id": "3080",
+    "trip_id": "4813743",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813525",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-95-98",
+    "service_id": "3080",
+    "trip_id": "4813744",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813527",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-95-98",
+    "service_id": "3080",
+    "trip_id": "4813745",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813528",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-95-98",
+    "service_id": "3080",
+    "trip_id": "4813746",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813530",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813748",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813532",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813749",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813534",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813751",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813536",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813752",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813538",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813754",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813540",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813758",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-94-102",
+    "service_id": "3080",
+    "trip_id": "4813543",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-95-98",
+    "service_id": "3080",
+    "trip_id": "4813760",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813544",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813762",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813547",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-95-98",
+    "service_id": "3080",
+    "trip_id": "4813766",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813549",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813767",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813551",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-95-98",
+    "service_id": "3080",
+    "trip_id": "4813771",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813553",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813772",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813555",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-95-98",
+    "service_id": "3080",
+    "trip_id": "4813774",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813558",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813776",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813560",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813779",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813562",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813781",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813565",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813783",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813567",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813786",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813569",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813788",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813572",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813790",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813574",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813793",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813575",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813795",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813578",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813797",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813581",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813800",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813583",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813802",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813586",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813804",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813588",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813807",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813590",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813809",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813593",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813811",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813595",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813814",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813597",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813816",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813600",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813819",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813602",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813822",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813604",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813823",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813607",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813825",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813609",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813828",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813611",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813830",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813614",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813832",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813616",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813835",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813618",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813837",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813621",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813839",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813623",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813842",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813625",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813844",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813628",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813846",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813630",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813849",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813632",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813851",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813635",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813853",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813637",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813856",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813639",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813858",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813642",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813860",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813644",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813863",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813646",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813865",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813649",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813867",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813651",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813870",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813653",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813872",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813656",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813874",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813658",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813877",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813660",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813879",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813663",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813881",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813665",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813884",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813667",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813886",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813670",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813888",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813672",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813891",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813674",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813893",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813677",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813895",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813679",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813898",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813681",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813900",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813684",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813902",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813686",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813905",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813688",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813907",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813691",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813910",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813693",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813912",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813695",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813914",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813698",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813916",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813700",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813919",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813702",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813921",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813705",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813923",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813707",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813926",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813709",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813928",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813712",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813930",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813715",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813933",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813935",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813717",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813937",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813939",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813942",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813721",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813943",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813946",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813949",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813726",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813950",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-114-98",
+    "service_id": "3080",
+    "trip_id": "4813955",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813957",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813729",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813959",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-95-98",
+    "service_id": "3080",
+    "trip_id": "4813962",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813732",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813963",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813966",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813735",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813969",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-102",
+    "service_id": "3080",
+    "trip_id": "4813738",
+    "trip_headsign": "Vicent Andrés Estellés",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-102-98",
+    "service_id": "3080",
+    "trip_id": "4813971",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-98-114",
+    "service_id": "3080",
+    "trip_id": "4813741",
+    "trip_headsign": "Mas del Rosari",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-94-115",
+    "service_id": "3080",
+    "trip_id": "4813531",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813756",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813535",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813764",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813539",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813769",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813541",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813777",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813546",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813785",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813556",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813791",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813563",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813799",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813570",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813805",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813576",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813813",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813584",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813820",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813591",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813827",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813598",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813833",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813605",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813841",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813612",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813847",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813619",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813855",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813626",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813861",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813633",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813869",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813640",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813875",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813647",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813883",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813654",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813889",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813661",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813897",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813668",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813903",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813675",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813908",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813682",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813917",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813689",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813925",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813696",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813931",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813703",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813938",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813710",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-29",
+    "service_id": "3080",
+    "trip_id": "4813948",
+    "trip_headsign": "Empalme",
+    "shape_id": "25"
+  },
+  {
+    "route_id": "V4-29-115",
+    "service_id": "3080",
+    "trip_id": "4813720",
+    "trip_headsign": "Ll. Llarga - Terramelar",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V4-115-98",
+    "service_id": "3080",
+    "trip_id": "4813953",
+    "trip_headsign": "Dr. Lluch",
+    "shape_id": "5"
+  },
+  {
+    "route_id": "V5-69-123",
+    "service_id": "3080",
+    "trip_id": "4813352",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-66-69",
+    "service_id": "3080",
+    "trip_id": "4813040",
+    "trip_headsign": "Alameda",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-69-123",
+    "service_id": "3080",
+    "trip_id": "4813353",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813041",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813354",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-66-69",
+    "service_id": "3080",
+    "trip_id": "4813042",
+    "trip_headsign": "Alameda",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813355",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813043",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-69-123",
+    "service_id": "3080",
+    "trip_id": "4813356",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813044",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813357",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-66-69",
+    "service_id": "3080",
+    "trip_id": "4813045",
+    "trip_headsign": "Alameda",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-69-123",
+    "service_id": "3080",
+    "trip_id": "4813358",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813046",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813359",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813047",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813360",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-66-69",
+    "service_id": "3080",
+    "trip_id": "4813048",
+    "trip_headsign": "Alameda",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813361",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813049",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813362",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813050",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813363",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813051",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813364",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813052",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813365",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813053",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813366",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813054",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813367",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813055",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813368",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813056",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813369",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813057",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813370",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813058",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813371",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813059",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813372",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813060",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813373",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813061",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813374",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813062",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813375",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813063",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813376",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813064",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813377",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813065",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813378",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813066",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813379",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813067",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813380",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813068",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813381",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813069",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813382",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813070",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813383",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813071",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813384",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813072",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813385",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813073",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813386",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813074",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813387",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813075",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813388",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813076",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813389",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813077",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813390",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813078",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813391",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813079",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813392",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813080",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813393",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813081",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813394",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813082",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813395",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813083",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813396",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813084",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-69-66",
+    "service_id": "3080",
+    "trip_id": "4813397",
+    "trip_headsign": "Machado",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813085",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813398",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813086",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-123-69",
+    "service_id": "3080",
+    "trip_id": "4813087",
+    "trip_headsign": "Alameda",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-66",
+    "service_id": "3080",
+    "trip_id": "4813400",
+    "trip_headsign": "Machado",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V6-94-132",
+    "service_id": "3080",
+    "trip_id": "4813526",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813747",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-94-132",
+    "service_id": "3080",
+    "trip_id": "4813529",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813750",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813533",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813753",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813537",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-95-123",
+    "service_id": "3080",
+    "trip_id": "4813755",
+    "trip_headsign": "Marítim",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813542",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813759",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813545",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-95-123",
+    "service_id": "3080",
+    "trip_id": "4813763",
+    "trip_headsign": "Marítim",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813550",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813768",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813554",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813773",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813559",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813778",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813564",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813782",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813568",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813787",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813573",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813792",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813577",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813796",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813582",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813801",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813587",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813806",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813592",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813810",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813596",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813815",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813601",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813821",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813606",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813824",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813610",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813829",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813615",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813834",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813620",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813838",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813624",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813843",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813629",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813848",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813634",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813852",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813638",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813857",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813643",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813862",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813648",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813866",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813652",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813871",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813657",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813876",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813662",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813880",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813666",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813885",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813671",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813890",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813676",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813894",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813680",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813899",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813685",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813904",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813690",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813909",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813694",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813913",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813699",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813918",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813704",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813922",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813708",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813927",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813713",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813932",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813716",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813936",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813719",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813940",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813723",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813944",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813724",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-94",
+    "service_id": "3080",
+    "trip_id": "4813947",
+    "trip_headsign": "Beteró",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813727",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813951",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813730",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-94",
+    "service_id": "3080",
+    "trip_id": "4813954",
+    "trip_headsign": "Beteró",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813733",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813956",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813736",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813960",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813739",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813964",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-123-132",
+    "service_id": "3080",
+    "trip_id": "4813742",
+    "trip_headsign": "Tossal del Rei",
+    "shape_id": "8"
+  },
+  {
+    "route_id": "V6-132-123",
+    "service_id": "3080",
+    "trip_id": "4813967",
+    "trip_headsign": "Marítim",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V6-132-94",
+    "service_id": "3080",
+    "trip_id": "4813970",
+    "trip_headsign": "Beteró",
+    "shape_id": "10"
+  },
+  {
+    "route_id": "V7-69-123",
+    "service_id": "3080",
+    "trip_id": "4813402",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-66-69",
+    "service_id": "3080",
+    "trip_id": "4813090",
+    "trip_headsign": "Alameda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-69-123",
+    "service_id": "3080",
+    "trip_id": "4813403",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813091",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813404",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-66-69",
+    "service_id": "3080",
+    "trip_id": "4813092",
+    "trip_headsign": "Alameda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-69-123",
+    "service_id": "3080",
+    "trip_id": "4813405",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813093",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813406",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-69",
+    "service_id": "3080",
+    "trip_id": "4813094",
+    "trip_headsign": "Alameda",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-69-123",
+    "service_id": "3080",
+    "trip_id": "4813407",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813095",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813408",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-69",
+    "service_id": "3080",
+    "trip_id": "4813096",
+    "trip_headsign": "Alameda",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-69-123",
+    "service_id": "3080",
+    "trip_id": "4813409",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813097",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813410",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-66-69",
+    "service_id": "3080",
+    "trip_id": "4813098",
+    "trip_headsign": "Alameda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813411",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813099",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813412",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813100",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813413",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813101",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813414",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813102",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813415",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813103",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813416",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813104",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813417",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813105",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813418",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813106",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813419",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813107",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813420",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813108",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813421",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813109",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813422",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813110",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813423",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813111",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813424",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813112",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813425",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813113",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813426",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813114",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813427",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813115",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813428",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813116",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813429",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813117",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813430",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813118",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813431",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813119",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813432",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813120",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813433",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813121",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813434",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813122",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813435",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813123",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813436",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813124",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813437",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813125",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813438",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813126",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813439",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813127",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813440",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813128",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813441",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813129",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813442",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813130",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813443",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813131",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813444",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813132",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813445",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813133",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-66",
+    "service_id": "3080",
+    "trip_id": "4813446",
+    "trip_headsign": "Machado",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813134",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-66",
+    "service_id": "3080",
+    "trip_id": "4813447",
+    "trip_headsign": "Machado",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813135",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813136",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813548",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-95-123",
+    "service_id": "3080",
+    "trip_id": "4813757",
+    "trip_headsign": "Marítim",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813552",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813761",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813557",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813765",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813561",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813770",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813566",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813775",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813571",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813780",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813579",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813784",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813580",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813789",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813585",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813794",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813589",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813798",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813594",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813803",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813599",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813808",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813603",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813812",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813608",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813817",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813613",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813818",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813617",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813826",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813622",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813831",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813627",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813836",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813631",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813840",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813636",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813845",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813641",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813850",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813645",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813854",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813650",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813859",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813655",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813864",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813659",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813868",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813664",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813873",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813669",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813878",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813673",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813882",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813678",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813887",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813683",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813892",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813687",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813896",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813692",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813901",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813697",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813906",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813701",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813911",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813706",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813915",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813711",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813920",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813714",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813924",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813718",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813929",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813722",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813934",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813725",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813941",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813728",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813945",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813731",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813952",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813734",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813958",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813737",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813961",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-123-126",
+    "service_id": "3080",
+    "trip_id": "4813740",
+    "trip_headsign": "Neptú",
+    "shape_id": "9"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813965",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V8-126-123",
+    "service_id": "3080",
+    "trip_id": "4813968",
+    "trip_headsign": "Marítim",
+    "shape_id": "59"
+  },
+  {
+    "route_id": "V9-186-56",
+    "service_id": "3080",
+    "trip_id": "4813449",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-66-186",
+    "service_id": "3080",
+    "trip_id": "4813137",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-186-56",
+    "service_id": "3080",
+    "trip_id": "4813450",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-66-186",
+    "service_id": "3080",
+    "trip_id": "4813138",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-186-56",
+    "service_id": "3080",
+    "trip_id": "4813451",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-66-186",
+    "service_id": "3080",
+    "trip_id": "4813139",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-186-56",
+    "service_id": "3080",
+    "trip_id": "4813452",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-66-186",
+    "service_id": "3080",
+    "trip_id": "4813140",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-186-56",
+    "service_id": "3080",
+    "trip_id": "4813453",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-66-186",
+    "service_id": "3080",
+    "trip_id": "4813141",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-66-186",
+    "service_id": "3080",
+    "trip_id": "4813142",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-186-56",
+    "service_id": "3080",
+    "trip_id": "4813454",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-186",
+    "service_id": "3080",
+    "trip_id": "4813143",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-73-56",
+    "service_id": "3080",
+    "trip_id": "4813455",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-73",
+    "service_id": "3080",
+    "trip_id": "4813144",
+    "trip_headsign": "Av. del Cid",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-186-56",
+    "service_id": "3080",
+    "trip_id": "4813456",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-186",
+    "service_id": "3080",
+    "trip_id": "4813145",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-73-56",
+    "service_id": "3080",
+    "trip_id": "4813457",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-73",
+    "service_id": "3080",
+    "trip_id": "4813146",
+    "trip_headsign": "Av. del Cid",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-186-56",
+    "service_id": "3080",
+    "trip_id": "4813458",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-186",
+    "service_id": "3080",
+    "trip_id": "4813147",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-73-56",
+    "service_id": "3080",
+    "trip_id": "4813459",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-73",
+    "service_id": "3080",
+    "trip_id": "4813148",
+    "trip_headsign": "Av. del Cid",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-186-56",
+    "service_id": "3080",
+    "trip_id": "4813460",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-186",
+    "service_id": "3080",
+    "trip_id": "4813149",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-73-56",
+    "service_id": "3080",
+    "trip_id": "4813461",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-73",
+    "service_id": "3080",
+    "trip_id": "4813150",
+    "trip_headsign": "Av. del Cid",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-186-56",
+    "service_id": "3080",
+    "trip_id": "4813462",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-186",
+    "service_id": "3080",
+    "trip_id": "4813151",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-73-56",
+    "service_id": "3080",
+    "trip_id": "4813463",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-73",
+    "service_id": "3080",
+    "trip_id": "4813152",
+    "trip_headsign": "Av. del Cid",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-186-56",
+    "service_id": "3080",
+    "trip_id": "4813464",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-186",
+    "service_id": "3080",
+    "trip_id": "4813153",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-73-56",
+    "service_id": "3080",
+    "trip_id": "4813465",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-73",
+    "service_id": "3080",
+    "trip_id": "4813154",
+    "trip_headsign": "Av. del Cid",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-186-56",
+    "service_id": "3080",
+    "trip_id": "4813466",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-186",
+    "service_id": "3080",
+    "trip_id": "4813155",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-73-56",
+    "service_id": "3080",
+    "trip_id": "4813467",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-73",
+    "service_id": "3080",
+    "trip_id": "4813156",
+    "trip_headsign": "Av. del Cid",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-186-56",
+    "service_id": "3080",
+    "trip_id": "4813468",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-186",
+    "service_id": "3080",
+    "trip_id": "4813157",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-73-56",
+    "service_id": "3080",
+    "trip_id": "4813469",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-73",
+    "service_id": "3080",
+    "trip_id": "4813158",
+    "trip_headsign": "Av. del Cid",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-186-56",
+    "service_id": "3080",
+    "trip_id": "4813470",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-186",
+    "service_id": "3080",
+    "trip_id": "4813159",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-73-56",
+    "service_id": "3080",
+    "trip_id": "4813471",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-73",
+    "service_id": "3080",
+    "trip_id": "4813160",
+    "trip_headsign": "Av. del Cid",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-186-56",
+    "service_id": "3080",
+    "trip_id": "4813472",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-186",
+    "service_id": "3080",
+    "trip_id": "4813161",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-73-56",
+    "service_id": "3080",
+    "trip_id": "4813473",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-73",
+    "service_id": "3080",
+    "trip_id": "4813162",
+    "trip_headsign": "Av. del Cid",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-186-56",
+    "service_id": "3080",
+    "trip_id": "4813474",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-186",
+    "service_id": "3080",
+    "trip_id": "4813163",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-73-56",
+    "service_id": "3080",
+    "trip_id": "4813475",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-73",
+    "service_id": "3080",
+    "trip_id": "4813164",
+    "trip_headsign": "Av. del Cid",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-186-56",
+    "service_id": "3080",
+    "trip_id": "4813476",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-186",
+    "service_id": "3080",
+    "trip_id": "4813165",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-73-56",
+    "service_id": "3080",
+    "trip_id": "4813477",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-73",
+    "service_id": "3080",
+    "trip_id": "4813166",
+    "trip_headsign": "Av. del Cid",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-186-56",
+    "service_id": "3080",
+    "trip_id": "4813478",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-186",
+    "service_id": "3080",
+    "trip_id": "4813167",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-73-56",
+    "service_id": "3080",
+    "trip_id": "4813479",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-73",
+    "service_id": "3080",
+    "trip_id": "4813168",
+    "trip_headsign": "Av. del Cid",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-186-56",
+    "service_id": "3080",
+    "trip_id": "4813480",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-186",
+    "service_id": "3080",
+    "trip_id": "4813169",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-73-56",
+    "service_id": "3080",
+    "trip_id": "4813481",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-73",
+    "service_id": "3080",
+    "trip_id": "4813170",
+    "trip_headsign": "Av. del Cid",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-186-56",
+    "service_id": "3080",
+    "trip_id": "4813482",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-186",
+    "service_id": "3080",
+    "trip_id": "4813171",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-73-56",
+    "service_id": "3080",
+    "trip_id": "4813483",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-73",
+    "service_id": "3080",
+    "trip_id": "4813172",
+    "trip_headsign": "Av. del Cid",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-186-56",
+    "service_id": "3080",
+    "trip_id": "4813484",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-186",
+    "service_id": "3080",
+    "trip_id": "4813173",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-186-66",
+    "service_id": "3080",
+    "trip_id": "4813485",
+    "trip_headsign": "Machado",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-186",
+    "service_id": "3080",
+    "trip_id": "4813174",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-186-66",
+    "service_id": "3080",
+    "trip_id": "4813487",
+    "trip_headsign": "Machado",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-186",
+    "service_id": "3080",
+    "trip_id": "4813175",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814061",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814062",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814063",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814064",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814065",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814066",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814067",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814068",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-190-197",
+    "service_id": "3080",
+    "trip_id": "4814069",
+    "trip_headsign": "Natzaret",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V10-190-194",
+    "service_id": "3080",
+    "trip_id": "4814070",
+    "trip_headsign": "Ciutat Arts i Ciències - Justícia",
+    "shape_id": "74"
+  },
+  {
+    "route_id": "V1-1-39",
+    "service_id": "3080",
+    "trip_id": "4813488",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-20-13",
+    "service_id": "3080",
+    "trip_id": "4813176",
+    "trip_headsign": "Picassent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-1-36",
+    "service_id": "3080",
+    "trip_id": "4813489",
+    "trip_headsign": "Seminari - CEU",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-20-17",
+    "service_id": "3080",
+    "trip_id": "4813177",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-13-39",
+    "service_id": "3080",
+    "trip_id": "4813490",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-39-13",
+    "service_id": "3080",
+    "trip_id": "4813178",
+    "trip_headsign": "Picassent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-36",
+    "service_id": "3080",
+    "trip_id": "4813491",
+    "trip_headsign": "Seminari - CEU",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-36-17",
+    "service_id": "3080",
+    "trip_id": "4813179",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-13-39",
+    "service_id": "3080",
+    "trip_id": "4813492",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-39-13",
+    "service_id": "3080",
+    "trip_id": "4813180",
+    "trip_headsign": "Picassent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-17-36",
+    "service_id": "3080",
+    "trip_id": "4813493",
+    "trip_headsign": "Seminari - CEU",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-36-17",
+    "service_id": "3080",
+    "trip_id": "4813181",
+    "trip_headsign": "Torrent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-13-39",
+    "service_id": "3080",
+    "trip_id": "4813494",
+    "trip_headsign": "Bétera",
+    "shape_id": "48"
+  },
+  {
+    "route_id": "V1-39-13",
+    "service_id": "3080",
+    "trip_id": "4813182",
+    "trip_headsign": "Picassent",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V2-20-44",
+    "service_id": "3080",
+    "trip_id": "4813495",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4813183",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813496",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3080",
+    "trip_id": "4813184",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3080",
+    "trip_id": "4813497",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3080",
+    "trip_id": "4813185",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813498",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4813186",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-44",
+    "service_id": "3080",
+    "trip_id": "4813499",
+    "trip_headsign": "Paterna",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-44-107",
+    "service_id": "3080",
+    "trip_id": "4813187",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-107-54",
+    "service_id": "3080",
+    "trip_id": "4813500",
+    "trip_headsign": "Llíria",
+    "shape_id": "47"
+  },
+  {
+    "route_id": "V2-54-107",
+    "service_id": "3080",
+    "trip_id": "4813188",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V3-182-56",
+    "service_id": "3080",
+    "trip_id": "4813501",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-56-182",
+    "service_id": "3080",
+    "trip_id": "4813189",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813502",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-56-182",
+    "service_id": "3080",
+    "trip_id": "4813190",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-56",
+    "service_id": "3080",
+    "trip_id": "4813503",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813191",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-56",
+    "service_id": "3080",
+    "trip_id": "4813504",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-56-182",
+    "service_id": "3080",
+    "trip_id": "4813192",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813505",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-64-182",
+    "service_id": "3080",
+    "trip_id": "4813193",
+    "trip_headsign": "Aeroport",
+    "shape_id": "3"
+  },
+  {
+    "route_id": "V3-182-56",
+    "service_id": "3080",
+    "trip_id": "4813506",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-182-64",
+    "service_id": "3080",
+    "trip_id": "4813507",
+    "trip_headsign": "Rafelbunyol",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V5-69-123",
+    "service_id": "3080",
+    "trip_id": "4813508",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813194",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813509",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-66-69",
+    "service_id": "3080",
+    "trip_id": "4813195",
+    "trip_headsign": "Alameda",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813510",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813196",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813511",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813197",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-123",
+    "service_id": "3080",
+    "trip_id": "4813512",
+    "trip_headsign": "Marítim",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813198",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-182-66",
+    "service_id": "3080",
+    "trip_id": "4813513",
+    "trip_headsign": "Machado",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-182",
+    "service_id": "3080",
+    "trip_id": "4813199",
+    "trip_headsign": "Aeroport",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-73-66",
+    "service_id": "3080",
+    "trip_id": "4813514",
+    "trip_headsign": "Machado",
+    "shape_id": "7"
+  },
+  {
+    "route_id": "V5-123-73",
+    "service_id": "3080",
+    "trip_id": "4813200",
+    "trip_headsign": "Av. del Cid",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813515",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813201",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813516",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813202",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813517",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813203",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813518",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813204",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-123",
+    "service_id": "3080",
+    "trip_id": "4813519",
+    "trip_headsign": "Marítim",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813205",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V7-107-66",
+    "service_id": "3080",
+    "trip_id": "4813520",
+    "trip_headsign": "Machado",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V7-123-107",
+    "service_id": "3080",
+    "trip_id": "4813206",
+    "trip_headsign": "Torrent Avinguda",
+    "shape_id": "6"
+  },
+  {
+    "route_id": "V9-186-56",
+    "service_id": "3080",
+    "trip_id": "4813521",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-186",
+    "service_id": "3080",
+    "trip_id": "4813207",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-186-56",
+    "service_id": "3080",
+    "trip_id": "4813522",
+    "trip_headsign": "Alboraia Peris Aragó",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-186",
+    "service_id": "3080",
+    "trip_id": "4813208",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V9-186-66",
+    "service_id": "3080",
+    "trip_id": "4813523",
+    "trip_headsign": "Machado",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V9-56-186",
+    "service_id": "3080",
+    "trip_id": "4813209",
+    "trip_headsign": "Riba-roja de Túria",
+    "shape_id": "70"
+  },
+  {
+    "route_id": "V1-1-29",
+    "service_id": "3080",
+    "trip_id": "4813256",
+    "trip_headsign": "Empalme",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V1-1-29",
+    "service_id": "3080",
+    "trip_id": "4813257",
+    "trip_headsign": "Empalme",
+    "shape_id": "2"
+  },
+  {
+    "route_id": "V2-107-20",
+    "service_id": "3080",
+    "trip_id": "4813304",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V2-54-20",
+    "service_id": "3080",
+    "trip_id": "4812992",
+    "trip_headsign": "València Sud",
+    "shape_id": "1"
+  },
+  {
+    "route_id": "V3-182-66",
+    "service_id": "3080",
+    "trip_id": "4813350",
+    "trip_headsign": "Machado",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V3-182-66",
+    "service_id": "3080",
+    "trip_id": "4813351",
+    "trip_headsign": "Machado",
+    "shape_id": "43"
+  },
+  {
+    "route_id": "V5-69-66",
+    "service_id": "3080",
+    "trip_id": "4813399",
+    "trip_headsign": "Machado",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-123-69",
+    "service_id": "3080",
+    "trip_id": "4813088",
+    "trip_headsign": "Alameda",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-69-66",
+    "service_id": "3080",
+    "trip_id": "4813401",
+    "trip_headsign": "Machado",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V5-123-69",
+    "service_id": "3080",
+    "trip_id": "4813089",
+    "trip_headsign": "Alameda",
+    "shape_id": "44"
+  },
+  {
+    "route_id": "V7-107-66",
+    "service_id": "3080",
+    "trip_id": "4813448",
+    "trip_headsign": "Machado",
+    "shape_id": "45"
+  },
+  {
+    "route_id": "V9-186-66",
+    "service_id": "3080",
+    "trip_id": "4813486",
+    "trip_headsign": "Machado",
+    "shape_id": "69"
+  },
+  {
+    "route_id": "V10-190-197",
     "service_id": "3091",
     "trip_id": "4826605",
     "trip_headsign": "Natzaret",
