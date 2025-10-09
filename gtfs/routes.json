@@ -495,15 +495,6 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "V3-64-186",
-    "agency_id": "1",
-    "route_short_name": "3",
-    "route_long_name": "3 - Rafelbunyol - Riba-roja de Túria",
-    "route_type": "0",
-    "route_color": "DD052C",
-    "route_text_color": "FFFFFF"
-  },
-  {
     "route_id": "V3-64-66",
     "agency_id": "1",
     "route_short_name": "3",
@@ -549,6 +540,69 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "V4-100-93",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Fira València - Tarongers - Ernest Lluch",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-100-94",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Fira València - Beteró",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-100-98",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Fira València - Dr. Lluch",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-100-99",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Fira València - Cabanyal",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-102-115",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Vicent Andrés Estellés - Ll. Llarga - Terramelar",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-102-29",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Vicent Andrés Estellés - Empalme",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-102-92",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Vicent Andrés Estellés - La Carrasca",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "V4-102-94",
     "agency_id": "1",
     "route_short_name": "4",
@@ -567,10 +621,190 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "V4-102-99",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Vicent Andrés Estellés - Cabanyal",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-103-115",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Campus - Ll. Llarga - Terramelar",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-103-95",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Campus - La Cadena",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-103-98",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Campus - Dr. Lluch",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-103-99",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Campus - Cabanyal",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-104-115",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Sant Joan - Ll. Llarga - Terramelar",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-104-94",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Sant Joan - Beteró",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-104-95",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Sant Joan - La Cadena",
+    "route_type": "1",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-104-98",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Sant Joan - Dr. Lluch",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-105-115",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - La Granja - Ll. Llarga - Terramelar",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-110-104",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - À Punt - Sant Joan",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-110-29",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - À Punt - Empalme",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-110-93",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - À Punt - Tarongers - Ernest Lluch",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-111-98",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Parc Científic - Dr. Lluch",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-112-95",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Tomás y Valiente - La Cadena",
+    "route_type": "1",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-112-98",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Tomás y Valiente - Dr. Lluch",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-113-98",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - La Coma - Dr. Lluch",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-113-99",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - La Coma - Cabanyal",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "V4-114-98",
     "agency_id": "1",
     "route_short_name": "4",
     "route_long_name": "4 - Mas del Rosari - Dr. Lluch",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-114-99",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Mas del Rosari - Cabanyal",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-115-105",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Ll. Llarga - Terramelar - La Granja",
     "route_type": "0",
     "route_color": "F28D01",
     "route_text_color": "FFFFFF"
@@ -603,6 +837,15 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "V4-29-110",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Empalme - À Punt",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "V4-29-115",
     "agency_id": "1",
     "route_short_name": "4",
@@ -612,10 +855,64 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "V4-29-98",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Empalme - Dr. Lluch",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-67-114",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Benimaclet - Mas del Rosari",
+    "route_type": "1",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-80-99",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Florista - Cabanyal",
+    "route_type": "1",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-93-100",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Tarongers - Ernest Lluch - Fira València",
+    "route_type": "1",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-94-100",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Beteró - Fira València",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "V4-94-102",
     "agency_id": "1",
     "route_short_name": "4",
     "route_long_name": "4 - Beteró - Vicent Andrés Estellés",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-94-105",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Beteró - La Granja",
     "route_type": "0",
     "route_color": "014A99",
     "route_text_color": "FFFFFF"
@@ -630,10 +927,118 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "V4-94-80",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Beteró - Florista",
+    "route_type": "1",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-95-114",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - La Cadena - Mas del Rosari",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "V4-95-98",
     "agency_id": "1",
     "route_short_name": "4",
     "route_long_name": "4 - La Cadena - Dr. Lluch",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-96-100",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Platja Malva-rosa - Fira València",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-96-102",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Platja Malva-rosa - Vicent Andrés Estellés",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-96-111",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Platja Malva-rosa - Parc Científic",
+    "route_type": "1",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-96-114",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Platja Malva-rosa - Mas del Rosari",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-97-100",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Platja les Arenes - Fira València",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-97-102",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Platja les Arenes - Vicent Andrés Estellés",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-97-112",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Platja les Arenes - Tomás y Valiente",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-97-113",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Platja les Arenes - La Coma",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-97-114",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Platja les Arenes - Mas del Rosari",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-98-100",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Dr. Lluch - Fira València",
     "route_type": "0",
     "route_color": "014A99",
     "route_text_color": "FFFFFF"
@@ -648,12 +1053,75 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "V4-98-103",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Dr. Lluch - Campus",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-98-111",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Dr. Lluch - Parc Científic",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-98-113",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Dr. Lluch - La Coma",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "V4-98-114",
     "agency_id": "1",
     "route_short_name": "4",
     "route_long_name": "4 - Dr. Lluch - Mas del Rosari",
     "route_type": "0",
     "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-98-115",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Dr. Lluch - Ll. Llarga - Terramelar",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-98-95",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Dr. Lluch - La Cadena",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-98-96",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Dr. Lluch - Platja Malva-rosa",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-98-97",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Dr. Lluch - Platja les Arenes",
+    "route_type": "0",
+    "route_color": "014A99",
     "route_text_color": "FFFFFF"
   },
   {
@@ -747,12 +1215,39 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "V6-123-130",
+    "agency_id": "1",
+    "route_short_name": "6",
+    "route_long_name": "6 - Marítim - Estadi Ciutat de València",
+    "route_type": "0",
+    "route_color": "8884BF",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V6-123-131",
+    "agency_id": "1",
+    "route_short_name": "6",
+    "route_long_name": "6 - Marítim - Sant Miquel dels Reis",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "V6-123-132",
     "agency_id": "1",
     "route_short_name": "6",
     "route_long_name": "6 - Marítim - Tossal del Rei",
     "route_type": "0",
     "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V6-123-96",
+    "agency_id": "1",
+    "route_short_name": "6",
+    "route_long_name": "6 - Marítim - Platja Malva-rosa",
+    "route_type": "0",
+    "route_color": "8884BF",
     "route_text_color": "FFFFFF"
   },
   {
@@ -765,12 +1260,102 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "V6-124-129",
+    "agency_id": "1",
+    "route_short_name": "6",
+    "route_long_name": "6 - Francesc Cubells - Orriols",
+    "route_type": "0",
+    "route_color": "8884BF",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V6-124-132",
+    "agency_id": "1",
+    "route_short_name": "6",
+    "route_long_name": "6 - Francesc Cubells - Tossal del Rei",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V6-129-124",
+    "agency_id": "1",
+    "route_short_name": "6",
+    "route_long_name": "6 - Orriols - Francesc Cubells",
+    "route_type": "0",
+    "route_color": "8884BF",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V6-130-123",
+    "agency_id": "1",
+    "route_short_name": "6",
+    "route_long_name": "6 - Estadi Ciutat de València - Marítim",
+    "route_type": "0",
+    "route_color": "8884BF",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V6-131-123",
+    "agency_id": "1",
+    "route_short_name": "6",
+    "route_long_name": "6 - Sant Miquel dels Reis - Marítim",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V6-131-124",
+    "agency_id": "1",
+    "route_short_name": "6",
+    "route_long_name": "6 - Sant Miquel dels Reis - Francesc Cubells",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V6-131-125",
+    "agency_id": "1",
+    "route_short_name": "6",
+    "route_long_name": "6 - Sant Miquel dels Reis - Grau - La Marina",
+    "route_type": "0",
+    "route_color": "8884BF",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "V6-132-123",
     "agency_id": "1",
     "route_short_name": "6",
     "route_long_name": "6 - Tossal del Rei - Marítim",
     "route_type": "0",
     "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V6-132-124",
+    "agency_id": "1",
+    "route_short_name": "6",
+    "route_long_name": "6 - Tossal del Rei - Francesc Cubells",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V6-132-125",
+    "agency_id": "1",
+    "route_short_name": "6",
+    "route_long_name": "6 - Tossal del Rei - Grau - La Marina",
+    "route_type": "0",
+    "route_color": "8884BF",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V6-132-127",
+    "agency_id": "1",
+    "route_short_name": "6",
+    "route_long_name": "6 - Tossal del Rei - Canyamelar",
+    "route_type": "0",
+    "route_color": "8884BF",
     "route_text_color": "FFFFFF"
   },
   {
@@ -796,6 +1381,15 @@
     "agency_id": "1",
     "route_short_name": "6",
     "route_long_name": "6 - Tarongers - Ernest Lluch - Tossal del Rei",
+    "route_type": "0",
+    "route_color": "8884BF",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V6-94-131",
+    "agency_id": "1",
+    "route_short_name": "6",
+    "route_long_name": "6 - Beteró - Sant Miquel dels Reis",
     "route_type": "0",
     "route_color": "8884BF",
     "route_text_color": "FFFFFF"
@@ -900,10 +1494,37 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "V8-123-124",
+    "agency_id": "1",
+    "route_short_name": "8",
+    "route_long_name": "8 - Marítim - Francesc Cubells",
+    "route_type": "0",
+    "route_color": "82CEE6",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V8-123-125",
+    "agency_id": "1",
+    "route_short_name": "8",
+    "route_long_name": "8 - Marítim - Grau - La Marina",
+    "route_type": "0",
+    "route_color": "B8804F",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "V8-123-126",
     "agency_id": "1",
     "route_short_name": "8",
     "route_long_name": "8 - Marítim - Neptú",
+    "route_type": "0",
+    "route_color": "B8804F",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V8-123-95",
+    "agency_id": "1",
+    "route_short_name": "8",
+    "route_long_name": "8 - Marítim - La Cadena",
     "route_type": "0",
     "route_color": "B8804F",
     "route_text_color": "FFFFFF"
@@ -918,6 +1539,51 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "V8-124-123",
+    "agency_id": "1",
+    "route_short_name": "8",
+    "route_long_name": "8 - Francesc Cubells - Marítim",
+    "route_type": "0",
+    "route_color": "82CEE6",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V8-124-125",
+    "agency_id": "1",
+    "route_short_name": "8",
+    "route_long_name": "8 - Francesc Cubells - Grau - La Marina",
+    "route_type": "0",
+    "route_color": "82CEE6",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V8-124-126",
+    "agency_id": "1",
+    "route_short_name": "8",
+    "route_long_name": "8 - Francesc Cubells - Neptú",
+    "route_type": "0",
+    "route_color": "B8804F",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V8-125-123",
+    "agency_id": "1",
+    "route_short_name": "8",
+    "route_long_name": "8 - Grau - La Marina - Marítim",
+    "route_type": "0",
+    "route_color": "B8804F",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V8-125-124",
+    "agency_id": "1",
+    "route_short_name": "8",
+    "route_long_name": "8 - Grau - La Marina - Francesc Cubells",
+    "route_type": "0",
+    "route_color": "82CEE6",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "V8-126-123",
     "agency_id": "1",
     "route_short_name": "8",
@@ -927,10 +1593,37 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "V8-126-124",
+    "agency_id": "1",
+    "route_short_name": "8",
+    "route_long_name": "8 - Neptú - Francesc Cubells",
+    "route_type": "0",
+    "route_color": "B8804F",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V8-126-125",
+    "agency_id": "1",
+    "route_short_name": "8",
+    "route_long_name": "8 - Neptú - Grau - La Marina",
+    "route_type": "0",
+    "route_color": "82CEE6",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "V8-95-123",
     "agency_id": "1",
     "route_short_name": "8",
     "route_long_name": "8 - La Cadena - Marítim",
+    "route_type": "0",
+    "route_color": "82CEE6",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V8-98-123",
+    "agency_id": "1",
+    "route_short_name": "8",
+    "route_long_name": "8 - Dr. Lluch - Marítim",
     "route_type": "0",
     "route_color": "82CEE6",
     "route_text_color": "FFFFFF"
