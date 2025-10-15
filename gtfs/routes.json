@@ -1188,6 +1188,15 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "V5-69-182",
+    "agency_id": "1",
+    "route_short_name": "5",
+    "route_long_name": "5 - Alameda - Aeroport",
+    "route_type": "0",
+    "route_color": "008F71",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "V5-69-66",
     "agency_id": "1",
     "route_short_name": "5",
@@ -1437,6 +1446,15 @@
     "route_long_name": "7 - Torrent Avinguda - Machado",
     "route_type": "1",
     "route_color": "82CEE6",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V7-107-69",
+    "agency_id": "1",
+    "route_short_name": "7",
+    "route_long_name": "7 - Torrent Avinguda - Alameda",
+    "route_type": "1",
+    "route_color": "F28D01",
     "route_text_color": "FFFFFF"
   },
   {
