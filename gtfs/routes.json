@@ -594,6 +594,15 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "V4-114-94",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Mas del Rosari - Beteró",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "V4-114-98",
     "agency_id": "1",
     "route_short_name": "4",
@@ -639,6 +648,42 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "V4-80-98",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Florista - Dr. Lluch",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-87-100",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Pont de Fusta - Fira València",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-87-102",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Pont de Fusta - Vicent Andrés Estellés",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-87-114",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Pont de Fusta - Mas del Rosari",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "V4-94-100",
     "agency_id": "1",
     "route_short_name": "4",
@@ -652,15 +697,6 @@
     "agency_id": "1",
     "route_short_name": "4",
     "route_long_name": "4 - Beteró - Vicent Andrés Estellés",
-    "route_type": "0",
-    "route_color": "014A99",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V4-94-114",
-    "agency_id": "1",
-    "route_short_name": "4",
-    "route_long_name": "4 - Beteró - Mas del Rosari",
     "route_type": "0",
     "route_color": "014A99",
     "route_text_color": "FFFFFF"
@@ -706,6 +742,15 @@
     "agency_id": "1",
     "route_short_name": "4",
     "route_long_name": "4 - Dr. Lluch - Mas del Rosari",
+    "route_type": "0",
+    "route_color": "F28D01",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-98-95",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Dr. Lluch - La Cadena",
     "route_type": "0",
     "route_color": "F28D01",
     "route_text_color": "FFFFFF"
@@ -985,6 +1030,15 @@
     "agency_id": "1",
     "route_short_name": "8",
     "route_long_name": "8 - La Cadena - Marítim",
+    "route_type": "0",
+    "route_color": "82CEE6",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V8-98-123",
+    "agency_id": "1",
+    "route_short_name": "8",
+    "route_long_name": "8 - Dr. Lluch - Marítim",
     "route_type": "0",
     "route_color": "82CEE6",
     "route_text_color": "FFFFFF"
