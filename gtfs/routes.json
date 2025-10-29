@@ -27,6 +27,24 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "V1-107-36",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Torrent Avinguda - Seminari - CEU",
+    "route_type": "0",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V1-107-39",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Torrent Avinguda - Bétera",
+    "route_type": "1",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "V1-13-20",
     "agency_id": "1",
     "route_short_name": "1",
@@ -171,6 +189,15 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "V1-29-13",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - Empalme - Picassent",
+    "route_type": "1",
+    "route_color": "E60096",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "V1-29-20",
     "agency_id": "1",
     "route_short_name": "1",
@@ -279,6 +306,15 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "V1-5-20",
+    "agency_id": "1",
+    "route_short_name": "1",
+    "route_long_name": "1 - L'Alcúdia - València Sud",
+    "route_type": "1",
+    "route_color": "FEC601",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "V1-5-36",
     "agency_id": "1",
     "route_short_name": "1",
@@ -378,6 +414,15 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "V2-20-29",
+    "agency_id": "1",
+    "route_short_name": "2",
+    "route_long_name": "2 - València Sud - Empalme",
+    "route_type": "1",
+    "route_color": "E60096",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "V2-20-44",
     "agency_id": "1",
     "route_short_name": "2",
@@ -393,6 +438,15 @@
     "route_long_name": "2 - València Sud - Llíria",
     "route_type": "1",
     "route_color": "CE142B",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V2-29-107",
+    "agency_id": "1",
+    "route_short_name": "2",
+    "route_long_name": "2 - Empalme - Torrent Avinguda",
+    "route_type": "1",
+    "route_color": "E60096",
     "route_text_color": "FFFFFF"
   },
   {
@@ -486,6 +540,15 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "V3-58-64",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Meliana - Rafelbunyol",
+    "route_type": "1",
+    "route_color": "DD052C",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "V3-64-182",
     "agency_id": "1",
     "route_short_name": "3",
@@ -499,6 +562,15 @@
     "agency_id": "1",
     "route_short_name": "3",
     "route_long_name": "3 - Rafelbunyol - Machado",
+    "route_type": "1",
+    "route_color": "DD052C",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V3-64-73",
+    "agency_id": "1",
+    "route_short_name": "3",
+    "route_long_name": "3 - Rafelbunyol - Av. del Cid",
     "route_type": "1",
     "route_color": "DD052C",
     "route_text_color": "FFFFFF"
@@ -540,12 +612,12 @@
     "route_text_color": "FFFFFF"
   },
   {
-    "route_id": "V4-100-87",
+    "route_id": "V3-73-66",
     "agency_id": "1",
-    "route_short_name": "4",
-    "route_long_name": "4 - Fira València - Pont de Fusta",
-    "route_type": "0",
-    "route_color": "014A99",
+    "route_short_name": "3",
+    "route_long_name": "3 - Av. del Cid - Machado",
+    "route_type": "1",
+    "route_color": "DD052C",
     "route_text_color": "FFFFFF"
   },
   {
@@ -553,15 +625,6 @@
     "agency_id": "1",
     "route_short_name": "4",
     "route_long_name": "4 - Fira València - Dr. Lluch",
-    "route_type": "0",
-    "route_color": "014A99",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V4-102-87",
-    "agency_id": "1",
-    "route_short_name": "4",
-    "route_long_name": "4 - Vicent Andrés Estellés - Pont de Fusta",
     "route_type": "0",
     "route_color": "014A99",
     "route_text_color": "FFFFFF"
@@ -582,15 +645,6 @@
     "route_long_name": "4 - Vicent Andrés Estellés - Dr. Lluch",
     "route_type": "0",
     "route_color": "F28D01",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V4-114-87",
-    "agency_id": "1",
-    "route_short_name": "4",
-    "route_long_name": "4 - Mas del Rosari - Pont de Fusta",
-    "route_type": "0",
-    "route_color": "014A99",
     "route_text_color": "FFFFFF"
   },
   {
@@ -645,42 +699,6 @@
     "route_long_name": "4 - Empalme - Ll. Llarga - Terramelar",
     "route_type": "0",
     "route_color": "F28D01",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V4-80-98",
-    "agency_id": "1",
-    "route_short_name": "4",
-    "route_long_name": "4 - Florista - Dr. Lluch",
-    "route_type": "0",
-    "route_color": "014A99",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V4-87-100",
-    "agency_id": "1",
-    "route_short_name": "4",
-    "route_long_name": "4 - Pont de Fusta - Fira València",
-    "route_type": "0",
-    "route_color": "014A99",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V4-87-102",
-    "agency_id": "1",
-    "route_short_name": "4",
-    "route_long_name": "4 - Pont de Fusta - Vicent Andrés Estellés",
-    "route_type": "0",
-    "route_color": "014A99",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V4-87-114",
-    "agency_id": "1",
-    "route_short_name": "4",
-    "route_long_name": "4 - Pont de Fusta - Mas del Rosari",
-    "route_type": "0",
-    "route_color": "014A99",
     "route_text_color": "FFFFFF"
   },
   {
@@ -742,15 +760,6 @@
     "agency_id": "1",
     "route_short_name": "4",
     "route_long_name": "4 - Dr. Lluch - Mas del Rosari",
-    "route_type": "0",
-    "route_color": "F28D01",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V4-98-95",
-    "agency_id": "1",
-    "route_short_name": "4",
-    "route_long_name": "4 - Dr. Lluch - La Cadena",
     "route_type": "0",
     "route_color": "F28D01",
     "route_text_color": "FFFFFF"
@@ -1030,15 +1039,6 @@
     "agency_id": "1",
     "route_short_name": "8",
     "route_long_name": "8 - La Cadena - Marítim",
-    "route_type": "0",
-    "route_color": "82CEE6",
-    "route_text_color": "FFFFFF"
-  },
-  {
-    "route_id": "V8-98-123",
-    "agency_id": "1",
-    "route_short_name": "8",
-    "route_long_name": "8 - Dr. Lluch - Marítim",
     "route_type": "0",
     "route_color": "82CEE6",
     "route_text_color": "FFFFFF"
