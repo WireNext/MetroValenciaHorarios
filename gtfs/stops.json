@@ -999,5 +999,12 @@
     "stop_lat": "39.449889",
     "stop_lon": "-0.334674",
     "zone_id": "A"
+  },
+  {
+    "stop_id": "100",
+    "stop_name": "Fira València",
+    "stop_lat": "39.5041427612",
+    "stop_lon": "-0.4254944324",
+    "zone_id": "A B"
   }
 ]
