@@ -603,6 +603,15 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "V4-102-93",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Vicent Andrés Estellés - Tarongers - Ernest Lluch",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "V4-102-94",
     "agency_id": "1",
     "route_short_name": "4",
@@ -783,6 +792,24 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "V4-114-93",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Mas del Rosari - Tarongers - Ernest Lluch",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-114-94",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Mas del Rosari - Beteró",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "V4-114-98",
     "agency_id": "1",
     "route_short_name": "4",
@@ -891,6 +918,24 @@
     "route_text_color": "FFFFFF"
   },
   {
+    "route_id": "V4-93-102",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Tarongers - Ernest Lluch - Vicent Andrés Estellés",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-93-114",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Tarongers - Ernest Lluch - Mas del Rosari",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
     "route_id": "V4-94-100",
     "agency_id": "1",
     "route_short_name": "4",
@@ -913,6 +958,15 @@
     "agency_id": "1",
     "route_short_name": "4",
     "route_long_name": "4 - Beteró - La Granja",
+    "route_type": "0",
+    "route_color": "014A99",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "V4-94-114",
+    "agency_id": "1",
+    "route_short_name": "4",
+    "route_long_name": "4 - Beteró - Mas del Rosari",
     "route_type": "0",
     "route_color": "014A99",
     "route_text_color": "FFFFFF"
